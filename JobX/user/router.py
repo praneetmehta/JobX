@@ -61,14 +61,14 @@ def matchResumes():
 	total = 0
 	for resume in top10Resume[:]:
 		try:
-			employeeSummary, employeeSkills, jdSkills, finalScore =  gen.generateSummary('JobX/classificationModel/resumeLabeled/'+session['JD']+'/'+resume, session['jd'], thresh=0.7, addfilePath=False)
+			employeeSummary, employeeSkills, jdSkills, finalScore =  gen.generateSummary('JobX/classificationModel/resumeLabeled/'+('_').join(session['JD'].split(' '))+'/'+resume, session['userJD'], thresh=0.7, addfilePath=False)
 			top10.append([resume, [employeeSummary, employeeSkills, jdSkills, finalScore]])
 			total += 1
 		except:
-			pass
+			pass		
 		if(total == 10):
 			break
-		top10.sort(key=lambda x: x[1][3], reverse=True)
+	top10.sort(key=lambda x: x[1][3], reverse=True)
 	return render_template('matchingResume.html', JDcat = cat, top10=top10)
 
 @user.route('/upload_file', methods=['POST', 'GET'])

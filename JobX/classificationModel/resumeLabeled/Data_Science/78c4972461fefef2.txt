@@ -1,0 +1,117 @@
+-  
+  
+# Data Science Research Intern
+
+## Data Science Research Intern
+
+Chennai, Tamil Nadu
+
+-
+
+## Work Experience
+
+Data Science Research Intern
+
+University of Manchester
+
+-
+
+October 2017 to January 2018
+
+Implemented APIs and services in Java for managing data coming from multiple
+sources for a smart city project. ● . ● Created frontend and data
+visualization dashboard for 2 projects; Smart city project ( I2R Intel, India
+) and Eco  
+Utility ( Intel, Ireland).  
+● Devised an infrastructure deployment service for I2R using Terraform, Docker
+for instant deployment.  
+  
+University of Manchester - Data Science Research Intern Oct 2017 - Jan 2018  
+● Analyzed working of Spiking Neural Network Model of LGN (Lateral Geniculate
+Nucleus); Validated  
+mode-locking behavior of Izhikevich neurons under periodic external forcing. ●
+Project Mentor: Dr. Basabdatta Sen, University of Manchester.
+
+Data Science Research Intern
+
+University of Technology of Troyes
+
+-
+
+June 2017 to September 2017
+
+Researched on novel approaches for improving twitter data collection based on
+hashtag co-occurrences;  
+Implemented an approach in python and validated it using twitter topic
+modelling metrics, PMI and LDA. ● Project Mentor: Prof. Babiga Birregah,
+University of Technology of Troyes, France.
+
+Software Developer Intern
+
+AdWyze
+
+-
+
+June 2016 to July 2016
+
+and deletion of ads.  
+● Integrated Mixpanel and New Relic for monitoring and management of product
+as well as to better user  
+statistics; Also tracked invoices and revenue using Mixpanel.
+
+Data Science Intern
+
+Houseafic
+
+-
+
+January 2016 to February 2016
+
+Assisted DS team at Houseafic with collecting and cleaning data for data
+analysis and visualizations. ● Managed frontend as well as created an
+interactive data visualization dashboard using c3 js.  
+  
+ENTREPRENEUR- SHIP  
+Cambuzz - Co-founder + Backend lead  
+● Open source campus networking platform. First large scale open source
+project from VIT, Chennnai campus;  
+More than 1500 VIT students used it in it's prototype run.  
+● Designed and managed the database; Hosted Cambuzz on AWS to ensure high
+availability; Devised scripts for periodic backup of data.  
+● Led backend team to port backend from vanilla PHP to Laravel to increase
+code modularity.
+
+## Education
+
+Masters in Computer Science in Computer Science
+
+University of Southern California
+
+-
+
+Los Angeles, CA
+
+May 2020
+
+B.Tech in Computer Science
+
+Vellore Institute of Technology
+
+-
+
+Chennai, Tamil Nadu
+
+June 2014 to May 2018
+
+## Skills
+
+C++, DOCKER (Less than 1 year), PHP (Less than 1 year), LARAVEL (Less than 1
+year), JAVA (Less than 1 year)
+
+## Additional Information
+
+SKILLS  
+* Programming Languages Python, PHP, Ruby, C++, Java, HTML/CSS, Javascript, SQL   
+* Frameworks and Tools Laravel, Flask, Django, Ruby on Rails, Angular JS, Git, Docker, AWS,   
+Heroku, OpenCV, Keras (basics), Pytorch (basics), Scikit-learn, Scipy, Pandas.
+

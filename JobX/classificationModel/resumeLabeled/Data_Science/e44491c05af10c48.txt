@@ -1,0 +1,123 @@
+-  
+  
+# Data Science Analyst
+
+## Data Science Analyst
+
+Hyderabad, Telangana
+
+-
+
+✓ An enthusiastic graduate with highly motivated skills having engineering
+degree in Computer Science  
+✓ Trained on Data Science with strong mathematics background having good
+knowledge on predictive modeling, data processing, and data mining to solve
+business problems  
+✓ Good understanding of the software development life cycles and considerable
+talent in achieving critical solutions  
+✓ Good presentation skills and make people understand the concepts  
+✓ Excellent communication skills in written and verbal  
+✓ Ability to work as individual, as well as in a group  
+  
+ANALYTICS EXPOSURE:  
+Scripting Languages: SQL, R, Python  
+Statistical Analysis: Data Analysis/classification, Data Preparation, Model
+Building, Predictive Modeling, Regression techniques and Clustering  
+As part of Analytics learning, worked on below assignments:  
+• Analyzed the diabetic patient's information, and worked on the Supervised
+learning algorithms to find out the root causes for diabetes  
+• Worked on the Iris Species dataset and identified the type of specie using
+clustering algorithm.  
+• Analyzed the housing dataset to predict the cost of the house using
+Regression technique  
+  
+PROJECT DETAILS:  
+Project Title: Mobile apps ranking  
+Technology: Java, SQL  
+Tools: MS - Office  
+Duration: 6 Months  
+Role: Developer  
+Description: Ranking fraud in the mobile App market refers to fraudulent or
+deceptive activities which have a purpose of bumping up the Apps in the
+popularity list. Indeed, it becomes more and more frequent for App developers
+to use shady means, such as inflating their Apps' sales or posting phony App
+ratings, to commit ranking fraud. While the importance of preventing ranking
+fraud has been widely recognized, there is limited understanding and research
+in this area. To this end, in this paper, we provide a holistic view of
+ranking fraud and propose a ranking fraud detection system for mobile Apps.  
+  
+• Participated in SCIENCE EXPO and presented a model in Paper Recycling  
+• Hosted the Cultural Activities in College  
+• Participated in various Sports events in College  
+• Organized various Blood Donation camps at College
+
+## Work Experience
+
+Data Science Analyst
+
+Fresher
+
+-
+
+February 2018 to Present
+
+PROFILE SUMMARY  
+✓ Trained on Data Science with strong mathematics background having good
+knowledge on predictive modeling, data processing, and data mining to solve
+business problems  
+✓ Good understanding of the software development life cycles and considerable
+talent in achieving critical solutions  
+✓ Good presentation skills and make people understand the concepts  
+✓ Excellent communication skills in written and verbal  
+✓ Ability to work as individual, as well as in a group  
+  
+ANALYTICS EXPOSURE:  
+Scripting Languages: SQL, R, Python  
+Statistical Analysis: Data Analysis/classification, Data Preparation, Model
+Building, Predictive Modeling, Regression techniques and Clustering  
+As part of Analytics learning, worked on below assignments:  
+● Analyzed the diabetic patient's information, and worked on the Supervised
+learning algorithms to find out the root causes for diabetes  
+● Worked on the Iris Species dataset and identified the type of specie using
+clustering algorithm.  
+● Analyzed the housing dataset to predict the cost of the house using
+Regression technique  
+● Used bivariate and multivariate data analysis to understand the relationship
+between the variables.
+
+NA
+
+NA
+
+NA
+
+## Education
+
+B.Tech(CSE) in Computer Science And Technology
+
+JNTUA
+
+-
+
+Nellore, Andhra Pradesh
+
+October 2013 to May 2017
+
+## Skills
+
+Datascience with R, Java, Python
+
+## Additional Information
+
+SKILL SET  
+• Windows 10  
+• HTML  
+• SQL, R, Python  
+• MS - Office  
+• Data Science  
+• Software Testing  
+METHODOLOGY  
+• Waterfall  
+• V Model  
+• Agile
+

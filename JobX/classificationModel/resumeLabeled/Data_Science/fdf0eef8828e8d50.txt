@@ -1,0 +1,51 @@
+-  
+  
+# Applied data science
+
+## I can build you machine learning models to find explainable information
+from raw data.
+
+Bengaluru, Karnataka
+
+-
+
+## Work Experience
+
+Applied data science
+
+Various
+
+Implemented CRISP-DM approach for data science projects.  
+My projects include building supervised and unsupervised based machine
+learning models to solve data challenges.  
+The domains i have worked on are Customer Analytics, Healthcare, Global trade,
+and Real estate.  
+Used R, Python, and Tableau for over a year.  
+You can see my work here: https://github.com/vishalv91
+
+Biomedical Engineer (Associate)
+
+HCL Technologies
+
+-
+
+October 2015 to December 2016
+
+Documentation of failure modes and risks involving medical devices.
+
+## Education
+
+Data Science
+
+IMS Proschool Pvt. Ltd.
+
+## Skills
+
+data visualization, Machine learning, Python, data cleaning, applied
+statistics, Data Analysis, data science, model building, R programming,
+tableau
+
+## Additional Information
+
+linkedin: https://www.linkedin.com/in/vishalv91/
+

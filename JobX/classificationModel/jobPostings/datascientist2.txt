@@ -1,42 +1,23 @@
-Associate, Strategic Finance - North Asia
-Uber 477 reviews - Gurgaon, Haryana
-Desired Experience: Visual Basic, OOP, Service-Oriented Architecture
-About Uber
+6+ years of relevant experience
+Effective communication, presentation and interpersonal skills; demonstrated ability to work both independently and in a team environment
+Expert in using query language SQL. Experience in Hive, Pig etc. are desired.
+Experience in analyzing very large, complex, multi-dimensional data sets using R. Additionally, experience in Python, SAS, MATLAB etc. is preferred.
+Extensive experience in a couple of the following - Predictive Modeling (development, validation and monitoring) Forecasting, Classification techniques, Operations Research methods, Bayesian Models, Neural Networks etc.
+Good understanding of machine learning techniques and algorithms
+Experience in natural languages processing / text mining is preferred
+Exposure to Data Visualization Tools and experience in creating smart dashboards is preferred
+Proficient and knowledgeable in all areas related to the IT department functions
+Education:UG -B.Sc - Any Specialization, Statistics
+PG - MS/M.Sc(Science) - Statistics, Maths
+Doctorate - Doctorate Not Required
 
-We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
-
-For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
-
-And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
-Uber's Strategic Finance team has the unique position to have visibility into the entire organization, and this will allow you to reach insights others might not make. Combining financial and operational data helps us to prioritize initiatives and reach conclusions. We are assembling a data analysis team to help us harness the increasingly massive amounts of data we have. Help us own key metrics and analysis that underpin billion dollar decisions. So if you're ready to dive into a rewarding set of challenges and you've got excellent financial skills, experience, passion, and team mentality - read on and get in touch! You will excel in this job if you have entrepreneurial spirit, tenacity, and can handle multiple goals at once.
-
-Strategic Finance team plays the role of finance business partner and advisor to North Asia operations. The team is responsible to work closely with cross functional teams to support them with financial planning, tracking key financial metrics and driving efficiency. The strategic finance team also acts as interface between India business and various finance central finance functions such as accounting, treasury and FinOps. Key areas of focus include following
-
-    Budgeting - Annual and semi-annual planning by city and product lines and being custodian of budget
-    Financial reporting- Tracking financial performance of business on weekly and monthly basis by P&L Line item. Owning the P&L and keeping stakeholders updated on actual performance against budget. It also involves keeping global finance team up to date on market dynamics and Uber’s business in the region
-    Strategic partnership - Providing financial insights to business leaders and working with them to drive efficiency and RoI on investments
-    Compliances - Ensuring compliance to various financial policies
-
-
-What you'll do
-
-    Create platform(s) and tools for other strategic finance members to leverage. Think object oriented programming and service oriented architecture.
-    Continually improve and automate our methods for parsing data and incorporating it into real-time models, analysis, and actions.
-    Make management reporting more actionable and real time. Actionable requires better data, calculations or visualizations/presentations. Real time requires developing scalable processes that help deliver more frequent data.
-    Create best practices of marrying financial and operational data. Data sources include Excel and Google spreadsheets, SQL, internal forecasting and planning tools.
-    Create integrations and ETLs as necessary. This role is about more than piping data into one database but the data needs to all be in one place to best analyze it.
-    Create dashboards and visualizations of complex data sets and calculations.
-
-
-What you'll need
-
-    Bachelor's and/or Masters Degree in Economics, Math, Computer Science, Statistics, Management Science or other quantitative field.
-    At least 5 years of experience in a quantitative or analytical role, preferably within tech, consulting, or finance.
-    Significant SQL and VBA experience required
-    Excel fluency - you may have moved on from spreadsheets as your primary tool for data analysis but in this role you'll need to interface with people whose primary tools are Excel.
-    Balanced attention to detail with swift execution - we need to do things quickly, and we need to do them well. Balancing those can be challenging, and this should be a strength
-    Analytical mindset - you get excited about deciphering huge data sets and cutting through irrelevant distractions to get to the heart of core data questions
-    Humble & resourceful - you're willing to take on lower-level projects when it will clear roadblocks
-    Team player - this is a highly collaborative and supportive team environment
-    Self-starter - You will take initiative, be proactive, set and follow through on goals
-    Excellent communication and people skills - numbers are key, but a business is built with people. Relationship building and adept communication are assets in our fast-moving environment
+ Python Developer (odoo erp)
+TECHNICAL PROFICIENCY 
+? Languages: C, C++, JAVA, Python ? Skills: Machine Learnin
+- Python framework (Django, Flask or Pyramid)
+- JavaScript/HTML5/CSS3
+- SASS and LESS
+- ReactJs, AngularJS , NodeJS
+- object-relational mapping
+- Write effective, scalable code
+- Good problem-solving skills

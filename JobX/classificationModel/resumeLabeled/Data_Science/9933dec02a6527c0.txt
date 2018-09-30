@@ -1,0 +1,630 @@
+-  
+  
+# Data Analytics Engineer, GTS Labs-Data Science & Engineering
+
+## Data Analyst in IBM BAS - IBM India Pvt. Ltd
+
+Bangalore, Karnataka
+
+-
+
+Presently working as Data Analyst, Requirement Architect and BAS (Business
+Analytics Service) Architect at IBM. Designing, Developing and Delivering BAS
+(Business Analytics Services) solutions by Report Automation includes
+Visualizations, Real-Time Anytime Anywhere reporting, Interactive, Dashboard
+and Custom reports to 205+ global client's insights to grow their revenue,
+increase operational efficiency and reduce operational cost. 2+ Analytics
+experience, more than 10+ year of BI experience and total 16+ years of IT
+experience with cross industries experience.  
+  
+Trainings & Certifications  
+• Managing Data Analysis: course authorized by  
+Johns Hopkins University and offered through Coursera  
+• "Watson Ambassador Program" from IBM  
+• "Twitter Consultants 100" from IBM  
+• "BI Method and BAO Method Framework" from IBM  
+• "Analytics: Real-world use of Big Data in Telecommunication" from IBM  
+• "Big Data Bootcamp - 3.2 - IBM Big Data Platform (Big Insights Streams &
+Data Explorer) from IBM  
+• "BI Method and BAO Method Framework" from IBM
+
+## Work Experience
+
+Data Analytics Engineer, GTS Labs-Data Science & Engineering
+
+IBM India Pvt. Ltd
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+October 2012 to Present
+
+Presently working as Data Analytics Engineer, GTS Labs-Data Science &
+Engineering, IBM Bangalore. Designing, Developing and Delivering BAS (Business
+Analytics Services) solutions by Report Automation includes Visualizations,
+Real-Time Anytime Anywhere reporting, Interactive, Dashboard and Custom
+reports to global client's insights to grow their revenue, increase
+operational efficiency and reduce operational cost. Got 4+ Analytics
+experience, more than 10+ year of BI experience and total 17+ years of IT
+experience with cross industries experience.  
+  
+SKILLS:  
+• R, Python, Spider, Anaconda, Tableau, Shiny, RapidMiner, Cognos, Watson
+Analytics, Digital Marketing  
+• Prediction models ARIMA, Linear Regression, Classification models K-Means
+clustering, Text Mining, Sentiment Analysis, Data & Correlation Analysis.
+Model Diagnostics.  
+• BI, ETL, SQL, Abinitio, Stored Procedures, Teradata, DB2 .Net, VB etc.  
+• Designing Analytics and BI Solutions, Delivery Management, Innovative,
+Mentoring  
+• Writing R & Python code to build predictive models using ARIMA, Linear
+Regression and Text Mining for business problems. And building effective
+Tableau/ Watson Analytics dashboards for client’s insights.  
+• Working on new Analytics capabilities to solve the various client’s critical
+business problems like penalty reduction and improve the IT Operations.  
+• Got experience in Finance, Telecom, Automotive and Electronic Industries.  
+• Building Advanced Analytics team by conducting statistics basics and model
+building using R, RapidMiner, python, XL  
+• SME for reviewing Analytics/BI applications  
+• Mentoring to internal and external IT professionals  
+• Helping organization by optimizing the process and technical deliverables.  
+• Innovative- patent and ideas submission, creating and presenting posters and
+Abstracts.  
+• Bagged many Customer-Orientation and Results-Orientation awards from Global
+customers.
+
+Individual Contributor
+
+Intel Technology India Pvt Ltd
+
+-
+
+Bangalore, Karnataka
+
+-
+
+March 2004 to October 2012
+
+Roles and Responsibility  
+• Primary responsibilities include Architect, design, development and testing
+of EDW (Enterprise Data Warehouse) and ECM/EKM/EDM Enterprise
+Content/Knowledge/Document Management with EAI and Scanning solutions.  
+• Responsible for Design, Development, Deployment and providing the post
+stabilization support.  
+• Responsible for designing the end-to-end EDW/ETL and BI solutions with
+Architectures (As-Is and To-Be with data flow diagrams) and data models for
+this project.  
+BI, ETL, SQL Abinitio, Stored Procedures TD, DB2, .Net, VB etc.  
+  
+Programs/Projects/Products  
+IBM India Pvt Ltd, Bangalore  
+Designing and developing Analytical dashboards, critical operational reports,
+service level reports, Custom reports, Customer Satisfaction survey reports,
+Incident Aging reports, availably report, Call and Chat reports for below
+listed clients.  
+  
+BNSF Railway: One of the largest freight railroad networks in North America,
+second to the Union Pacific Railroad (UP) and top transporters of intermodal
+freight in North America. It also hauls bulk cargo.  
+Software used: R, Tableau, Watson Analytics, Cognos, SQL, IBM Data Stage and
+DB2  
+  
+ACE Insurance/CHUBB: A global provider of insurance products covering property
+and casualty, accident and health, reinsurance, and life insurance, ACE
+operates in 54 countries.  
+Software used: R, Tableau, Watson Analytics, Cognos, SQL, DB2  
+  
+AES Corporation: The AES Corporation is a global power company that owns and
+operates a diverse and growing portfolio of electricity generation and
+distribution businesses, which provide reliable, affordable energy to
+customers in 21 countries.  
+Software used: Tableau, Watson Analytics, Cognos, SQL, DB2  
+  
+Thomson Reuters: Thomson Reuters is an information company created by the
+Thomson Corporation's purchase of Reuters on 17 Apr 2008.  
+Software used: R, Tableau, Watson Analytics, Cognos, SQL, DB2  
+  
+Designed and Developed Analytical solutions for Vodafone UK (Telecom
+Industry):  
+P&P (Permissions and Preferences): The integration of Permissions and
+Preference data into BI/EDW and same data will be used for marketing and
+campaigning purpose.  
+1DQ (Data Quality): Analysis of production DQ issues and fixing them with
+proper RCA for avoiding the impact on the revenue.  
+Retail-MIS: Enabling multichannel data for customer sales journeys data for
+reporting, performance analysis and analytics.  
+Software used for above projects: Ab Initio's new capability Metadata Driven
+Warehouse Platform (MDWP) .Ab initio 3.1.6.7, ACE and BRE with MDWP and
+Metadata Hub, Data Catalog and Teradata.  
+  
+Designed and Developed BI solutions for Honda Europe (Automotive Industry):  
+1) DOC (Daily Operation Control): It's is a reporting application for DOC KPI,
+data will collected from various sources and process through PLCC hub and load
+the KPI data into its staging data base for reporting purpose.  
+2) MyHonda: It's a web based tool for customers to login and add/modify their
+information. My Honda website will be fed by data coming from CRM and PLCC
+hub. Ab Initio graphs will process the data and load into its respective MQ.  
+3) PLCC (Prospect to Loyal Customer Care): PLCC is dynamic CRM platform for
+dealers to manage after sales and service activities of their customers. PLCC
+hub receives data from various upstream applications and process through
+continuous and batch process by Ab Initio and makes data available into
+respective downstream application's staging area or MQs for reporting and
+analysis purpose.  
+Software used for the above projects: Ab initio 3.1.4.1 with Continuous Flow,
+XSD Schema, XML, DB2, PQ EDIT, QMF  
+  
+As a Delivery Manager delivered and managed Vodafone's BI/DWH, RAID and FMS
+domain Application Development (AD) projects and providing the great support
+to Application Maintenance (AM) for Vodafone Portugal by closely and
+consistent AD projects tracking, effective risk management, Capacity and
+Demand plan, Cost tracking, Effort tracking, Metrics submission for
+management/business reporting, sticking to quality processes for regular
+audits, tracking the quality gates, Pareto analysis, 5 why techniques,
+projects health and hygiene reports, backlog incident tracking, trend analysis
+and AMO reports. Employee Self-assessment, skill assessment and training plan,
+constant feedbacks and mentoring, knowledge sharing and involving in
+innovations. Rollup the updates to upper management periodically, On boarding,
+off boarding, assigning mentors, KT plan tracking, motivating, Knowledge
+sharing, driving innovations, ILC claim tracking.  
+  
+Intel Technologies Ltd, Bangalore  
+IPS 2.0 Reporting (Intel Premier Support): The full issue management
+capability will be delivered to migrate most QuAD users (excluding SSG) . It
+will also be the launching point to build out Intel's issue management toward
+a world class capability and increase adoption outside of QuAD users. Pre-
+Sales Issues, primarily focused on design in, but also includes design in and
+other types of pre-sales support. The project pulls data from SAP BI to EDW
+and the reporting is done using MSTR.  
+Software used: Ab initio, Teradata, Data Catalog, SQL, Kintana, TFS, WinSCP,
+Putty, WinGrep, SAP Solution Manger, EEMM, eMeta and Autosys.  
+POC on Conversion of Complex Teradata Stored Procedure to Ab Initio Graphs:  
+Software used: Ab initio, Teradata, Data Catalog, SQL, Kintana, TFS, WinSCP,
+Putty, WinGrep, SAP Solution Manger, EEMM, eMeta and Autosys.  
+ICFF (Indexed Compressed Flat File): As a part of above and beyond, I have
+taken up FE (Forward Engineering) effort work and completed ICFF to manage big
+data files in Intel which helps the ETL developers use the templates or graphs
+in their assigned projects.  
+Software used: Ab initio, Teradata, WinSCP and Putty.  
+IMR2.2: Enhancement of IMR2.0 features and adding new capabilities. (IMR2.0:
+IMReporting is an enterprise reporting solution which integrates SAP, non-SAP,
+External Data, and Master data. The project is to move EIM data from SAP to
+EDW and report out as Microstrategy)  
+Software used: Ab initio, Teradata, Data Catalog, SQL, Kintana, TFS, WinSCP,
+Putty, WinGrep, SAP Solution Manger, EEMM, eMeta and Autosys.  
+E-Customs: Implemented Electronic Customs (e-Customs) solutions in Vietnam in
+2010 piloting imports with Schenker and exports with DGF. Now proliferating
+imports to DGF and exports to Schenker and optimizing internal systems (MWS,
+EDW, and MSTR)  
+Software used: Ab initio, Teradata, SQL, Kintana, QC, TFS, WinSCP, Putty,
+WinGrep, SAP Solution Manger, EEMM, eMeta and Autosys.  
+Shipment Visibility: House Airway bill (HAWB) and Bill of Lading (BOL) data is
+flowing from TNT (Track and Trace) to EDW. However Master Airway Bill (MAWB)
+is still there in TNT and not in EDW. The business requirement is to get the
+MAWB data from TNT to EDW so that we can have a better visibility to the Intel
+shipments.  
+Software used: Ab initio, Teradata, Data Catalog, SQL, Kintana, TFS, WinSCP,
+Putty, WinGrep, SAP Solution Manger, EEMM, eMeta and Autosys.  
+SMCCS: Accommodating flow of Non US site's (Ireland, Malaysia, China, Israel,
+Vietnam and Costa Rica) shipment memo data from SAP ECC/GTS along with
+existing US shipment memo data into EDW for ASM (Automated shipping memo)
+Reporting.  
+Software used: Ab initio, Teradata, SQL, Kintana, TFS, WinSCP, Putty, WinGrep,
+SAP Solution Manger, EEMM, eMeta and Autosys.  
+SAP Replatform (Program): Encompasses all of Direct Materials, Master
+Production Scheduling, data management, planning, execution, and book-keeping
+activities with Supply Chain Management, and financial transaction functions
+including the integration with SAP and non-SAP systems. Transition all E-Pipe
+processes off legacy mySAP to a new SAP ERP Central Component (ECC) and Supply
+Chain Management (SCM) system.  
+Software used: Ab initio, Teradata, SQL, Kintana, TFS, WinSCP, Putty, WinGrep,
+SAP Solution Manger, EEMM, eMeta and Autosys.  
+NMDB: ASN (Advance Shipping Notification) Data from EDW maps all of Intel's
+Freight invoices back to our Supply Networks in order to do allocation and
+bill back.  
+Software used: Ab initio, SQL Server, Teradata, SQL, Kintana, TFS, WinSCP,
+Putty, WinGrep, SAP Solution Manger, EEMM, eMeta and Autosys.  
+Inventory_ENT Architecture: Optimize the Inventory_NBP subject area with ENT
+approach for Replatform alignment with EIL. All the Legacy and new NBP SAP BI
+data gets landed in one container which is ENT layer. From the ENT layer data
+gets consumed by the business views.  
+Software used: Ab initio, Teradata, SQL, Kintana, TFS, WinSCP, Putty, WinGrep,
+SAP Solution Manger, EEMM, eMeta and Autosys.  
+WFDS (Work Flow Data Staging): An integrated database that supports the data
+needs of our supply planning solvers (e.g., Outside Factory Guidelines (OFG),
+Inside Factory Guidelines (IFG), and Assembly Test Production Scheduling
+(ATPS), as well as downstream consumers. Mentoring the ETL developers for
+developing L1 load using new AI RFW3.0 frame work.  
+Software used: Ab initio, Teradata, SQL, Kintana, TFS, WinSCP, Putty, WinGrep,
+SAP Solution Manger, EEMM, eMeta and Autosys.  
+E-Pipe Assembly/Test (A/T): Transitions current SAP R/3 processes from when
+materials' planning receives the consolidated demand signal from a production
+planning organization and ends after raw materials and components are directly
+consumed in the production of Intel's products to SAP ERP Central Component
+(ECC) and for downstream reporting.  
+Software used: Ab initio, Teradata, SQL, Kintana, TFS, WinSCP, Putty, WinGrep,
+SAP Solution Manger, EEMM, eMeta and Autosys.  
+E-Pipe Global Platform Solutions (GPS): Transitions the current manufacturing
+planning systems from SAP R/3 Flex Planning to SAP Supply Chain Management
+(SCM) and the current manufacturing execution systems from SAP R/3 to SAP ERP
+Central Component (ECC) . Establish a standardized and scalable master
+production planning capability for business units that use outsourced
+manufacturing and eventually for Downstream reporting.  
+Software used: Ab initio, Teradata, SQL, Kintana, TFS, WinSCP, Putty, WinGrep,
+SAP Solution Manger, EEMM, eMeta and Autosys.  
+ART (Account Reconciliation Tool): Develop ETL business objects for ART1
+project were the vendor product Trintech will use extracted files from EDW
+environment for Account Reconciliation and reporting purpose.  
+Software used: Teradata, SQL, Kintana, TFS, WinSCP, Putty, WinGrep, SAP
+Solution Manger, EEMM, eMeta and Autosys.  
+  
+SAP P2P (Purchase to Pay) (Program): Deliver Intel an end-to-end SAP purchase-
+to-payment capability including reporting to support Intel's Indirect
+Materials (IDM) operations and DRC (Data & Reporting Continuity)  
+Software used: Teradata, SQL, Kintana, TFS, WinSCP, Putty, WinGrep, SAP
+Solution Manger, EEMM, eMeta and Autosys.  
+  
+IION EDW Data Conversion Phase-3: Bringing in all the IION Classic OLTP data
+(L1) into EDW were AS-IS data platform is set in EDW which can now be expanded
+for developing the reporting related layers in future and also includes the
+EDW changes pertaining to PMC 1.3 BI reporting and JMP EOL too.  
+Software used: Teradata, SQL, Kintana, TFS, WinSCP, Putty, WinGrep, SAP
+Solution Manger, EEMM, eMeta and Autosys.  
+  
+FDMS (Program): Global FDMS (Financial Document Management System) is a life-
+size program, A 'OGA (One Generation Ahead) ' world class business document
+management process, Tier one Business critical application and integrated
+imaging system for the storage and retrieval of all paper based financial and
+statutory documents to help Intel's various departments like AP (Accounts
+Payable), GTT (Global Tax and Trading), ES Employee Services etc, In this
+program and its various releases I solely did the current systems and vendor
+products study, Business Requirement Analysis, Designing Architectures with
+Business and logical flow, Development, customizing vendor products and
+testing along with supporting program and its projects with vendor products
+like Mobius and Dicom's Ascent Capture software.  
+Used across Intel to archive and manage massive volumes of documents, It is a
+document archival and retrieval application used to provide documentary
+evidence to tax authorities, regulatory agencies etc. It ensures Intel's legal
+and regulatory compliance.  
+Proliferation of FDMS 25 Scan source sites, Geo vise Consolidation scan source
+sites and processing sites under AHS environment and under distributed
+Architecture. Conducting TAC L1 cross geo training for support team.  
+  
+MARK: Marketing Automated Rational Knowledgebase, this tool allows SMG (sales
+and Marketing Group) users get product information any where any time using
+smart devices.  
+  
+Software used for above program and project: EA, Visio, UML2.0, MPP, VS .NET,
+C#, ASP.NET, VB6.0, XML, SQL Server 2000, DTS Packages Stored procedures,
+views, IIS 5.0, XML, HTML, DHTML, JavaScript.  
+Platform: Windows XP, Windows 2000.  
+Vendor products: Imaging Solution: Ascent Capture 6.0, 7.5 from Dicom/Kofax  
+Archive, Search and View: Visual Direct for Networks from Mobius  
+PDF Compressor: Cvista2.1 from Cvision technology  
+Scheduler: Autosys 4.2 from Paragon Global Technology  
+  
+EDDAR (Program): eDDAR (electronic Data and Document Archive and Retrieval) is
+a platform for enterprise document and data management systems. eDDAR is used
+to build a flexible, scalable, reliable infrastructure to meet document and
+data requirements, archive and retrieval needs of Intel's heterogeneous
+systems and operating units as well.  
+There are three major customer groups that rely on eDDAR to run their day-to-
+day operations: AR (Accounts Receivable), AP (Accounts Payable), HR/Benefits
+(Human Resources/Benefits)  
+There are several major customer that count on eDDAR to store reports in a
+timely manner at month-end: Finance Close and Reporting, AA (Asset
+Accounting), IC (Inter-company Accounting), Ops Finance FBI, RosettaNet
+Automated Enablement (RAE) program's XML AP invoice, ETS Document Archive
+Solution and FDMS Site Propagation for Israel AP, eDDAR/IML and FDMS
+Production Support, Security SOX compliance project, Gateway Server Hi-Av
+Reconfiguration, eDDAR / ILM and FDMS Architectures Design (Documentation of
+eDDAR architecture with Biz and logical flow diagram with all the upstream and
+downstream interfaces), Test cases for eDDAR post upgrade / infrastructure
+change / security patch, Solely Re Architected eDDAR platform and its programs
+and Projects for Operational excellence.  
+IT Alignment: Engage and adopt CMMI processes, Define and communicate
+Operating Model.  
+KTBR/KTBE Projects: FDMS Disk Cleanup, Ireland KTBE Project, HSM Replacement,
+Win2K3 upgrade, SQL 2005 Migration, Redesign of Infopac/EDS web Site.  
+Customer projects: AP XML Invoice Archive, ETS Phase II Archival, AP eDoc
+upload, SAP data/document, archival Historical TAX data archival  
+New Capability Projects: e-mail archiving POC, Enterprise email archiving, Web
+content archive and retrieval, Share point archive solution, Documentam
+Archival.  
+EOL Projects: ATM Tape EOL, IWAS EOL, MF EOL.  
+  
+Software used: EA, Visio, UML2.0, MPP, VS .NET, C#, ASP.NET, VB6.0, XML, SQL
+Server 2000, DTS Packages Stored procedures, views, IIS 5.0, XML, HTML, DHTML,
+JavaScript.  
+Platform: Windows XP, Windows 2000.  
+Vendor products: Imaging Solution: Ascent Capture 6.0 from Dicom/Kofax  
+Archive, Search and View: Visual Direct for Networks from Mobius  
+PDF Compressor: Cvista2.1 from Cvision technology  
+Scheduler: Autosys 4.2 from Paragon Global Technology  
+  
+Control4 Engineering Technologies Pvt Ltd.  
+Device Drivers for Home Automation:  
+Home automation an attractive, practical, and useful option for any home by
+combining innovative new technology, this automation and networking on a new
+breed of home automation solutions that are affordable, non-invasive, easy to
+install in either new or existing homes, and designed to adapt flawlessly to
+any lifestyle using new Technologies like WiFi/Zigbee etc on .NET environment,
+these Proxy and protocol drivers for devices like Controller and Global cache.
+Designer software for navigator or Touch panel
+
+Individual contributor
+
+Cyberscape Multimedia Limited
+
+-
+
+Bangalore, Karnataka
+
+-
+
+January 2004 to March 2004
+
+Duration: from Jan 2004 to Mar 2004  
+Client: US  
+Role: Individual contributor.  
+Software used: VS .NET, VC++, C#, ASP.NET, XML, SQL Server 2000, IIS 5.0, XML,
+HTML, DHTML, JavaScript.  
+Platform: Windows XP, Windows 2000.  
+  
+Cyberscape Multimedia Limited Bangalore:  
+1\. CyKnit Knowledge Management Portal .NET: CyKnit is a Knowledge Integration
+Tools that can be used to create a digital working environment that integrates
+tacit and explicit knowledge resources. CyKnit provides tools for knowledge
+categorization and Resource management using International Standard Dublin
+Core metadata elements and taxonomies. CyKNIT major modules are Manage,
+collaboration, discussion forums, Search and ask the expert. Document
+management, content management, Rating and Reward system for Internal and
+External Experts, Document Locking, version control, Personalization and
+advance searching and extraction facilities for zero in on the required
+document by using powerful search tools & retrieve it instantly.
+E-Orientation, poll, Scheduler and cyKINT user guide are the part of portal.
+CyKNIT provides two types of Security levels, user level and document level
+security. To build, modify and delete of Taxonomy and Metadata privilege has
+provided to Admin user only.  
+Software used: ASP.NET, C#, SQL Server 2000, IIS 5.0, XML, HTML, DHTML,
+JavaScript.  
+Platform: Windows 2000
+
+Team lead
+
+-
+
+July 2002 to September 2002
+
+Responsible for design system architecture and database design. Developing and
+integrating the modules. User level and technical Documentation, Functional
+testing and making exe and setup then Implementation of a product on different
+windows machines  
+Duration: July 2002 to Sep 2002  
+Platform: Windows 98/NT/2000  
+4\. CyDocs Product: Client Server Document management System which is similar
+to the above mentioned project CyDOC Manager.  
+Software used: VB6.0 With SQL Server, Fastlookviewer.
+
+Team member
+
+Haldirams Bombay
+
+-
+
+Mumbai, Maharashtra
+
+-
+
+June 2002 to July 2002
+
+Naltech Private Limited, Bangalore  
+1\. Design Optimization support for Optimization program of Aircraft Strength
+Research Institute ASRI, China  
+Based on interaction with the ASRI china, Developed database driven WebPages
+to the ASRI for optimization tools. The web application holds typical
+aeronautical components design details in database.  
+Software used: ASP, IIS, Visual InterDev6.0, SQL, Server7.0, HTML, JavaScript,
+VBscript
+
+Team member
+
+NTU Singapore
+
+-
+
+July 2001 to June 2002
+
+months  
+Clients: One of the major users of the product includes NTU Singapore. At this
+University hundreds of students are benefiting from this system by the
+knowledge sharing culture. NEC, Singapore and ALS Malaysia also tied up with
+our company to provide KM solutions.  
+  
+3\. CyDOC Manager Product: CyDOC Manager Document management System designed
+to store, retrieve, view and manipulate a wide range of documents created in
+various formats. CyDOC Manager allows users to track, control and distribute
+documents in a network environment. The system contains  
+Modules for image scanning, OCR, Image manipulation, document management,
+drawing management, workflow, version control, Document Locking, Annotations
+and Redlining, hyper linking and text retrieval. CyDOC Manager provides two
+types of Security levels, user level and document level security.
+Metadata/Docinfo level and Taxonomy/Folder level build, modify and delete
+privilege given to Admin user only.  
+Software used: VB6.0 With MS Access, TX Words V1.03, Fastlookviewer, TX Woods
+Text Control and Setup specialist.etc
+
+Team member
+
+Wheel & Axle
+
+-
+
+March 2001 to July 2001
+
+5.CySHOP Shopping cart: CySHOP has been designed for any kind of Internet
+shopping; it has every major feature you would expect for an e-commerce
+solution and some unique features that can make your shop easier to implement.
+Database is used to store product information, customer information and
+orders. Reports facility has been incorporated in the software.  
+Role: Coding  
+Software used: ASP, IIS, Visual InterDev6.0, SQL Server7.0, VB6.0,  
+HTML, JavaScript, and vbscript.
+
+Team lead
+
+Structures Division
+
+-
+
+Bangalore, Karnataka
+
+-
+
+November 2000 to February 2001
+
+Developed Intranet/Intranet Data base driven Web pages for Structures
+Division, classified in to nine sections are about us, divisional profile,
+projects, contact us, computing facility, staff, Heritage, publications,
+events, miscellaneous. Every section gives details of their related
+information of division by retrieving data from the  
+Database with security.  
+Software used: ASP, IIS, Visual InterDev6.0, SQL, Server7.0, HTML, JavaScript,
+vbscript
+
+Team lead
+
+Structures Division
+
+-
+
+Bangalore, Karnataka
+
+-
+
+May 2000 to November 2000
+
+Developed Database project for to maintain & update RN Center's R & D
+activities scientific & Industrial Software packages, Operating Systems,
+Computer Systems and Hardware History, Computing Facility  
+Software Packages, Operating Systems, Staff and Latest Developments Software
+used: VB5 with and Oracle 8.
+
+Team member
+
+-
+
+March 2000 to May 2000
+
+Sandy Infosoft Technologies:  
+1\. Ratna Art Gallery: This art gallery is database driven web pages are
+developed and designed very pleasing paintings and animated gif files,
+visitors will get detailed information about Art gallery and see the samples
+of Antiques, period furniture, paintings, sculptures etc. some of the pages
+are taken care by admin privilege.  
+Software used: ASP, IIS, Visual Dev6.0, SQLServer7.0, HTML, JavaScript and
+Adobe Photoshop.
+
+Team member
+
+KREC-SCIENCE & TECHNOLOGY ENTER PRENUR'S PARK. Interactive
+
+-
+
+August 1999 to January 2000
+
+2\. Data communication & Internet Tutor E-learning: This software helps
+trainees to take-up a parts of whole training program in KREC-SCIENCE &
+TECHNOLOGY ENTER PRENUR'S PARK. Interactive questions and answering for each
+topic's of Data communication & Internet C and UNIX tutor and java tutorials
+and KREC- SCIENCE & TECHNOLOGY ENTERPRENUR'S PARK program schedule.  
+Software used: JSP, Java Servlets, XML, HTML, JavaScript, with Oracle8i, HTML
+and JavaScript
+
+Team member
+
+-
+
+February 1999 to July 1999
+
+3\. Developed client side web pages for Health care and financial Company's
+web pages, designed and developed.  
+Software used: HTML, JavaScript, vbscript
+
+Team member
+
+-
+
+September 1998 to January 1999
+
+BE Academic Project: " Bank Automation": This software was designed for VYSA
+Bank, adopted all standing rules and regulation of the Bank with security.
+Transactions will be taken with all type accounts in the Bank. Maintained all
+the tables, transactions, cheques, history, foreign exchange, interest
+calculations etc.  
+Software used: Developer/2000, SQL / PLSQL with ORACLE 7.x.
+
+## Education
+
+MBA in Business Analytics
+
+Sunstone Business School
+
+2016
+
+BE in Computer Science Engg
+
+Gulbarga University Gulbarga
+
+-
+
+Gulbarga, Karnataka
+
+1998
+
+SSLC in Electrical
+
+Govt Polytechnic Gulbarga
+
+-
+
+Gulbarga, Karnataka
+
+1993
+
+Delivery Management
+
+Govt Junior Technical School Gulbarga
+
+-
+
+Gulbarga, Karnataka
+
+1990
+
+## Links
+
+[https://in.linkedin.com/in/sanjay-
+gilki-a03b627](https://www.indeed.com/url?q=https%3A%2F%2Fin.linkedin.com%2Fin%2Fsanjay-
+gilki-a03b627&h=f9f7c2de)
+
+## Additional Information
+
+Areas of Expertise  
+• Building ARIMA and Linear Regression models for business analytics problems.  
+• Working on new Analytics POCs solve the client's problems.  
+• Designing and developing visualizations using Tableau and Watson Analytics
+for client's insights  
+• Linear Regression and clustering technique  
+• Building Advanced Analytics team by conducting statistics basics and model
+building using R, RapidMiner, python, XL  
+• SME for reviewing Analytics/BI applications  
+• Mentor to internal and external IT professionals  
+• Helping organization by optimizing the process and technical deliverables.  
+• Innovative- patent and ideas submission, creating and presenting posters and
+Abstracts.  
+• Bagged many Customer-Orientation and Results-Orientation awards from Global
+customers.
+

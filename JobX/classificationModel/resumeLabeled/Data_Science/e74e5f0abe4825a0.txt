@@ -1,0 +1,70 @@
+-  
+  
+# Data Science Trainee
+
+## Data Scientist
+
+Delhi
+
+-
+
+## Work Experience
+
+Data Science Trainee
+
+Algo8
+
+-
+
+Delhi, Delhi
+
+-
+
+August 2018 to Present
+
+Associate Engineer
+
+Gartner
+
+-
+
+July 2017 to March 2018
+
+• As an Associate Engineer, worked on designed and development of Gartner’s
+Survey Platform.  
+• Worked closely with a functional team of Technical Leads, Business Analysts
+and Testers to understand the business requirements and enhance the existing
+system and also in the maintenance of the same.  
+• Worked with a team to automate certain key aspects of interaction between
+the Tool and Database.
+
+SYSTEM ENGINEER
+
+Infosys
+
+-
+
+September 2015 to June 2017
+
+• Worked with a team on migrating the entire reporting platform from SQLPlex
+to Oracle.  
+• Developed and test the packages into various environment.  
+• Deployed 5 modules into production using Agile Methodology.
+
+## Education
+
+B. Tech in Computer Science
+
+Jaypee Institute of Information Technology
+
+-
+
+Noida, Uttar Pradesh
+
+May 2015
+
+## Skills
+
+Sql, Bootstrap, Pl/Sql, Python, Hadoop, Machine Learning, Statistics, Deep
+Learning
+

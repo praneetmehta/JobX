@@ -1,0 +1,93 @@
+-  
+  
+# Data Science Engineering student
+
+## Data Science Engineering student
+
+Mumbai, Maharashtra
+
+-
+
+Providing data-driven, action-oriented solutions to challenging business
+problems. Business-  
+minded data scientist with an ability to deliver valuable insights via data
+analytics and advanced  
+data-driven models.
+
+## Work Experience
+
+Data Science Engineering student
+
+Full Stack Data Science Engineering
+
+-
+
+October 2017 to July 2018
+
+at GreyAtom, I've studied the methodological and mathematical  
+foundations of data science and machine learning, as well as practical, hands-
+on skills. Classwork ranged from in-class projects and Kaggle competitions, to
+personal projects focused on real-world applications of data science
+principles and best practices.  
+  
+• Attended full time, 14-week Full Stack data science Immersive course  
+• Learned Python libraries sklearn, pandas, pyspark, BeautifulSoup, scrapy,
+seaborn matplotlib  
+• Developed expertise in predictive modeling, supervised and unsupervised
+machine learning,  
+natural language processing, data visualization and web scraping.  
+• Build projects on real data sets
+
+Fresher
+
+## Education
+
+Bachelor of Electronics Engineering
+
+Mumbai University
+
+## Skills
+
+Machine Learning, Python, Data Science, Data Analysis, Data Structure
+
+## Links
+
+[https://github.com/shahvatsal](https://www.indeed.com/url?q=https%3A%2F%2Fgithub.com%2Fshahvatsal&h=8081e859)
+
+[https://www.linkedin.com/in/vatsal-
+shah-4830b9147](https://www.indeed.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvatsal-
+shah-4830b9147&h=44729771)
+
+## Certifications/Licenses
+
+Full Stack Data Science Engineering
+
+October 2017 to July 2018
+
+## Additional Information
+
+Skills  
+Programming language & Tools Python, Git, GitHub, MS Excel  
+Python NumPy, Pandas, Matplotlib, Scikit-learn  
+Concepts Regression, Decision Tree, Random Forest, NLP, Time Series  
+  
+Certifications & MOOC's  
+Full Stack Data Science Engineering, GreyAtom - 2018  
+Currently pursuing full-stack DataScience Engineering course which covers
+Machine learning algorithms  
+along with their deployment on cloud platforms.  
+  
+NLP with Python for Machine Learning - 2018  
+Learnt the basics of NLP with Python and build a random forest based spam
+email classifier.  
+  
+Projects  
+Build a model to approve/disapprove a loan for a prospective applicant based
+on his/her  
+profile.  
+Worked on German Credit Dataset to approve/disapprove loan of a applicant.  
+  
+Trade Forecasting: Antallagma - A digital exchange platform for trading goods.  
+Built a model to predict the trading price of a product within trade centre
+for a period of 6 months
+

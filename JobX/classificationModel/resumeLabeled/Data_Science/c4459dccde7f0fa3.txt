@@ -1,0 +1,68 @@
+-  
+  
+# Data Science intern
+
+## Data Science Intern - Data Analysis & Machine Learning
+
+Coimbatore, Tamil Nadu
+
+-
+
+## Work Experience
+
+Data Science intern
+
+Duratech Solutions
+
+-
+
+Coimbatore, Tamil Nadu
+
+-
+
+August 2017 to Present
+
+Data Analysis  
+Data Modeling  
+Flask API - Python  
+Machine Learning Algorithms implementation
+
+Android Application Developer
+
+Pepbill Technologies LLP
+
+Android applications for e-commerce
+
+## Education
+
+Master of Technology in Embedded Systems
+
+VIT University
+
+-
+
+Vellore, Tamil Nadu
+
+2014 to 2016
+
+Bachelor of Engineering in Electronics and Communication Engg
+
+Ranipettai Engineering College
+
+-
+
+Vellore, Tamil Nadu
+
+2009 to 2013
+
+## Skills
+
+C (Less than 1 year), JAVA (Less than 1 year), NumPy, Pandas, Python, Flask
+
+## Additional Information
+
+Software: Anaconda, Mat lab, Net Beans, Visual Studio, Xilinx, Eclipse,
+Android Studio  
+Programming Languages: Python,C, JAVA, shell scripting  
+Operating System: windows, Linux
+

@@ -1,0 +1,134 @@
+-  
+  
+# ASSOCIATE ENGINEER-MACHINE
+
+## ASSOCIATE ENGINEER - MACHINE LEARNING
+
+Pune, Maharashtra
+
+-
+
+I help organizations build cutting-edge Software Applications using the
+approach of Machine Learning, helping them to ensure their profitability
+targets are met at minimum costs.  
+Rajeev has a passion and an Inquisitive mind for Data Science. Working in Pure
+AI based Development environment. Gaining experience in working with Fast
+paced Agile Development Process. Below are the few key fields/modules that
+Rajeev is a part of:-  
+• Machine Learning, Deep Learning.  
+• Features like: RNN, Bi-LSTM, Transfer Learning, seq2seq, Recommendation
+system, Stock Prediction, etc.  
+• Generating, Managing and automation of Training Data, Test data process.  
+• Scientific Python Libraries: Numpy, Pandas, Matplotlib, Scikit-learn, SciPy  
+• Statistics: Cross-sectional, Time Series, Categorical Data, Both
+Univariate/Multivariate datasets.  
+• SPSS  
+• Data Templating.  
+• Framework: Tensorflow.  
+• REST Services.  
+• Agile Methodology  
+• Multi-Tenant models.  
+• MongoDB  
+• Linux (UBUNTU)  
+• Version Control - GIT  
+• Oracle VirtualBox/ Hyper-V  
+• Server: FLASK, REDIS
+
+## Work Experience
+
+ASSOCIATE ENGINEER-MACHINE
+
+Data Science
+
+-
+
+May 2018 to Present
+
+05/2018 - Present) the BOT to understand a human better than other Image
+Processing using CNN, KNN  
+generic software. This increases the productivity and is Own GITHUB repository  
+quickly scalable to the customer's data. Datasets: MNIST, CIFAR 10  
+  
+ASSOCIATE ENGINEER-MACHINE  
+LEARNING AWARDS AND RECOGNITIONS
+
+Data Science
+
+-
+
+Pune, Maharashtra
+
+-
+
+May 2017 to Present
+
+Jupyter-Notebook Linux LSTM/ BI-LSTM  
+Jade Global Software Pvt. Ltd.  
+Achievements/Tasks Machine Learning Matplotlib MongoDB  
+Business Problem: Using the CRM systems like  
+Salesforce, ServiceNow, etc. used to take a lot of time for  
+Natural Language Processing Numpy Python an Enterprise to get the details.
+Streamlining the routine  
+tasks, Providing customer support, etc. used to be at a  
+low productivity. Pandas TensorFlow CHATBOT R  
+SOLUTION: With just a few clicks, we can smartly channel the user's focus more
+on the Chatbot than the systems STATISTICS  
+itself.  
+Business Benefits: This could scale up really big in no  
+time. With the AI-powered BOT, this can be used for SELF-WORKED PROJECTS
+
+Jade Global Software Pvt. Ltd
+
+-
+
+Pune, Maharashtra
+
+-
+
+February 2017 to Present
+
+Jade Global Software Pvt. Ltd.  
+Enterprise AI application: CHATBOT
+
+Associate Engineer-Machine Learning
+
+Jade Global
+
+Worked as a Data Science Research Employee
+
+## Education
+
+Bachelor of Technology in INTERESTS
+
+Chitkara University
+
+August 2013 to Present
+
+B.Tech in Computer
+
+MGN Public School
+
+-
+
+Jalandhar, Punjab
+
+June 2011 to March 2013
+
+## Skills
+
+Data Science
+
+## Links
+
+[http://github.com/LITDataScience/Deep-MNIST-
+image-](https://www.indeed.com/url?q=http%3A%2F%2Fgithub.com%2FLITDataScience%2FDeep-
+MNIST-image-&h=fc034d21)
+
+[http://linkedin.com/in/rajeev-
+sharma-07141610a](https://www.indeed.com/url?q=http%3A%2F%2Flinkedin.com%2Fin%2Frajeev-
+sharma-07141610a&h=7c27b679)
+
+## Additional Information
+
+Machine Learning, Deep learning, Statistics, Tensorflow
+

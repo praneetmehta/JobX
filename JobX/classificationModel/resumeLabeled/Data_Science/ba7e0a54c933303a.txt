@@ -1,0 +1,205 @@
+-  
+  
+# Consultant-MSBI |Microsoft Azure Data Platform
+
+## Data Platform Developer
+
+Pimpri Chinchwad, MAHARASHTRA, 412105, IN
+
+-
+
+• Around 4.9 years of experience in IT, having experience in Azure, MSBI, SQL
+SERVER  
+and ETL development and Architect.  
+• Working on Microsoft Data Platform- Azure DW/SQL Server, Data Factory, Data  
+Storage, Data Lake Analytics/Storage, U-SQL, Stream Analytics and Event Hub.  
+• Designed and developed database applications and data warehousing for
+business  
+intelligence.  
+• Proficient in database optimization and performance tuning for servers,  
+applications, and SQL queries.  
+• Proficient in writing Stored Procedures, Views & Indexes.  
+• Proficient in creating ETL Packages using SQL Server Integration Services
+(SSIS)  
+• Expertise in Design and Normalization of the database tables, Table
+Partitioning and  
+Log Shipping.  
+• Experience in monitoring SQL Server Performance using SQL Profiler, Index
+Tuning  
+Wizard and Windows Performance Monitor.  
+• Expertise in Microsoft Big Data Analytics Platform (COSMOS, C#, U-SQL)  
+• Experience in Database Backup, Recovery and Disaster Recovery procedures.  
+• Experience in Designing SSRS and Power BI report,  
+• Strong knowledge of C#, Power shell, Python and R.  
+• Completed Microsoft Professional Orientation: Data Science course & MCPS:  
+Microsoft Certified Professional.  
+• Excellent analytical, communication and interpersonal skills. Proficient in
+technical  
+writing and presentations and a good team player.  
+  
+Current Company and Job Profile  
+  
+Company: Altius Data Solution, Pune. Joining Date: 03rd July 2017  
+Job Title: MSBI Consultant  
+  
+• Data Acquisition: Develop roadmaps for data acquisition activities and
+timing (Data  
+Pipeline)  
+• Data Mastering & Quality: Extract Transform Load (ETL) takes place in COSMOS
+(Big  
+Data) environment, generate internal-facing reports on data health.  
+• Develop efficient campaign database ETL processes to get data into
+applications for  
+campaign management.  
+• Data Processing (ETL) - Usage and purchase, master KPI, transactional data
+and  
+metadata retrieval etc.  
+  
+Role: Data and Analytics Team Size: 18  
+Responsibilities: Data Base Design/Developer/Administration, Data Analytics.  
+  
+Previous Company and Job Profile  
+  
+Company: Persistent System Limited, Pune. Joining Date: 09th Jan 2014  
+Job Title: Software Engineer Release Date: 04th Sep 2015
+
+## Work Experience
+
+Consultant-MSBI |Microsoft Azure Data Platform
+
+Altius data solution
+
+Working on Architect and Development of Microsoft Data Platform- Azure DW/SQL
+Server, Data Factory, Data Storage, Data Lake Analytics/Storage, U-SQL, Stream
+Analytics, Event Hub, Git, TFS and Power BI.  
+  
+Working as Microsoft consultant at Albert Heijn IT (Apollo program). The
+objective of program is to build a future proof data & analytics capability
+for Albert Heijn, which is a key enabler to meet strategic business and IT
+ambitions.  
+  
+Altius has been working with Albert Heijn to define a strategy for Big Data
+and Analytics. The strategy has identified significant opportunities to use
+data, analytics and machine learning to improve its engagement, efficiency and
+business performance and is structured as:  
+  
+Data science: Providing the business with the required tools and
+infrastructure to be able to successfully apply data science within Albert
+Heijn.  
+  
+Data platform: Delivering a data & analytics platform. The data & analytics
+platform is a flexible, cloud-based, future proof and open infrastructure that
+allows us to store unlimited amounts of data to fuel our analytical
+capabilities.  
+  
+Data operation model: Establishing a data operating and governance model, to
+allow us to develop and support the data & analytics capabilities in a safe,
+secure and compliant way.
+
+Data Platform Developer
+
+Tata Consultancy Services
+
+-
+
+Pune, Maharashtra
+
+-
+
+September 2015
+
+Role: Data Platform Developer Team Size: 12  
+Responsibilities: Data Base Design/Developer/Administration, Data Analytics.  
+  
+Previous Company and Job Profile  
+Company: Tata Consultancy Services, Pune. Joining Date: 09th Sep 2015  
+Job Title: MSBI Developer Release Date: 30th Jun 2017  
+Experience: 1 Year 10 Month.  
+  
+Professional Achievements  
+• Awarded " Star Performer Q4 (2015-2016) "  
+• Awarded "Star Performer Q3 (2016-2017) "  
+• Service Excellence award.  
+Work Details  
+  
+Project Title: Campaign Data Services Client: MICROSOFT  
+  
+Scope of the Project: Data services provide Windows, Surface, Xbox, Cortana
+and HoloLens  
+etc. devices data for campaign and Consumer behavior analysis for Marketing
+team.
+
+## Education
+
+MCA
+
+Pune University
+
+-
+
+Pune, Maharashtra
+
+2011 to 2014
+
+MCA in Computer Application
+
+Sinhgad Institute of Management
+
+-
+
+Wadgaon, Maharashtra
+
+2014
+
+H.S.C. in A.S.C
+
+Maharashtra Board
+
+-
+
+Shendurjana, MAHARASHTRA, IN
+
+August 2007
+
+S.S.C. in RTMV, Gogri
+
+Maharashtra Board
+
+June 2005
+
+## Skills
+
+SQL server, MSBI, Azure data platform, Azure, SSIS
+
+## Links
+
+[http://in.linkedin.com/in/gauravbothe](https://www.indeed.com/url?q=http%3A%2F%2Fin.linkedin.com%2Fin%2Fgauravbothe&h=fa863533)
+
+## Additional Information
+
+Working on Microsoft Data Platform- Azure DW/SQL Server, Data Factory, Data
+Storage, Data Lake Analytics/Storage, U-SQL, Stream Analytics, Event Hub and
+Power BI.  
+  
+Worked on Microsoft Big data analytics platform as Data and Analytics with
+Microsoft data engineering team building Windows, Xbox, Devices & Search
+consumer profiles used to target and deliver ~16 billion emails and ~24
+billion in-product impressions annually.  
+  
+Strong knowledge and experience in data architecture, logical and physical
+database design, data modeling, implementation, and administration.  
+  
+Solid skills in database optimization and performance tuning for servers,
+applications, and SQL queries.  
+  
+Designed and developed database applications and data warehousing for business
+intelligence  
+  
+Proven ability to deliver high quality products and services on schedule.  
+  
+Self-motivated team player with excellent verbal and writing communication
+skills.  
+  
+Excellent T-SQL Developer skills including Stored Procedures, Indexed Views,
+User Defined Functions, Triggers, and Distributed Transactions.
+

@@ -1,0 +1,101 @@
+-  
+  
+# Data Science intern
+
+## Data Science intern
+
+Nahan, Himachal Pradesh
+
+-
+
+I am an educated and motivated person, quick to ramp up with any existing
+development  
+platform and perform designing, coding and mobile development. With excellent
+interpersonal  
+as well as communication skills, I enjoy a high pressure team environment.
+
+## Work Experience
+
+Data Science intern
+
+Constalytics
+
+-
+
+Mohali, Punjab
+
+-
+
+June 2018 to July 2018
+
+Summer Research Intern
+
+PEC University of Technology
+
+-
+
+Chandigarh, Chandigarh
+
+-
+
+June 2017 to July 2017
+
+Data mining and analysis of Indian origin academicians in foreign universities
+for exploring opportunities of academic interaction
+
+## Education
+
+Bachelors
+
+Jaypee University of Information Technology
+
+-
+
+Nahan, Himachal Pradesh
+
+2012
+
+## Skills
+
+Data Science, NLP, Data Analysis, Data mining, Deep Learning, Machine
+Learning, Data visualisation
+
+## Certifications/Licenses
+
+Machine Learning A-Z™: Hands-On Python & R in Data Science
+
+March 2018 to Present
+
+Deep Learning A-Z™: Hands-On Artificial Neural Networks
+
+June 2018 to Present
+
+## Publications
+
+Sentiment Analysis of Tweets and News using Big Data
+
+2017
+
+The project was implemented on python and visualisation of the data was done
+with the help of matplotlib and plotly
+
+Closing Stock Market Prediction using LSTM and Keras
+
+2018
+
+Applicable for almost all the stock market datasets present on Nasdaq and
+other websites. The model can predict the closing stock value with a high
+accuracy
+
+Time Series analysis of Sentiments about the tweets related to any
+hashtag/keyword
+
+2018
+
+Wallet Application for Apple Devices
+
+2016
+
+Implemented using Swift, it keeps a record of the personal transactions. It
+has a tabular view and used SQLite as a local database
+

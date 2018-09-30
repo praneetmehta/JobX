@@ -1,0 +1,323 @@
+-  
+  
+# Data Engineer
+
+## Data Engineer - DBOI Data Lake (FIM)
+
+Pune, Maharashtra
+
+-
+
+❑ 11 years of work experience in the IT industry with vast exposure in
+managing DW programs and has proven experience of development in data science
+and analytics implementation.  
+❑ Well versed with the processes followed to ensure quality and efficient
+delivery in onsite-offshore execution model. worked on various technologies in
+Machine learning, analytics and Data Warehousing,  
+❑ Diverse experiences in a wide range of domains, solving complex problems.
+Focus on strategy and development. Experience in developing unique solutions
+involving various stake holders. Always looking to innovate by bringing and
+creating smart solutions.  
+❑ Well versed with the various phases of the software development life cycle
+and E-2-E IT solution offerings. Experienced in requirements gathering,
+analysis, design, software coding/development and implementation.  
+❑ Being fast learner and a complete team player with excellent communication
+skills with the ability to make solutions-oriented, creative and innovative
+contributions in highly demanding situations. Rated as an outstanding
+performer by client and received kudos and appreciations for being superb
+collaborator.  
+❑ Quality Assurance - Conducted Quality Reviews, Preparation of
+Templates/Coding Standards/Review Checklists/Deployment Checklists,
+Identification of Best Practices followed in the project.  
+❑ Working knowledge of classification models like Support vector machines
+(SVM), Naïve Bayes, Random Forest, Decision Tree and Regression techniques
+like Linear and Logistics, Boosting techniques likes Bagging and Boosting.  
+❑ Good experience of Clustering algorithms, PCA and feature selection.  
+❑ Implemented PoCs on Deep Neural Network using Tensorflow.
+
+## Work Experience
+
+Data Engineer
+
+DBOI Data Lake (FIM)
+
+-
+
+MAHARASHTRA, IN
+
+-
+
+October 2016 to Present
+
+Duration Oct 2016 - Till date.  
+Location Pune, India  
+Technology Sqoop, Hive, Python, RapidMiner, Oracle, Machine Learning  
+Project Abstract  
+Financial Information Management (FIM) is the entry point for all data
+required in the Financial Reporting environment for Deutsche Bank. The overall
+principle of FIM is to act as the single entry point for all data arriving
+into the Financial Reporting (FR) environment. FIM receives data information
+directly from the sources. FIM is developed in a service -oriented
+architecture, where functionality required is technically implemented in the
+system landscape by the Application Services. As and when there is a
+regulatory need to produce a report for a particular business area they can
+directly fetch their reports. These data are stored in different financial
+formats adhering their business requirements. This behaves as a data hub in
+between platforms providing single point solution to all downstream entities
+(Different Reports)  
+Now our business use case is to minimize the consolidation manual effort for
+client data coming from different sources. Currently there is a team and
+application involved to correct the information (like adjustment) to get the
+master data from all the clients.  
+We have performed feasibility analysis and now implementing pilot project to
+create an automated process so that manual intervention should be less than
+90% to identify and consolidate the client information.  
+  
+Role Data Engineer  
+Responsibilities  
+Information Gathering and understanding the business need.  
+❑ Reviewed current systems / data mapping aligned to current reporting and
+identified data gaps for our requirement.  
+❑ Strategy and Roadmap  
+Business Cases  
+❑ Identified the strategic goals, initiatives and their sequencing  
+Exploratory Data Analysis  
+❑ Performed and interpreted data studies and product experiments concerning
+new data sources  
+❑ Developed prototypes, proof of concepts, algorithms, predictive models, and
+custom analysis  
+❑ Designed and built new data set processes for modeling, data mining.  
+❑ Determine new ways to improve data and search quality, and predictive
+capabilities
+
+Development, QA, UAT
+
+Duke Energy
+
+-
+
+MAHARASHTRA, IN
+
+-
+
+April 2016 to October 2016
+
+Duration Apr 2016 - Oct 2016.  
+Location Pune, India  
+Technology SQL Server, Oracle, R, Excel, Python, Sqoop, Hive  
+Project Abstract  
+Duke Energy, headquartered in Charlotte, North Carolina, is an electric power
+holding company in the United States, with assets also in Canada and Latin
+America. Project Control & Estimations (PCE) involves billing, work-order and
+cost estimation of towers related information's for Duke Energy and its sister
+organizations.  
+Roche is seeking a partner to deliver reliable and cost effective Level 1,
+Level 2 and Level 3 support for four key systems on a global support basis.
+Duke Energy's BI team to move routine operational and maintenance services
+(Incident Management, Change Management, Service Requests & Operations
+Management across a broad range of BI & Big Data technologies) for its core
+data environments & applications to an efficient, low cost global offshore
+Managed Support & Development Service, releasing Duke's Informatics Team to
+focus on high value strategic & technology innovation initiatives. In addition
+also, Problem Management from year 2, i.e. Development, QA, UAT and move to
+Production systems. Services in scope offering user support and technical
+resolution services provision extending to database (SQL Server, Oracle), ETL
+(Informatica), BI Reporting (SAP BO) and native Hadoop (hive, scoop)
+specialists along with exploratory data analysis using (R, Python)  
+  
+Role  
+Team member, Database, R, Python Resource.  
+  
+Responsibilities  
+❑ Estimation of costing involved and their outcomes for all Duke's Control
+measures using R. Involved in the discovery processes with stakeholders to
+identify the business requirements and the expected outcome. Identified what
+data is available and relevant, including internal and external data sources,
+leveraging new data collection processes. Collaborated with Institute subject
+matter experts to select the relevant sources of information. Worked with IT
+teams to support data collection, integration, and retention requirements
+based on the input collected with the business.  
+❑ Present to and consult with mid-level management on business trends with a
+view to developing new services, products, and distribution channels.  
+❑ Implementing data analysis models and providing forecasting / prediction
+outcomes.Collaborate with unit managers, end users, development staff, and
+other stakeholders to integrate data mining results with existing systems.
+Provide and apply quality assurance best practices for data mining/analysis
+services. Adhere to change control and testing processes for modifications to
+analytical models.  
+❑ Create data definitions for new database file/table development and/or
+changes to existing ones as needed for analysis.  
+❑ Preparation of the various technical and functional documents (where
+applicable depending on the request types) High Level Design Document,
+Detailed Design Document, System test plan and test procedure document and
+implementation plans.
+
+CRO IT is committed
+
+Project Abstract
+
+-
+
+Pune, Maharashtra
+
+-
+
+September 2010 to March 2016
+
+Location Pune India  
+Technology Informatica 8.1.6, 9.5.1 Oracle11g, PL/SQL, SQL*Loader, Unix
+Scripting  
+Project Abstract  
+CRO IT is committed to the development of managed interfaces for key
+components. CRO needs to address critical regulatory and control issues and
+close essential capability gaps (e.g. Full Revaluation VaR, CAD II
+Remediation, Basel III, etc.) . Data acquisition of trade, market and
+reference data from various internal and external data source followed by data
+validation, mapping, and enrichment for risk calculation. Market Risk
+Assessment - Functionality to measure, analyze, monitor and control market
+risk exposure including VaR, ERC and IRC. Includes market risk simulations for
+pre-defined /ad-hoc scenarios. Credit Risk Assessment - Functionality to
+measure, analyze, monitor and control credit risk exposure covering credit
+risk occurred to both lending and (OTC) derivative transactions. Risk
+Analytics & Reporting - Periodic or ad-hoc/ on-demand creation and
+distribution of MIS and other internal risk reports. Consolidates and
+reconciles data from different (internal and external) sources through data
+warehousing.  
+  
+VISION is one of the major trading systems developed and supported in Fixed
+Income Information Technology (FID IT) Department. The system was developed
+in-house to provide a global solution to the Credit Suisse Repo traders,
+providing screens to assist in handling Repos, Securities Lending and
+Collateral Management activities. VISION is a global, real-time platform with
+client/server architecture that provides users with the ability to book Repo
+related trades. It possesses full position management functionality with
+capabilities to provide position reservation, the booking of incomplete and
+complete trades, and trade management capability for existing trades. It
+provides reconciliation of firm-wide data, with one of its most important
+characteristics being its ability to provide full audit trails of all trade
+information that have been canceled or modified. It also possesses extensive
+reporting capabilities, providing a suite of over two hundred (200) reports &
+data extracts.  
+The system has been deployed to approximately five hundred (500) users,
+primarily traders, sales, product control, operations, sales assistants and
+trade support in New York, Boston, Chicago, Mexico, Zurich, Milan, London,
+Tokyo, Singapore, San Francisco, Hong Kong, and Istanbul.  
+  
+Role  
+Team Lead and technical Architect, Informatica, Unix Scripting & Oracle
+Resource.  
+  
+Responsibilities  
+❑ Working as Team Lead for offshore deliveries from Dev and was able to drive
+successfully a team of 4+ associates.  
+❑ Provide technical consulting and guidance to development team for the design
+and development of highly complex or critical ETL architecture. Identify
+opportunities for new architectural initiatives; makes recommendations on the
+increasing scalability and robustness of ETL platforms and solutions.  
+❑ Participate actively in all phases of the project including planning and
+analysis, design, development, testing and implementation, related to their
+area of expertise. Help identify change barriers within the business areas.
+Coordination of system/Integration/UAT testing with other teams involved in
+project and review of test strategy. Fine tuning mappings, sessions and DB
+objects to improve performance. Coordinating with business and development
+teams for closure of UAT defects.  
+❑ Determine LOB strategies for data integrity validation processes.
+Establishes policies and best practices for optimizing ETL data
+throughput/accessibility.  
+❑ As a Team lead, plan for collection method, data cleansing, and
+normalization of enterprise data to support decision making and reporting.
+Develop policies and procedures related to development and support of new and
+ongoing systems to ensure the integrity of data. Coordinate data models,
+dictionaries, and other database documentation across multiple applications.
+Work with data transformation teams to ensure that the model design and
+development is properly communicated. Oversees complex data modeling and
+advanced project metadata development. Ensure that business rules are
+consistently applied across different user interfaces to limit the possibility
+of inconsistent results.  
+❑ Plan the delivery of the overall program and its activities in accordance
+with the mission and the goals. Develop new initiatives to support the
+strategic direction to implement long-term goals and objectives to achieve the
+successful outcome of the program.
+
+CRO Market Risk
+
+Credit Suisse LLC
+
+-
+
+September 2010 to July 2012
+
+and Fixed Income Repo (Jun 12-Mar 16) Projects  
+Client Credit Suisse LLC, US (Organization - Cognizant Technology Solutions)
+
+USFS
+
+-
+
+MAHARASHTRA, IN
+
+-
+
+May 2007 to July 2010
+
+Location Pune, India  
+Technology Informatica 8.1.6, Oracle10g, Unix Scripting  
+  
+Role  
+Informatica, Unix Scripting & Oracle Resource.  
+  
+Responsibilities  
+❑ Interacting with customers for Requirement gathering and Analysis. Being
+technical lead & point of contact for all development activities.  
+❑ Participate actively in the development of the Project Workbook (in
+conjunction with Informatica administration) including why the project was
+requested.  
+❑ Participate actively in all phases of the project including planning and
+analysis, design, development, testing and implementation, related to their
+area of expertise. Help identify change barriers within the business areas.  
+❑ Adapt to changing requirements of client, organization and marketplace.
+Drive and manage change implementation by creating buy-in and aligning
+resource.  
+❑ Provide day-to-day technical support in maintaining the information system,
+including responsibility for ensuring processes and outputs are complete and
+error-free. Develop an in-depth understanding of the business processes
+supported by the system. Develop and maintain technical documentation and
+operational procedures on the new information system.  
+❑ Designs new systems or modifies existing ones to meet technical needs of the
+field as they emerge rather than waiting until the need is overwhelming.
+
+Data Engineer
+
+Deutsche Bank of India
+
+## Education
+
+B.E.
+
+Sri Siddhartha Institute of Technology
+
+## Skills
+
+Hive, RapidMiner, Python, Machine Learning, Unix, Oracle, Informatica
+
+## Additional Information
+
+Technical Skills:  
+Analytics: R, Python, Machine Learning, RapidMiner  
+Languages: SQL, PL/SQL, UNIX Shell Scripting  
+RDBMS: Oracle 10i, 9i/8i, Sql Server […]  
+ETL Tools: Informatica 8.X, 9.X, Informatica Developer  
+Big Data: Hive, Hadoop, Spark  
+Domain Knowledge: Investment Banking, Repo  
+  
+Project Detail Tenure Role Technology Team Size  
+Project Control & Estimation (PCE) -Duke Energy from IBM India Mar 2016 - Oct
+2016 Individual Contributor Database, R, Python Resource, SQL, R, Python
+Resource 6  
+Fixed Income Repo - Credit Suisse from Cognizant Technologies Jun 2012-Mar
+2016 Team lead Informatica 9.x, Oracle 11g, Unix, SVN 7  
+CRO Market Risk - Credit Suisse from Cognizant Technologies Aug 2010-Jun 2012
+Individual Contributor Informatica 8.6.1, Oracle 10g, Unix 14  
+USFS - HP from MphasiS an HP Company May 2007 - Jul 2010 team member
+Informatica 8.6.1, Oracle 10g 7
+

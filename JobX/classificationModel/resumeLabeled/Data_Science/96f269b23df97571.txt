@@ -1,0 +1,132 @@
+-  
+  
+# Data Scientist
+
+## Data Scientist - NTT DATA
+
+Vellore, Tamil Nadu
+
+-
+
+➢ Highly analytical and process oriented data analyst with in depth knowledge
+of database design, research methodologies, big data capture, manipulation and
+visualization.  
+➢ Furnish insights, analytics and business intelligence used to advance
+opportunity identification, process reengineering and corporate growth.  
+➢ Experience in predictive modeling, deep learning, machine learning, anomaly
+detection, data processing, basket analysis and data mining algorithms to
+solve challenging business problems.  
+➢ Worked in platforms like WPF, Win Forms and UWP.
+
+## Work Experience
+
+Data Scientist
+
+NTT DATA
+
+-
+
+September 2017 to Present
+
+Did research and developed the complete business logic for heuri application
+which is a heuristic application used for automating data science by building
+R and python code for automating all machine learning and feed forward deep
+learning algorithm, automl.  
+>Did research and developed the data mining algorithms such as Apriori (Basket
+analysis), imputation, Principal component Analysis.  
+>Created network graph using Visnetwork to show the association between the
+columnvalues in dataset.  
+> Worked on building an animation loader which provides significant
+visualization of the various stages involved during building the deep learning
+model, the data that is processed at each stage and the performance metrics of
+the built model. Also worked on the database design of the application and
+building and populating the tables with relevant data.  
+>Developed automated anomaly detection algorithm in python and R to identify
+suspicious patterns in network traffic.  
+>Also worked on NLP operations such as text extraction, sentiment analysis, QA
+system etc.  
+>worked on RandomForestClassifer for multiTarget Prediction.  
+3  
+R Studio, Pycharm, Spyder, nltk, Microsoft SQL Server 2012  
+  
+ALN  
+Worked on predicting denial likelihood and reason for denial of insurance and
+received 98 Accuracy.
+
+Software Engineer
+
+Syncfusion
+
+-
+
+February 2016 to August 2017
+
+NTT Data (Formerly DELL) Software Development Analyst Sep 2017 - present  
+  
+Technology Summary  
+  
+Syncfusion SfSpreadsheet, calcEngine ( February 2016 to August 2017)  
+  
+Software Engineer  
+>Worked for product name syncfusionSfSpreadsheet. SfSpreadsheet is excel
+inspired control that allows to create, edit and format the Microsoft Excel
+files without excel installed. It comes with built-in calculation engine with
+support of most widely used formulas.  
+Worked in machine learning algorithms for predictive analysis and frequent
+pattern mining (Apriori) to deploy predictive analysis within dot net
+application.  
+>Worked on creating visualization graphs using ggplot, viznet (Association
+rules)  
+6  
+  
+Visual studio, R studio  
+Microsoft SQL Server, Dot Net  
+WPF, Win Forms and UWP, H2o.
+
+Syncfusion
+
+-
+
+February 2016 to August 2017
+
+## Education
+
+B.E in Computer Science Engineering
+
+C.Abdul Hakeem College of Engg
+
+2011 to 2015
+
+HSC
+
+Lakshmi Garden Matriculation Higher Secondary School
+
+-
+
+Vellore, Tamil Nadu
+
+SSLC in English, Hindi
+
+St. Mary's Girls Higher Secondary School
+
+-
+
+Vellore, Tamil Nadu
+
+## Skills
+
+MACHINE LEARNING (2 years), MICROSOFT SQL SERVER (2 years), MS SQL SERVER (2
+years), SQL (2 years), SQL SERVER (2 years)
+
+## Additional Information
+
+Software/Languages: R, Python, H2o, Keras framework, Spark, Machine Learning,
+Deep Learning, AI, NLP, Microsoft Azure, Bluemix Watson  
+Dot Net ( C#.net)  
+Database Microsoft SQL server 2012  
+  
+Tools:Power BI, Rstudio, Spyder, PycharmMySQL, Microsoft Visual Studio,
+Dreamweaver  
+  
+Application knowledge:Microsoft Azure ML Studio, Bluemix, Power BI, Watson
+

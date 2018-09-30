@@ -1,0 +1,81 @@
+-  
+  
+# Data Science Trainee
+
+## Data Science Trainee - BigData
+
+Kannur, Kerala, 670706, IN
+
+-
+
+To work for an organization which provides me the opportunity to improve my
+skills and knowledge to  
+growth along with the organization, innovative and flexible where twin
+benefits of organizational goal  
+and job satisfaction can be acquired. With specialization and expertise in Big
+Data (Hadoop), and  
+passion towards Data Science and Data Analytics.
+
+## Work Experience
+
+Data Science Trainee
+
+BigData
+
+-
+
+April 2018 to Present
+
+Business Development Executive
+
+Creopedia Business Intelligence Pvt.Ltd
+
+-
+
+November 2017 to February 2018
+
+## Education
+
+Bachelor of Engineering in Computer Science
+
+Visvesvaraya Technological University
+
+2013 to 2017
+
+St. Mary's Higher Secondary School Edoor
+
+2012 to 2013
+
+Sacred Heart Higher Secondary School
+
+2010 to 2011
+
+## Skills
+
+APACHE HADOOP MAPREDUCE (Less than 1 year), APACHE HADOOP SQOOP (Less than 1
+year), APACHE HBASE (Less than 1 year), ARTIFICIAL INTELLIGENCE (Less than 1
+year), C++ (Less than 1 year)
+
+## Additional Information
+
+TECHNICAL SKILLS  
+• Operating system: WINDOWS 8, 7, Linux.  
+• Programming Languages: Python, C, C++, Java, R, Hive, and Pig.  
+• Databases: SQL.  
+• Big data Ecosystem: Hadoop, mapreduce, Pig, Hbase, Hive, Sqoop.  
+• IDE: Pycharm, Jupyter Notebook, Intellij, R Studio  
+●  
+  
+AREAS OF INTEREST  
+  
+• Machine Learning  
+• Artificial Intelligence  
+  
+PROJECTS COMPLETED  
+  
+Computer Graphics mini project -keyboard interactive "3D ROBOT"  
+Duration: 30 days  
+DETECT AND AVOID SINKHOLE ATTACK IN WSN USING HEED PROTOCOL  
+Duration: 90 days  
+Languages used: TCL
+

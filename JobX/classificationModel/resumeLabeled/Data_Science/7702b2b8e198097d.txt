@@ -1,0 +1,191 @@
+-  
+  
+# Big Data Solution Developer
+
+## Big Data Solution Developer - Big Data Technologies
+
+-
+
+Data Specialist having more than twelve years of IT experience providing end
+to end solutions using Bigdata platform with vast technology back ground.
+
+## Work Experience
+
+Big Data Solution Developer
+
+Big Data Technologies
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+2014 to Present
+
+on following projects.  
+  
+➢ As Big Data Architect for the project Business Intelligence Platform for
+client DBS, Singapore using technologies such as Python, Hive, ETL tools.  
+  
+➢ As senior Big Data solution developer for the Export Blue - Fast Data
+Platform for the client American Express, Bengaluru using technologies Kafka,
+Storm, Spark Streaming, Python  
+➢ Implemented automated testing frame work  
+  
+➢ As senior Big Data developer for the Business Intelligence Platform for the
+client DBS, Singapore using technologies Kafka, Storm, Spark Streaming, Python
+Implemented Migration of Data warehouse into Big Data Platform.  
+  
+➢ Technical Lead for Development team & Production support for AML &
+Compliance systems for the client CITI Bank, Singapore using Java, Impala  
+➢ As a Hadoop Solution Developer for the client IDEA Cellular, implemented
+Apache Solr.  
+  
+Data Science Projects:  
+➢ Image Classification:  
+  
+➢ Loaded the images from different folders and pre-processed using Opencv.  
+➢ converted class labels to on-hot encoding.  
+➢ Shuffled the data for better learning rate.  
+➢ Designed and trained a CNN model using callbacks in Keras.  
+➢ Evaluated the model and predicted the output class for test images.  
+➢ Plotted the Loss and accuracy curves and improvised the CNN model.  
+➢ Build model with python, Opencv 2.4.13, Keras 2.0.8, Tensorflow 1.0.1  
+  
+➢ Statistical Pattern Recognition for Driving Styles:  
+  
+➢ Identifying different driving patterns based on driving style. context and
+driving conditions.  
+➢ Missing data imputed with different strategies of weather conditions.  
+➢ Merged the vehicle, trip and weather data based on driver.  
+➢ Removed near zero variance variables and extract new relevant features.  
+➢ Identified the different track behaviors and aggregated data by driver.  
+➢ Built a statistical model using Decision Tress, Random Forest, Multi variant
+Logistic Regression.  
+➢ Applied Meta learner on valid data to predict test data.  
+➢ Evaluated the performance of model based on Error matrix.  
+➢ Built the model and Visualizations with R  
+  
+➢ Predicting Heart disease and its severity:  
+  
+➢ Used data wrangling technique to understand and process data.  
+➢ Re-level the factor data between train and test.  
+➢ Used regularization & learning curves for bias variance trade off.  
+➢ Built an advanced heart disease algorithm using Statistical method like
+Multi variant Logistic regression, Random Forest and XG Boost.  
+➢ Used PCA for dimensionality reduction.  
+➢ Evaluated the performance of model based on Error matrix.  
+➢ Built the model with R and Visualizations are done using Tableau10.4.  
+  
+Java & Other Projects:  
+➢ Worked as Java Technical Lead for the project Compliance & Real time Risk
+Analysis with the client Western union financial services using various
+technologies like Hive, PIG, Sqoop, Cassandra, Core JAVA, Drool Framework,
+Unix  
+➢ Worked as Technical Lead in the project Global Risk system for the client
+American Express Technologies using mainframe technologies.  
+➢ Worked as Senior Developer in the project Cyber Life - TPA with the
+following Insurance Clients Swiss Re, Protective Life, Wilton-Re and AMERCO
+using technologies COBOL, VSAM, JCL, DB2.  
+➢ Worked as Software Engineer for the project Carrier Technology operation
+with client UTC - Carrier Corporation, USA using technologies COBOL, DB2, IMS-
+DB, CICS, VSAM, JCL, INFOMAN, Expeditor, Endeavor, File-Aide, Core Java.
+
+IBM INDIA Pvt. Limited
+
+-
+
+Hyderabad, Telangana
+
+-
+
+March 2015 to May 2018
+
+Tata Consultancy Services (TCS)
+
+-
+
+Hyderabad, Telangana
+
+-
+
+June 2010 to March 2015
+
+CSC
+
+-
+
+Hyderabad, Telangana
+
+-
+
+April 2007 to May 2010
+
+KEANE India Pvt Limited
+
+-
+
+Hyderabad, Telangana
+
+-
+
+May 2005 to March 2007
+
+Project Experience Summary:  
+  
+Big Data Projects:
+
+## Education
+
+Big Data, Analytics and Optimization
+
+International school of Engineering
+
+-
+
+Hyderabad, Telangana
+
+B. Tech in Computer Science & Information Technology
+
+JNT University
+
+## Skills
+
+DATA WAREHOUSE (4 years), Hadoop (4 years), HADOOP (4 years), JAVA (4 years),
+PYTHON (4 years)
+
+## Links
+
+[https://goo.gl/76xB4S](https://www.indeed.com/url?q=https%3A%2F%2Fgoo.gl%2F76xB4S&h=d5fc2e0c)
+
+[https://goo.gl/jK6PjR](https://www.indeed.com/url?q=https%3A%2F%2Fgoo.gl%2FjK6PjR&h=a122111b)
+
+## Additional Information
+
+SKILLS SUMMARY  
+  
+➢ Designed and implemented a Big data solution to on growing data warehouse
+platform.  
+➢ Experience in Statistical modeling for predictive & Prescriptive analytics.  
+➢ Excellent knowledge of methods and Algorithms in Machine Learning.  
+➢ Designed analytical solutions to solve strategic business problems using
+various Big data technologies.  
+➢ Worked as Data Analyst & involved in Data modeling to understand in depth
+about data.  
+➢ Extensively working on Ware house technology stack like Hadoop, Informatica
+and Teradata.  
+➢ Experience in Automation using Python & UNIX shell scripting.  
+➢ Strong communication and Management skills.  
+➢ Experience in implementing FSLDM models in data warehouse platform  
+➢ Extensive knowledge in Financial Risk processing system and Anti Money
+Laundering  
+➢ Strong programming skills in JAVA, Scala, PYSAPRK, SQL, NoSQL.  
+➢ Keen understanding of technologies ranging from legacy Mainframes to latest
+Distributed computing.  
+➢ Extensive experience leading Development and Support of mission critical
+business applications with agile methodology  
+➢ Lead the development effort with a diverse internal and overseas team.  
+➢ As a computer science student, passionate to research on the challenges &
+eager to learn new technologies to attain best technology solutions.
+

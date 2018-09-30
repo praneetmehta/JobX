@@ -1,0 +1,141 @@
+-  
+  
+# Data Science Engineer
+
+## Data Science Engineer - Blueocean Market Intelligence Pvt. Ltd
+
+Bengaluru, Karnataka
+
+-
+
+## Work Experience
+
+Data Science Engineer
+
+Blueocean Market Intelligence Pvt. Ltd
+
+-
+
+December 2014 to Present
+
+Skill:  
+* Designed various traditional data marts, and used data model like: Start Schema, and Snowflake schema.   
+* Participate in ETL design and act as the subject matter expert on source and target data structures.   
+* Created logical and physical data models.   
+* Advanced working SQL knowledge and experience working with relational databases as well as working familiarity with a variety of databases.   
+* Experience building and optimizing data pipelines, architectures and data sets.   
+* Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.   
+* Worked in conjunction with Data Scientists for data preparation as per their requirement.   
+* Strong analytic skills related to working with structured/Semi-structure datasets.   
+* Build processes supporting data transformation, data structures, metadata and dependency.   
+* Strong hands-on experience Python, PySpark and SQL.   
+* Experience with big data tools: Hadoop, Spark, Hive   
+* Good knowledge about HiveQL and hive file system like RCFile, ORCFile, CSV, Text.   
+* Good Knowledge with relational SQL and NoSQL databases, including SQL Server and Cassandra.
+
+Data Management Analyst
+
+Accenture Services Pvt. Ltd
+
+-
+
+December 2012 to December 2014
+
+Skill:  
+* Data Mapping, cleansing & processing data through SQL.   
+* Responsible for loading, extracting and validation of client data.   
+* Analyzing raw data to transform it in SDTM (Study Data Tabulation Model) standard for FDA (Food and Drug Administration) US.   
+* Writing SQL scripts to manipulate data for data loads and extracts.   
+* Standardizing data for complex Statistical Analysis.   
+* Used SAS to extract & load source data from Database system.   
+* Wrote SQL scripts to manipulate data for data loads and SQL queries as per business logic to show on dashboard.
+
+## Education
+
+Msc CS in Science
+
+Christ University
+
+2017
+
+Bachelor of Science in Information Technology
+
+Sikkim Manipal University
+
+2011
+
+## Skills
+
+SQL (5 years), Oracle, Apache Spark, PySpark, Advance SQL, Python, SSIS, SQL
+Server, Hive
+
+## Additional Information
+
+Technical Skills  
+  
+Languages: SQL, Python, HiveQL  
+Big Data Frameworks: Google BigQuery, Amazon Redshift, PySpark, Hive  
+Database: - Oracle, MSSQL Server, Cassandra  
+OS- Linux, Windows  
+ETL- SSIS, Google Dataflow  
+  
+Projects  
+  
+Status: - Completed.  
+  
+#Executive Summary and Descriptive Stats  
+  
+Title: - Descriptive Insights  
+Project Description: - Data Preparation for dashboard and narrative
+generation.  
+Software Used: - Python, PySpark and HiveQL.  
+Responsibility: -  
+  
+* Had to calculate 16 metrics for 14 different filters for Descriptive Stats.   
+* Compute the above measures on-demand and persists them in a database.   
+* Complex code has been implemented calculate measures like min, maximum, mean, median, etc. for Last 4 Weeks, Last 8 Weeks, Last 12 Weeks, Last 16 Weeks, Last 52 Weeks, Last Quarter, Last 2 Quarters, Last 3 Quarters, Last 4 Quarters, Last Year, YTD, QTD.   
+* Used PySpark to calculate all metrics using Spark Data frame and Spark SQL.   
+* After calculating all measures data will be written into Hive.   
+* Wrote code to calculate measures for 3 different metrics for executive summary.   
+* Wrote Spark SQL queries as per business logic to show on dashboard.   
+* Worked on solution maintenance and new requirement development.   
+  
+Status: - Completed.  
+  
+#2 Projects with same techniques for Takeda client (Performance and SFE
+dashboards)  
+  
+Title: - DWBI (Data Mart and Business Intelligence)  
+Project Description: - Designing sales Data Mart and Implement Business Layer
+on top of Data Mart  
+Software Used: - SSIS and SQL Server  
+Data Model: - Dimensional Modeling  
+Responsibility: -  
+  
+* Designed data marts, and used data model Start Schema.   
+* ETL design and act as the subject matter expert on source and target data structures.   
+* Created logical and physical data models.   
+* Manipulating, cleansing & processing data through SQL.   
+* Responsible for designing ETL (Extract, load and Transform data) using SSIS.   
+* Writing SQL scripts to manipulate data for data loads.   
+* Understand function requirements   
+* Writing SQL queries as per business logic to show on dashboard.   
+* KT to client on how to use BI solution.   
+* Worked on solution maintenance and new requirement development.   
+  
+Status: - Completed.  
+#Casper  
+Title: - API  
+Project Description: - Develop API to Extract Data from 3 different source
+using REST interface  
+Software Used: - Python and Singer.io  
+Data Model: - JSON  
+Responsibility: -  
+  
+* Extracting data from Cretio, RetailNext and Awin using RESTful API.   
+* Used request and json package of python do perform this operation.   
+* Ingest data into Amazon Redshift.   
+* Used Stitch for Data pipeline scheduling.   
+* Design data model for JSON and infer data model from JOSN to relational structure.   
+* Implemented all APIs using open source singer.io (Simple, Composable, Open Source ETL), https://github.com/singer-io
+

@@ -1,0 +1,113 @@
+-  
+  
+# Data Science Analyst
+
+## Data Science Analyst
+
+Delhi, Delhi
+
+-
+
+To work in a challenging & motivating environment that will constantly provide
+me with new and diverse  
+opportunities making me stretch my own capabilities which in turn would result
+in my personal and professional  
+growth & contribute towards achieving objectives of the organization.
+
+## Work Experience
+
+Data Science Analyst
+
+KPMG Global Services
+
+-
+
+January 2018 to Present
+
+• Machine learning techniques for predictive account revenues.  
+• Visualizing data for reporting using R.  
+• Creating qualitative and quantitative analysis reports for accounts.
+
+Executive Data Scientist | Gurugram, Haryana, India
+
+Level A Commodity Services Pvt Ltd
+
+-
+
+Delhi, Delhi
+
+-
+
+July 2017 to December 2017
+
+• Automated large data analysis to provide strategic direction to the
+company.•  
+• Performed quantitative analysis of commodities sales trends to recommend
+pricing decisions.•  
+• Developed predictive statistical models to forecast inventory and
+procurement cycles using ML techniques.•  
+• Created interactive dashboards using Shiny.•  
+INTERNSHIP & TRAINING  
+• Trained and Certified in Big Data and Hadoop from Hewlett-Packard
+enterprises (HPE) .•  
+• Served as an Intern at National Informatics Centre (NIC) for two months.•  
+• Trained at Delhi Metro Rail Corporation (DMRC) for a month in Tunnel
+construction methods viz. Tunnel •  
+Boring Machine (TBM) & New Austrian Tunneling Method (NATM) .•  
+PROJECTS UNDERTAKEN  
+LiFi-Gation Navigation using wireless light communication.  
+Agri commodities Dashboard Created dashboard which had interactive graphs,
+tables and widgets. It  
+has balance sheet data presentation of all the commodities and comparison by
+year, months & weeks.  
+Forecasting of agriculture commodity Done prediction of the consumption by
+2027 of Indian export for all the consumption by GCC countries countries in
+GCC and also predicted the consumption for India.
+
+PERSONAL VITAE
+
+-
+
+Delhi, Delhi
+
+-
+
+2001 to 2017
+
+Language English & Hindi  
+Place: DELHI RISHABH KANOJIA
+
+## Education
+
+B.tech in Instrumentation
+
+University of Delhi
+
+2017
+
+Sciences
+
+Delhi University
+
+-
+
+Delhi, Delhi
+
+2013
+
+## Skills
+
+APACHE HADOOP HDFS (Less than 1 year), Hadoop (Less than 1 year), HADOOP
+DISTRIBUTED FILE SYSTEM (Less than 1 year), HDFS (Less than 1 year), R, linux,
+R shiny, java, SQL
+
+## Additional Information
+
+TECHNICAL SKILLS  
+Programming R programming, Java, Linux, Pig, C, MySQL, HDFS, Linux, HTML,
+Machine  
+languages learning, UIPath (RPA)  
+Framework HADOOP  
+Circuit LABVIEW, PSPICE, CEDAR LOGIC  
+Simulator
+

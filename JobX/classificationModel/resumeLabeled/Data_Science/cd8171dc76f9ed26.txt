@@ -1,0 +1,306 @@
+-  
+  
+# Solution Architect (Data Science & AI)
+
+## Systems Architect with strong business acumen. Delivered products in Data
+Science, Telecom, E-commerce domain.
+
+Bengaluru, Karnataka
+
+-
+
+Computer science engineer with 14+ years of experience building scalable,
+highly available and fault-tolerant distributed systems for data science,
+augmented reality, instant messaging, mobile packet core, e-commerce and real-
+time voice products. 6+ years in systems  
+engineering and architecture roles and 8 years in software engineering roles.  
+  
+Customer focused Hands-On Systems Architect with strong business acumen.
+Architected and designed scalable, highly available and fault-tolerant
+Applications on AWS Cloud, Azure Cloud and Linux based systems. Amazon
+Certifed Solutions Architect-Associate Level. Key  
+skills include Requirements Defnition, Consensus Building, Communication with
+all levels/functions of an organization, Systems Engineering approach for
+product development, Architecture Patterns, Troubleshooting, Data Modeling,
+Statistical Inference, Hypothesis  
+Testing, Factor Analysis, Experiment Design, Regression Analysis, Queueing
+Theory, Optimization using Linear Programming and Approximation Algorithms,
+Traffic Forecasting, Machine Learning, Software Development, Prototyping,
+Evaluation and  
+Recommendation of technologies/products for business growth.  
+  
+Polyglot Software Engineer with strong design, coding and debugging skills.
+Profcient in C, Scala and Core Java. Built scalable, highly available, fault-
+tolerant servers using C. Built frontend UI using HTML/CSS, JavaScript, AJAX
+and Angular. Programmed in R, Python,  
+Scala/Spark and Core Java for cleaning data, exploratory data analysis,
+statistical inference, using Machine Learning algorithms, Big Data processing
+and implementing algorithms.
+
+## Work Experience
+
+Solution Architect (Data Science & AI)
+
+Maersk
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+September 2017 to May 2018
+
+Worked with a team of senior data scientists, data engineers and software
+engineers to build Data Science products container optimization and cargo
+damage prediction. Collected requirements from product owners and produced
+system architecture documents.  
+  
+• Architected and designed micro-services based solution for creating
+optimized load plans(for DAMCO), plans to fill shipping containers with cargo.
+The solution uses Azure App Service for compute, Application/API Gateway for
+security, Azure Active Directory/ Azure B2C for authentication and
+authorization and Azure SQL DB for peristent storage.  
+▪ Architected and designed business rule engine that enforces complex customer
+rules during load plan creation.  
+▪ Designed an approximation algorithm to allocate cargo to containers (based
+on knapsack and reverse knapsack algorithms) and minimize the cost of load
+plan.  
+▪ Implemented business rule evaluation algorithm in Java.  
+▪ Implemented UI to create/edit/delete business rules using Angular 4.  
+  
+• Architected and designed solution for predicting damage of perishable goods
+in refrigerated containers during voyage. The solution uses Azure HDInsight
+Spark cluster for processing Big Data, NoSQL Cosmos DB for persistent storage,
+Azure Data Lake Store for storing Big Data, Azure App Service for compute,
+Azure Active Directory for authentication and authorization and Azure Data
+Factory for building data pipelines.  
+▪ Defined data architecture. Defined data pipelines to process streaming IOT
+data from containers in voyage(Remote Container Managment System) and to
+predict cargo damage.  
+▪ Defined data pipelines to automate the training/re-training of machine
+learning models(logistic regression) used for predication of cargo damage.
+
+Engineering Manager/System Architect
+
+Mobiliya
+
+-
+
+Pune, Maharashtra
+
+-
+
+May 2017 to August 2017
+
+Managed a team of Software Engineers, building an Augmented Reality product
+used for installation, maintenance and repair of complex equipment.  
+Provided technical solutions for object recognition and overlaying digital
+content over real views.  
+Documented procedures to publish Android/iOS applications and deploy Content
+Management System on Azure Cloud.
+
+Systems Engineering and Architecture
+
+Tech Mahindra
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+August 2015 to January 2017
+
+Product: Rich Communication System(RCS) of XURA(text, image, video, multi-
+media)  
+• Served as System Architect and focal point for all RCS product feature
+requests from Telecom Serbia and Telstra Australia. Defined several product
+features.  
+• Re-Architected the RCS server to use Carrier Grade MySQL Cluster, scaling
+the product from 250K to 5M subscribers.  
+• Re-Architected the conversation model to improve the performance of
+Android/iOS Mobile Application during conversation history synchronization
+across multiple devices.  
+• Designed experiments to create regression models for prediction of compute
+and network requirements of RCS Server. Defined total subscribers that server
+can support by modeling the active calls as markov process and using Erlang B
+formula.  
+• Defined method based on probability theory to calculate High Availability of
+Multi Content Store (MCS) built using Cloudera Distributed Hadoop, Cluster
+Manager, Hbase, YARN and HDFS. Defined experiments to identify series/parallel
+connections in the system.  
+• Re-Architected the transfer of multimedia between RCS server and Android/iOS
+Mobile application to improve the transfer rate by 10 times.
+
+Software Engineer IV
+
+CISCO
+
+-
+
+April 2011 to November 2014
+
+Product: 2G/3G/LTE SGSN (manages mobility and provides internet service to
+mobile  
+devices) . Implemented following product features using C/C++ language on
+linux.  
+• Designed and implemented algorithms to synchronize GGSN restart counter data
+across  
+SGSN system and handle inconsistent restart counter data.  
+• Designed and implemented events queue with differential processing rate to
+avoid  
+network congestion and reduce system load.  
+• Designed and implemented location reporting function at 2G, 3G and S4 SGSN.  
+• Designed and implemented insert/delete subscriber data from HSS/HLR at S4
+SGSN.  
+• Implemented event reporting for all Session Management events at 2G and 3G
+SGSN.
+
+Architect/co-founder
+
+PopAbooK.com
+
+-
+
+September 2009 to February 2011
+
+Architected key e-commerce components (management of inventory, orders,
+affiliates,  
+customers, payments and database) using AWS resources EC2 (Elastic Compute
+Cloud),  
+EBS (Elastic Block Storage), S3 (Simple Storage Service)  
+• Designed and Implemented front end using HTML, CSS, JavaScript and AJAX.  
+• Designed and Implemented backend is using Apache, PHP and MySQL database.
+
+Systems Engineering Architecture
+
+Motorola
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+January 2007 to August 2009
+
+Product: Push To Talk (walkie-talkie service for mobile devices using VoIP
+technology)  
+  
+• Collaborated with customers, engineering and quality assurance teams to
+define requirements and product roadmap for Push To Talk(PTT) VOIP solution  
+• Served as the System Architect and focal point for all Push To Talk (Server,
+Mobile/ Desktop client) product feature requests from Verizon and Bell
+Mobility.  
+• Architected secure PTT solution for PC users in an enterprise and PC users
+on internet.  
+• Determined the total subscribers a system can support for a given call
+blocking probability by modeling the active calls as markov process and using
+Erlang B formula.  
+• Defined UX/UI and XML API to manage enterprises in a PTT Service.  
+• Produced customer requirement documents, responded to RFPs, prepared
+customer presentations, evaluated and recommended vendor products and studied
+feasibility.
+
+Senior/Software Engineer
+
+Motorola/Winphoria
+
+-
+
+March 2004 to January 2007
+
+• Designed and implemented SIP signaling and call control for following
+features  
+• IC-PTT defined 1 to 1, ad-hoc and group calls.  
+• IC-PTT defined add user, rejoin user and group participant information.  
+• OMA PTT defined auto/manual answer modes in controlling/participating
+servers.  
+• Implemented above product features using C/C++ language on linux.  
+• Trained and mentored engineers. Reviewed design and code for OMA PTT
+features.  
+• Supported Motorola PTT Server at eight multi-vendor (IMS, PTT server and PTT
+client)  
+interoperability testing events, achieving 80-95% test coverage.
+
+Software Engineer
+
+Leapstone Systems
+
+-
+
+Hyderabad, Telangana
+
+-
+
+October 2002 to January 2004
+
+Product: Communications Convergence Engine (CCE), is a platform that allows
+seamless  
+integration and deployment of application services in existing telecom
+networks.  
+• Implemented RFC 3455 and tel URL for SIP adapter to IN-CS2 call model.  
+• Enhanced billing and Multi-Hop-Sliding window functions for fault tolerant
+systems.  
+• Implemented above product features using C language on solaris.  
+  
+Certifications and Technical Skills  
+AWS Certified Solutions Architect - Associate Level (AWS-ASA-35078)  
+• Programming Languages : Proficient in C, Scala and Core Java. Working
+knowledge of C++, JavaScript, Angular, HTML, CSS, PHP, AJAX, R language and
+Python.  
+• Tools : R Studio, scikit-learn, git, UML, GDB, Workshop, clear case, purify,
+quantify, perforce, bit keeper.  
+• Platforms : Azure PaaS, AWS IaaS, Spark, Solaris, Linux, Open Solaris, ATCA,
+ASR5K, ASR5500 and vmware ESXi hypervisor over HP BL460 G8.  
+• Databases : NoSQL Cosmos DB, Azure SQL DB, Oracle, PostgreSQL, MySql,
+Hbase/Hadoop, MySQL Cluster.  
+• Protocols and Standards : OAuth 2.0, REST, HTTP, HTTPS, TLS, SSL, VoIP, SIP,
+GTPv1/v2, RTP, RTCP, STUN, TCP/IP, UDP, SCTP, 802.11b, SMPP, IMAP, SMTP, MM7,
+S6d, RFC 3261 3455, 3GPP IMS, SGSN, OMA XDMS PoC, CPM, RCS, IN-CS2 call model.
+
+## Education
+
+MOOC in Functional Programming Principles in Scala, Functional Program Design
+in Scala and Parallel Programming and Big Data Analysis with Scala and Spark
+
+École Polytechnique Fédérale de Lausanne on Coursera
+
+-
+
+Bengaluru, Karnataka
+
+August 2016 to April 2017
+
+Andrew Ng Stanford University on Coursera
+
+January 2015 to April 2015
+
+John Hopkins University
+
+October 2014 to December 2014
+
+B.E. in Computer Science and Engineering
+
+Maturi Venkata Subba Rao
+
+1998 to 2002
+
+## Skills
+
+algorithms, Product Development, Spark, Data Science, Scala, machine learning,
+voice over ip, distributed systems, Systems Architecture, Java, Python,
+Systems Engineering, messaging, networking, R, voip, telecom, statistical
+modeling, e-commerce, analytics, C, Big Data
+
+## Links
+
+[https://www.linkedin.com/in/praveenbabud](https://www.indeed.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpraveenbabud&h=8471b023)
+
+## Certifications/Licenses
+
+AWS Certified Solutions Architect - Associate Level
+
+April 2017 to March 2019
+

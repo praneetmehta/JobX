@@ -1,0 +1,103 @@
+-  
+  
+# Executive
+
+## Data Science Professional with 4 Years of experience
+
+Delhi, Delhi
+
+-
+
+## Work Experience
+
+Executive
+
+Data Science
+
+-
+
+Vadodara, Gujarat
+
+-
+
+February 2016 to April 2018
+
+Vadodara, India Predictive Modelling Time Series Analysis Python  
+Part of Client Insights team of Data Science domain. Works with the biggest
+FMCG brands to draw valuable insights from the sales data.  
+Spotfire R SQL Leadership  
+Achievements/Tasks  
+Designed time series models to predict sales and shipment (coverage) of
+leading FMCG clients (food, Client Engagement Ownership  
+personal & homecare, tobacco and CSD) that eventually  
+was used to drive business decisions.  
+Conducted a detailed research for FMCG E-Commerce  
+growth and potential growth drivers (using multiple ACHIEVEMENTS  
+linear regression) to get the overview of size & growth Nielsen Simply
+Excellent Silver Award  
+rate of FMCG E-Commerce by the year 2022. Nielsen Data Science  
+Conducted a Tobacco Price Change Analysis to see the effect of price change
+(tax on tobacco) on sale of brands, Complete Python 3 Bootcamp  
+carried out a comparative study on how buying patterns Udemy.com of the
+costumers change after price hike.  
+Machine Learning A to Z: Hands on Python  
+Udemy.com
+
+Data Manager
+
+PHFI
+
+-
+
+Delhi, Delhi
+
+-
+
+January 2014 to September 2015
+
+New Delhi, India INTERESTS  
+Achievements/Tasks  
+Designed the location samples using cluster sampling Rock & Artificial Wall
+Climbing Travelling  
+technique and implemented in the survey all over India  
+Generated various reports and visualizations on the Trekking Automobiles
+Cinema  
+HIV/AIDS data collected during the survey which got  
+published in the annual report by NACO (MoHFW)  
+Developed the work plans with timelines, monitoring and supervision plan etc
+for data management activities  
+  
+Personal Project  
+Decision Tree for Promoter Prediction  
+Achievements/Tasks  
+Built Classification model using Decision Tree technique in R for
+classification of promoters in a gene sequence.
+
+## Education
+
+Master of Science in Operations Research
+
+Indian Institute of Technology
+
+-
+
+Mumbai, Maharashtra
+
+July 2010 to June 2013
+
+Bachelor of Science in Statistics
+
+Delhi University
+
+-
+
+Delhi, Delhi
+
+July 2006 to May 2009
+
+## Links
+
+[http://linkedin.com/in/jitendra-
+dhuria-0563a732](https://www.indeed.com/url?q=http%3A%2F%2Flinkedin.com%2Fin%2Fjitendra-
+dhuria-0563a732&h=4197f850)
+

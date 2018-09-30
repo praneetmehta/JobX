@@ -1,0 +1,154 @@
+-  
+  
+# Data Analyst
+
+## Data Analyst - RAXON TECHNOLOGIES
+
+Ghaziabad, Uttar Pradesh
+
+-
+
+## Work Experience
+
+Data Analyst
+
+RAXON TECHNOLOGIES
+
+-
+
+Noida, Uttar Pradesh
+
+-
+
+September 2017 to Present
+
+A software solution, products & services company specializing in data science
+and big data technologies.  
+• Gathered the data using different formats like flat file, csv, tsv, web
+scrapping, JSON, HTML, API etc.  
+• Performed data cleaning and explored data visualization techniques on a
+variety of data stored in spreadsheets and text files  
+using R and python and plotting the same using ggplot and matplotlib.  
+• Worked on Twitter Sentiment Analysis using Python and R packages.  
+• Wrangling, analyzing and visualizing the twitter archive.
+
+Data Analyst
+
+IDC TECHNOLOGIES
+
+-
+
+Noida, Uttar Pradesh
+
+-
+
+November 2015 to September 2017
+
+A premier technology services organization with primary focus in IT services.  
+• Created the script that take in the raw input to create an interactive
+experience in the terminal that answers about the dataset.  
+• Script in Python to import the data and performed descriptive statistical
+analysis.  
+• Vectorized operations in NumPy and Pandas to speed up the data analysis
+code.  
+• Created plots and visualized the data using matplotlib package.  
+• Provided the reasoning for analysis, plot and statistical summary and build
+relations between the independent and dependent variables.
+
+Server Administrator
+
+CORE CONSULTANCY
+
+-
+
+Noida, Uttar Pradesh
+
+-
+
+November 2014 to November 2015
+
+An information technology company specializing in software, virtualization &
+data center warehousing.  
+• Managed virtualization environment using VMware vCenter.  
+• Built, configure and deploy VMs and templates.  
+• Migrated the VMs using vMotion and monitored them using VROPS. Omnibus
+tools.
+
+Admin Executive
+
+LITT MEDIA PRIVATE LIMITED
+
+-
+
+New Delhi, Delhi
+
+-
+
+December 2013 to October 2014
+
+A commercial Asian ratio station, focusing on entertainment, music and news
+from the subcontinent.  
+• Coordinated the traffic scheduling team and managed to provide proper
+spacing between the advertisements and programs.
+
+Programmer Analyst Trainee
+
+COGNIZANT TECHNOLOGY SOLUTIONS
+
+-
+
+Chennai, Tamil Nadu
+
+-
+
+November 2009 to May 2010
+
+An MNC that provides IT services, including digital technology, consulting and
+operations services.  
+• Provided support to Walgreens project in maintain their software.  
+  
+PROJECTS & ACTIVITIES  
+• Dogspot.in (Python, R, JSON, HTML, API) - Project is to analyze the customer
+behavior and trends, performing quantitative  
+analysis, prediction.  
+• Planet Green Bikes (Python, NumPy, Pandas): Research-based software
+development for automated cycle sharing system in  
+Delhi/NCR for DMRC and DIMTS.  
+• Airtel Data Center (VROPS, VMware, Omnibus): Data center warehousing,
+development and maintenance using various  
+monitoring tools.  
+• Walgreens: Research based health care software maintenance project.
+
+## Education
+
+Master of Technology in Digital Communication. CPI
+
+AMBEDKAR INSTITUTE OF ADVANCED COMMUNICATION TECHNOLOGIES AND RESEARCH
+
+-
+
+Delhi, Delhi
+
+August 2011 to June 2013
+
+Bachelor of Technology in Electronics and Communication. CPI
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY
+
+-
+
+New Delhi, Delhi
+
+August 2004 to June 2008
+
+## Skills
+
+PYTHON (3 years), HTML (1 year), CSS (Less than 1 year), SQL (Less than 1
+year), STATISTICS (Less than 1 year)
+
+## Additional Information
+
+TECHNICAL SKILLS & ADDITIONAL INFORMATION  
+• Programming Languages: Python, R, SQL, HTML, CSS  
+• Statistics
+

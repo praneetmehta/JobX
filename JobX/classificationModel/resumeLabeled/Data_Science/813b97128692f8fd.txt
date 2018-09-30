@@ -1,0 +1,142 @@
+-  
+  
+# Assistant Professor in Computer Science
+
+## Assistant Professor (part time)
+
+Darbhanga, Bihar
+
+-
+
+Seeking to work in an organization where I can play an active role in a team
+environment and help in the growth of the institution and my own career. I
+also want to work with an organization where I get continuous opportunity to
+innovate and excel in my skills and get a chance to learn and grow as an
+individual as well.
+
+## Work Experience
+
+Assistant Professor in Computer Science
+
+Sree Dattha Institute nstitute of Engineering and Science
+
+-
+
+Hyderabad, Telangana
+
+-
+
+February 2017 to Present
+
+Gwalior since March 13, 2015 till 27th December 2016.  
+•. Working as Assistant Professor in Department of Computer Science &
+Engineering at Sree Dattha Institute of Engineering and Science, Sheriguda,
+Telangana since February 6th, 2017 till now.  
+M.Tech Research:  
+Multi-Tier Security Technique for Data Leakage Detection and Prevention in Fog
+Computing Environment.  
+Tool used: CloudAnalyst and EndPoint Protector  
+Under Supervision  
+Name Designation E-Mail Phone No.  
+Dr. Arun Kumar Yadav Associate Professor arun26977@gmail.com 7599336564  
+  
+Researched Papers:
+
+International Conference on Communication and Computing Systems
+
+-
+
+Darbhanga, Bihar
+
+-
+
+September 2011 to 2016
+
+1\. Darakhshinda Parween, Arun Kumar Yadav research paper titled " Secure
+architecture for data leakage detection and prevention in fog computing
+environment" published in "International Conference on Communication and
+Computing Systems" by Taylor & Francis, CRC Press, DOI:
+10.1201/9781315364094-137 September 9-11, 2016.  
+2\. Darakhshinda Parween, Arun Kumar Yadav research paper titled "An Approach
+for Data Leakage Detection and prevention for Fog Computing " published in
+"1st IEEE International Conference on Computer, Communication and Management
+Technologies" (ICCCMT- 2016), pp 74-79 ISBN 978-93-86176-12-7 published by
+IEEE Xplore Digital Library, September 22-24, 2016.  
+3\. Darakhshinda Parween, Arun Kumar Yadav paper titled "Multi-Tier Security
+Technique for Data Leakage Detection and Prevention in Fog Computing
+Environment" published in "International Journal of Advanced Research",
+10.21474/IJAR01/5573  
+http://dx.doi.org/10.21474/IJAR01/5573 vol. 5 issue 10, October 2017  
+4\. Nazimunisa and Darakhshinda Parween, paper titled "The Impact of Cloud
+Computing on IT Services Provider" published in "International Journal of
+Advanced Research", http://dx.doi.org/10.21474/IJAR01/5900
+10.21474/IJAR01/5900, Vol. 5 Issue11November 2017  
+5\. Johnwesl and Darakhshinda Parween, paper titled "Spectral Clustering Based
+Technique for Key Frame Extraction for Video Summarization" published in
+"international journal of creative of research thoughts" vol-6, issue 1
+2320-2882, March 2018.  
+6\. Puneet Shetteppanavar and Darakhshinda Parween, paper titled "character
+identification of kannada text in scene images using neural network" published
+in "International Journal of Creative Research Thoughts, vol-6, issue 1
+2320-2882, March 2018.  
+Project &Work Done:  
+1\. Project on Contact Management System at NIIT, Darbhanga Centre in core
+java.  
+1\. Developed some of the apps for android 2.3 in Android Apps Development
+workshop, organized by Codefrux Technologies Company.  
+1\. Project on Online Job Portal at HCL, Delhi in ASP.NET
+
+## Education
+
+M.Tech
+
+ITM University
+
+-
+
+Gwalior, Madhya Pradesh
+
+2014 to 2016
+
+B.Tech
+
+Women's Institute of Technology
+
+-
+
+Darbhanga, Bihar
+
+2009 to 2013
+
+National Institute of Open Schooling
+
+2009
+
+AISSE
+
+Public School Darbhanga
+
+-
+
+Bela, Bihar
+
+2006
+
+## Skills
+
+JAVA (4 years), B2B SOFTWARE (Less than 1 year), BACK END (Less than 1 year),
+C++ (Less than 1 year), DATA STRUCTURE (Less than 1 year)
+
+## Additional Information
+
+Technical Skills:  
+Programming Language: C, C++, VB.NET, JAVA  
+Back End: ORACLE, SQL  
+Operating System: Windows, XP  
+Field of Interest: Data Communication, Data Structure, Object Oriented
+Technology, DBMS, Networking etc.  
+Subject Taught:  
+Cloud Computing, Object Oriented Programming using C++, System Simulation and
+Modeling, Multimedia Communication, Advanced Computer Networks, DBMS, Software
+Engineering, TOC, etc.
+

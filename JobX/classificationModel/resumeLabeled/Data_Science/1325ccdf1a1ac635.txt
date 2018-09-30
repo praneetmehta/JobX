@@ -1,0 +1,155 @@
+-  
+  
+# Data science Intern
+
+## Data science Intern - Excelr Solutions
+
+Bengaluru, Karnataka
+
+-
+
+➢ 1.11 yrs of overall experience in HR Recruitment and Analytics  
+➢ Good exposure to Data Mining Techniques like clustering, market basket
+analysis, developing association rules etc.  
+➢ Working knowledge on machine learning algorithms like Decision Tree, Random
+Forest, , Simple Neural Networks, SVM.  
+➢ Working knowledge in building Prediction Models using linear regression,
+multiple linear regression analysis, and logistic regression analysis
+techniques.  
+➢ Hands-on experience in tools like R Scripting language, Visualizations in R,
+Minitab.  
+➢ Good exposure in Python scripting  
+➢ Strong hands-on experience in sourcing, screening & recruitment.  
+➢ Extensive experience in sourcing candidates through Internal Database, Job
+Boards, LinkedIn, Referral.  
+➢ Good understanding on End to End recruitment.  
+➢ Good Leadership and Management skills, provided training on Sourcing and
+Recruitment Process.  
+➢ Proficient in ensuring that business goals are met throughout the recruiting
+process.  
+➢ Expert in searching profiles in Job Portals like Naukri, Monster, LinkedIn,
+shine and Indeed  
+➢ Good presentation, negotiating, networking and coordinating skills.  
+➢ Flexible and ready to take on new challenges and zeal to learn new things.
+
+## Work Experience
+
+Data science Intern
+
+Excelr Solutions
+
+-
+
+April 2018 to Present
+
+Project: School Dropouts in Sarawak, Malaysia  
+Analysis: Based on the historical data such as number of students being
+dropped out, parent income, student performance etc., are used in the analysis
+to predict the objectives.  
+Responsibilities  
+Exploratory Data Analysis on Historical Data  
+Identifying the important features and filling missing data with imputation
+techniques  
+Build various models using using historical data  
+Checking the accuracy on the models built  
+Ran a KNN model on most important columns and obtained good values of
+sensitivity and specificity.  
+Tools and Techniques Used: R, KNN, RShiny
+
+HR Executive
+
+Brilltez Technologies
+
+-
+
+January 2017 to March 2018
+
+Project: Marketing Data Analytics- The future of Marketing success  
+Duration: 6 months  
+Analysis: Based on the historical data such as contact information,
+demographic data etc., are used in the analysis to predict the objectives.  
+Responsibilities  
+Exploratory Data Analysis on Historical Data  
+Identifying the important features and filling missing data with imputation
+techniques  
+Build a clustering model using using historical data  
+Ran a clustering model on most important columns and obtained good values of
+sensitivity and specificity.  
+Tools and Techniques Used: R, logistic regression, clustering  
+  
+Roles and responsibilities as Recruiter  
+➢ Handling major Clients like Philips, SKF, GISP, TP Vision, Tesco and
+Capgemini  
+➢ End to end recruitment process including sourcing, screening, interview
+scheduling, releasing offer, coordination  
+➢ Handling on-boarding process of the candidates  
+➢ Interacting with clients in regards to gathering requirements  
+➢ Maintaining a good rapport with the candidates
+
+Hr Trainee
+
+Talent Acquisition
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+July 2016 to December 2016
+
+Roles and responsibilities:  
+➢ Major Clients- Cisco, Symantec and Target Corporation  
+➢ Involved in complete Recruitment life cycle for sourcing the best talent
+from diverse Sources on the requirements assigned.  
+➢ Having sound and thorough knowledge of Sourcing and Screening of profiles.  
+➢ Sourcing profiles using Job portals and Professional Network (Naukri,
+Monster& Linked In)  
+➢ Co-ordination with the candidates and client for arranging interviews could
+be F2F, Telephonic and WebEx call.  
+➢ Building a good rapport with the candidates, doing regular follow-ups and
+ensuring the joining on time  
+maintain a database of Resumes.
+
+## Education
+
+MBA
+
+Sikkim Manipal University of Distance Education
+
+BE in Computer Science & Engineering
+
+Moodlakatte Institute of Technology
+
+SMS Pre University College Brahmavar
+
+X STD
+
+Milagres English Medium High School Kallianpur
+
+## Skills
+
+BOOSTING (Less than 1 year), DATA MINING (Less than 1 year), HTML (Less than 1
+year), K-MEANS (Less than 1 year), MINITAB (Less than 1 year), TABLEAU, R,
+PYTHON
+
+## Certifications/Licenses
+
+N/A
+
+## Additional Information
+
+Technical Skills:-  
+➢ Skill set Data Mining Techniques: Market Basket Analysis, Apriori, K-means,
+KNN, Naive-Bayes, Decision Tree, Random Forest, Gradient Boosting, Extreme
+Gradient Boosting.  
+➢ Prediction Techniques: Linear, Lasso and Ridge Regression, Logistic and
+Multinomial Regression.  
+➢ Programming languages: R Programming, Python, Oracle SQL, HTML.  
+➢ Statistical Tools: XL-Miner, MINITAB, R Studio.  
+  
+Strengths:  
+✓ Positive attitude, determined  
+✓ Hard working and sincere  
+✓ Good decision making and analytical skills
+

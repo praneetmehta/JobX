@@ -1,0 +1,184 @@
+-  
+  
+# Data Science Executive
+
+## Data Science Executive - Data Science Business Leaders
+
+-
+
+Data scientist at Nielsen, having 6+ years of experience in data-related work,
+with a flair for analytics  
+and automation. Loves an intellectually challenging environment where new
+technology can be  
+implemented. Mostly work with R, Python and SQL in my analyses.
+
+## Work Experience
+
+Data Science Executive
+
+Data Science Business Leaders
+
+-
+
+Mumbai, Maharashtra
+
+-
+
+January 2017 to Present
+
+Investigated and resolved data-related client queries about the  
+Nielsen, Retail Measurement Service.  
+Mumbai ● Analyzed large datasets using R, Python and Excel.  
+● Explore market phenomena to understand product behaviour.  
+● Trained and mentored team members.
+
+Data Processor
+
+Fugro Survey India Pvt. Ltd
+
+-
+
+Mumbai, Maharashtra
+
+-
+
+August 2013 to 2016
+
+Automated internal processes using Python.  
+August 2013 to 2016 December ● Data archiving, reporting and map compilation.
+● Charted data of the sea floor topography.  
+Fugro Survey India Pvt. Ltd., ● Surveyed the sea floor using sonar technology.  
+Mumbai
+
+Programme Officer
+
+GIS Website
+
+-
+
+Pune, Maharashtra
+
+-
+
+November 2012 to July 2013
+
+Department of Science and Technology.  
+Institute of Environment ● Created tutorials on QGIS and Saga.  
+Education and Research, ● Topics include Image Filters, Image Classification
+and Visual  
+Pune  
+Interpretation of satellite imagery.  
+  
+Freelance GIS Professional ● Database of toposheets Inventoried &
+georeferenced for the
+
+Internship
+
+Aurum Ventures
+
+-
+
+Mumbai, Maharashtra
+
+-
+
+October 2012 to October 2012
+
+Researched the role of Geographic Information Systems in
+
+Research Intern
+
+University of Maastricht
+
+-
+
+Maastricht
+
+-
+
+January 2012 to June 2012
+
+Identified spatiotemporal disease clusters using statistical  
+University of Maastricht, methods (Bernoulli, Poisson and Space-Time
+Permutation  
+The Netherlands  
+models)  
+  
+PERSONAL INITIATIVES AND MILESTONES:  
+● Built R dashboards for the department across countries for automated
+analysis of our data.  
+Deployable as a web app.  
+●  
+Earned a client commendation and a quarterly excellence award for a query
+analysis.  
+● Started the initiative to increase our department autonomy by creating a
+graphical  
+application to process data.  
+● Saved turnaround-time by writing several scripts and programmes.  
+● Expedited the data process by documenting and unifying the data being
+generated.
+
+## Education
+
+M.Sc. in GeoInformatics
+
+Bharati Vidyapeeth
+
+-
+
+Pune, Maharashtra
+
+2012
+
+B.Sc. in Geology
+
+St. Xavier's College
+
+-
+
+Mumbai, Maharashtra
+
+2010
+
+## Skills
+
+PYTHON (3 years), DATABASE (2 years), GIS (5 years), ARCGIS (Less than 1
+year), AUTOCAD (4 years)
+
+## Links
+
+[http://www.linkedin.com/in/david-
+rodrigues-010b1354](https://www.indeed.com/url?q=http%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-
+rodrigues-010b1354&h=5b15f56b)
+
+## Additional Information
+
+TECHNICAL SKILLS  
+TOOL SKILL MODULE  
+Python Scripting Base Python  
+Data Analysis and Transformation Pandas  
+Parallel Processing Multiprocessing  
+Graphical Apps PyQT5, Tkinter  
+Notebooks Jupyter  
+Program Automation Pywin32  
+  
+R Scripting Base R  
+Data Analysis and Transformation Dplyr, Data frames, DataTables  
+Dashboards Shiny  
+Parallel Processing DoParallel, ForEach  
+Graphing ggplot, Base Plotting  
+  
+SQL Database Querying, Aggregation Foxpro, SQLite3  
+  
+MS Office Automatic Document Operations Document Object Manipulation  
+and Graphing via Python and VBA  
+  
+Remote Sensing Image Processing Erdas  
+Supervised Classification Maximum Likelihood  
+Unsupervised Classification K-Means Classifier  
+  
+GIS Vector Operations Quantum GIS, ArcGIS, AutoCAD  
+  
+Linux Installation and Operation Live Installer  
+GNU tools Terminal
+

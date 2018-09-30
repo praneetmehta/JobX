@@ -1,0 +1,73 @@
+-  
+  
+# Data Science Intern
+
+Delhi, Delhi
+
+-
+
+## Work Experience
+
+Data Science Intern
+
+Goals 101
+
+-
+
+Delhi, Delhi
+
+-
+
+June 2018 to August 2018
+
+Worked with the Data Science team to  
+design and create ETL pipelines in  
+Spark-Scala.  
+Wrote Web scrapers to create a curated list of products. Created a MVC backend
+in Node js to display them.
+
+B2B IT Summer Intern
+
+Airtel
+
+-
+
+Gurgaon, Haryana
+
+-
+
+June 2017 to August 2017
+
+Automated pin code and email address extraction from excel spreadsheets by
+writing sub routines in VBA  
+with the help of Regex
+
+## Education
+
+B.Tech in Information Technology
+
+Amity School of Engineering & Technology
+
+-
+
+New Delhi, Delhi
+
+August 2014 to July 2018
+
+CBSE
+
+Air Force Bal Bharti School
+
+2001 to 2014
+
+## Skills
+
+Java (1 year), Scala (Less than 1 year), Apache Spark (Less than 1 year),
+Python (1 year), JavaScript (1 year), Node js (1 year), React (Less than 1
+year), Html5 (1 year), Css (1 year), Sql (Less than 1 year), MongoDB (Less
+than 1 year)
+
+## Links
+
+[http://saurabhkaul.com](https://www.indeed.com/url?q=http%3A%2F%2Fsaurabhkaul.com&h=e4dcb750)
+

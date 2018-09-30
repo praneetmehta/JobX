@@ -1,0 +1,90 @@
+-  
+  
+# Data science / Machine learning
+
+## Data management-Programmer(Operations)/ Data science/ Machine learning
+
+Bengaluru, Karnataka
+
+-
+
+I have an overall experience of 4+ years working as a programmer on database
+platforms such a RAVE, Inform and an internal process called Q-CODE which
+utilizes Oracle tools. My roles included database analysis, design,
+development, implementation & maintenanceof clinical trial data.
+
+## Work Experience
+
+Data science / Machine learning
+
+Self-practice
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+May 2018 to Present
+
+-Experienced in processing, filtering, and visualizing large datasets.   
+  
+-Acquiring statistical and machine learning knowledge to create scalable business solutions.   
+  
+-Proficient with frameworks in R, SAS, and Python.
+
+Senior programmer
+
+IQVIA
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+2017 to April 2018
+
+-Fronted responsibilities for projects from data prep to delivery as a programming lead.   
+  
+-Implemented optimization techniques in code for a quicker query response and data retreival.   
+  
+-Delve into post-production maintenance issues and generated customized reports using BI applications.   
+  
+-Evaluated and executed plans to facilitate process improvements.
+
+Clinical data programmer
+
+IQVIA
+
+-
+
+May 2013 to April 2018
+
+-Trained in clinical database management systems like Inform, Medidata Rave.   
+  
+-Handled QCODE related activities which involved setting up a database and creating a UI using Oracle Forms.   
+  
+-Performed data loads into production environments.
+
+## Education
+
+Telecommunication engineering
+
+C.M.R.T
+
+## Skills
+
+Data Analysis (2 years), SQL (4 years), Sas, Python, R, BIG DATA, Machine
+learning, Data science, Inform, Rave
+
+## Links
+
+[https://www.facebook.com/raj.panda.948](https://www.indeed.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fraj.panda.948&h=3ba40d8b)
+
+[https://www.linkedin.com/in/sopanda](https://www.indeed.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsopanda&h=752af633)
+
+## Additional Information
+
+OCP
+

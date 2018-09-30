@@ -1,0 +1,113 @@
+-  
+  
+# Data Science Intern
+
+## Actively seeking internship and job opportunities in data analytics, ML and
+NLP | An enthusiastic learner
+
+Mysuru, Karnataka
+
+-
+
+A fervent liking towards data analysis and machine learning algorithms. Always
+eager to learn and driven by the action of deriving meaningful insights out of
+large amounts of data. I have a covetous motive of making valuable
+contributions to the modern day industry and to work towards a better future.
+
+## Work Experience
+
+Data Science Intern
+
+Mysuru Consulting Group
+
+## Education
+
+B.E. in Electronics and Communication
+
+Sri Jayachamarajendra College of Engineering
+
+-
+
+Mysore, Karnataka
+
+May 2018
+
+Class XII in PCMC
+
+Vikas PU College
+
+-
+
+Mangalore, Karnataka
+
+March 2014
+
+Class X
+
+Sri Sathya Sai Loka Seva Vidyakendra
+
+-
+
+Mangalore, Karnataka
+
+March 2012
+
+## Skills
+
+Data Analysis (Less than 1 year), SQL (Less than 1 year), Machine Learning
+(Less than 1 year), Python (Less than 1 year), Statistics, RDBMS, NLP, PGM,
+Deep Learning, DWH
+
+## Links
+
+[https://github.com/kuntojirohan](https://www.indeed.com/url?q=https%3A%2F%2Fgithub.com%2Fkuntojirohan&h=5add0604)
+
+[https://www.kaggle.com/rohankuntoji](https://www.indeed.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Frohankuntoji&h=9190a0c1)
+
+[https://www.linkedin.com/in/rohankuntoji/](https://www.indeed.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frohankuntoji%2F&h=0c401fed)
+
+## Awards
+
+College Topper
+
+February 2015
+
+I was awarded as the topper of my college for securing 97 % in class 12 exams.
+
+## Certifications/Licenses
+
+Machine Learning - Stanford University, Coursera
+
+May 2018 to Present
+
+Python for Data Science
+
+June 2018 to Present
+
+## Groups
+
+OGV member support
+
+February 2018 to June 2018
+
+AIESEC is the world's largest youth organization providing internship
+opportunities to students and youth abroad. I volunteered as an OGV member
+support at AIESEC in Mysuru and was involved in helping students to apply for
+volunteering internships abroad.
+
+## Publications
+
+Autonomous Robot for 3D mapping and Object Detection
+
+[https://github.com/kuntojirohan/autonomous-robot-for-switch-board-
+detection](https://www.indeed.com/url?q=https%3A%2F%2Fgithub.com%2Fkuntojirohan%2Fautonomous-
+robot-for-switch-board-detection&h=094cd53c)
+
+May 2018
+
+This is a project wherein an autonomous robot is built which makes use of the
+3D mapping technique to map the entire environment and finally is able to
+navigate autonomously toward the detected switchboard within the environment.
+This project is developed with the basic idea of making the robot to be able
+to navigate toward the switchboard whenever it needs to be charged.
+

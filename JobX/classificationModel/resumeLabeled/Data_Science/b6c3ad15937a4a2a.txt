@@ -1,0 +1,64 @@
+-  
+  
+# Data Science and Machine learning Intern
+
+## Data Science and Machine learning Intern @ REVA Academy for Corporate
+Excellence
+
+Bengaluru, Karnataka
+
+-
+
+## Work Experience
+
+Data Science and Machine learning Intern
+
+REVA Academy for Corporate Excellence
+
+Assisting the resource person from top industries such as Target, Kabbage etc
+in conducting a session on Business Analytics and Data Science.
+
+## Education
+
+Bachelor of Technology in Computer Science
+
+Reva University
+
+-
+
+Bengaluru, Karnataka
+
+August 2015 to May 2019
+
+## Skills
+
+C++ (Less than 1 year), DATA ANALYSIS (Less than 1 year), DATA SCIENCE (Less
+than 1 year)
+
+## Awards
+
+Participated in national level Archery Competition condcuted by Navodya
+Vidyalaya Samiti
+
+September 2014
+
+## Additional Information
+
+Skills  
+Python3 Programming: Data Analysis and Data  
+Visualisation libraries (pandas, matplotlib, seaborn, plotly)  
+Web Development: HTML5, XML fundamentals, CSS fundamentals  
+Programming Languages: C, C++  
+Database Management Tools: Oracle Sql  
+  
+Projects Analysing Cryptocurrency Markets JANUARY 2018 - APRIL 2018  
+using Python and Data Science  
+Console Implementation:  
+Python 3 code in jupyter IDE to analyse and visualise the current
+cryptocurrency trends using  
+Quandl API and Python data visualisation libraries.  
+  
+CryptoScrapper:  
+An Ionic hybrid application to display current cryptocurrency trends using
+Cryptocompare API.
+

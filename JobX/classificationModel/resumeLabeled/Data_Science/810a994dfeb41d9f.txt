@@ -1,0 +1,145 @@
+-  
+  
+# Assistant Manager - Data Science
+
+## Assistant Manager - Data Science \- Flytxt
+
+-
+
+Highly motivated Engineer from Information technology with 7 years of
+experience in the field of Analytics. Expertise in solving business problem by
+using technical, analytical and communication skill.  
+Key Skill:
+
+## Work Experience
+
+Assistant Manager - Data Science
+
+Flytxt
+
+-
+
+Mumbai, Maharashtra
+
+-
+
+October 2017 to Present
+
+Responsibilities:  
+FSA (i.e. Feature Selection Automation) package for select feature in a model
+for any supervised learning algorithm in R programming and pyspark.  
+  
+Stratified Sample package for taking stratified sample from entire Base (i.e.
+More than 65 crore of record) in R programming.  
+Predicting whether the customer going to churn or not using Random forest
+algorithm in Python  
+Model Suggesting Best recharge offer to a respective customer by using
+statistical technique i.e. Euclidian Matrix, Manhattan Matrix and Cosine
+Similarity Matrix in R programming.  
+Predicting whether the customer using the operator sim is primary sim or
+secondary sim in Python.
+
+Senior Data Scientist
+
+Decision Minds India Private Ltd
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+July 2017 to September 2017
+
+Responsibilities: Model Migration from Green Plum to SAP HANA.
+
+Data Scientist
+
+MagicBus India Foundation
+
+-
+
+Mumbai, Maharashtra
+
+-
+
+November 2016 to July 2017
+
+Responsibilities:  
+Twitter Sentiment Analysis for HNI (High net worth individual)  
+Research on state, district and taluka data of India with respect to identify
+the area of intervention for our organization.
+
+Data Analyst
+
+eClinicalWorks India Pvt Ltd
+
+-
+
+Mumbai, Maharashtra
+
+-
+
+October 2011 to November 2016
+
+Responsibilities: Predicting patient appointment status using Logistic
+regression and H2O deep learning in R Programming.  
+Predict the status of the task using Decision Tree (i.e. CART) and Random
+forest in Python.  
+Importing, cleaning, transforming, validating and using various other Data
+Mining techniques on dataset to understand the behavior of data and making
+conclusions from the data for decision making purposes.  
+  
+Dynamic sales dashboard (i.e. sales watch app) for sales analysis and quick
+report using R shiny.  
+BI (i.e. Business intelligence) alerts for incorrect tomcat assignment for the
+practice with respect to number of provider.  
+Accept and denial of claim prediction using Machine Learning technique.  
+  
+Accomplishment:  
+Build FSA package (i.e. Feature Selection automation) package in both stand
+along and distributed environment for selecting feature / KPI for any
+supervised learning algorithm in R programming and Pyspark.  
+Build Stratified sample package in R to take sample from large dataset (i.e.
+more than 65 crore or record)  
+Automated the Feature selection process in Telecom domain for organization.  
+Created model to predict no show for the patient who has appointment schedule
+in Doctors appointment window.
+
+## Education
+
+BE in Information technology
+
+Padmashri Dr. Vitthalrao Vikhe Patil College of Engineering
+
+-
+
+Ahmadnagar, Maharashtra
+
+2007 to 2011
+
+Swami Vivekanand International School & Jr.College
+
+2006 to 2007
+
+ST. Lawrence High School Borivali
+
+2004 to 2005
+
+## Skills
+
+PYTHON (5 years), DATA MINING (5 years), DEEP LEARNING (5 years), LOGISTIC
+REGRESSION (5 years), MACHINE LEARNING (5 years)
+
+## Additional Information
+
+Technical skill:  
+Linux (Red hat), Windows servers, Apache tomcat, Database management, MYSQL,
+Replication, SQL, Microsoft Excel, and Microsoft PowerPoint.  
+  
+Analytical skill:  
+Base SAS, R programming, R shiny, Python, PySpark, Deep learning, Text mining,
+Excel, Segmentation and profiling, Data Mining, Machine Learning, Decision
+trees, Cluster analysis, Linear regression, logistic regression, Predictive
+modeling.
+

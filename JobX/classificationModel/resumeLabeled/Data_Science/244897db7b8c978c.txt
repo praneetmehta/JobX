@@ -1,0 +1,104 @@
+-  
+  
+# Consultant Data Science, Capgemini
+
+## Consultant Data Science, Capgemini - Multi-national metal and mining
+corporation
+
+-
+
+## Work Experience
+
+Consultant Data Science, Capgemini
+
+Multi-national metal and mining corporation
+
+-
+
+May 2017 to Present
+
+and Healthcare devices manufacturer  
+  
+* Market sentiment based price movement prediction Design and develop spot market price movement prediction model for 2 mining commodities based on multi-language and multi-source news market sentiments and other market indicators   
+* Model to predict the commodity price movement 3-4 hours before its traded for immediate delivery   
+* Involved in understanding, gathering and forming of requirements. Visited client office in Singapore for requirement gathering and solution design discussions   
+* Design and develop sentiment analysis model and price movement prediction model in azure machine learning platform   
+* Understand and estimate the important parameters based on statistical analysis   
+* Design and implement feature engineering techniques to improve model performance   
+* Preparation of technical documents to highlight and document the key facts   
+* Tools/Technology used: AzureML, Azure cloud, R, Python, azure data factory, azure blob, azure webapp   
+* Develop Azure data factory pipeline based solution to ensure smooth running of the entire system   
+* Detecting the level of analyte using vision based analyte analysis for pathological medical test strips   
+* Develop the image processing model using matlab and tensorflow in python to estimate the analyte level in the pathological test strip
+
+Software Engineer Data Analyst, Cybage
+
+-
+
+September 2015 to April 2017
+
+Client: US based healthcare solutions provider  
+  
+* Predict hospital re-admission rate Develop a model to predict the patient re-admission risk once discharged from the hospital as a decision support system for the hospital bed management system   
+* Discuss the design of prototype and various regression models   
+* Design and implement the predictive model in R based on machine learning algorithm   
+* Creating POC showcasing our expertise in healthcare domain   
+* Applied supervised (Random Forest, Partial Least Square), and univariate statistics (ANOVA) for feature selection   
+* Used SQL server as a backend database, R as prediction engine and Tableau as a visualization tool   
+* Experimenting various cleaning techniques and regularization techniques   
+* Use LACE Index (Used worldwide standard for patient readmission)   
+* Tools/Technology used: R, SQL database, Tableau   
+* Predict the candidate registration for courses Develop, understand, and design the predictive analytics model for potential user registration for the newly launched courses   
+* This resulted in determining the potential users thereby segmenting them to create automatic mail notification to improve no. of registrations   
+* Tools/Technology used: R, AzureML, SQL database, PowerBI   
+* Creating proof of concepts showcasing the significant value addition by predictive analytics model for the media and advertisement and hospitality domain customers
+
+Software Engineer Data Analyst/Engineer, Atos
+
+Netherland and Oil & gas distribution corporation
+
+-
+
+July 2011 to September 2015
+
+Client: Multinational retailer based in Netherland and Oil & gas distribution
+corporation  
+  
+* To determine the consumer shopping behavior and estimate the demand for grocery products depending on various factors based on time series seasonality, cyclic, patterns   
+* Communicating the data analysis results to highlight the potential key areas   
+* Develop and design the initial prototyping model to showcase the potential benefit to the business   
+* Tools/Technology used: R, R-Markdown, Tableau, Time series analysis, arima   
+* To design the report to monitor the gas supply over the Google Map using ggplot2 and GGMap package in R   
+* Streamline the data from various data sets and convert them into single structured sets   
+* Data pre-processing and cleaning activity helped in understanding the importance of data imputation, time series continuation, and handling incorrect data   
+* Showcasing group vertical expertise in data analysis, various R packages
+
+## Education
+
+B. E. I. in I. T
+
+University of Pune
+
+-
+
+Pune, Maharashtra
+
+2011
+
+Johns Hopkins University
+
+## Skills
+
+HEALTHCARE (3 years), MACHINE LEARNING (3 years), RANDOM FOREST (1 year), DATA
+SCIENCE (1 year), MATLAB (1 year)
+
+## Additional Information
+
+Technologies: Data Science, Machine learning, Deep Learning, Artificial
+Intelligence  
+Tools: R, RStudio, Azure machine learning, H2O, Matlab, Tensorflow, Azure
+cloud, Tableau, PowerBI, etc.  
+Algorithms: Regression, Classification, Random forest, Decision tree, SVM,
+Neural network, Xgboost, Gradient boosting etc.  
+Industries: Spot market, Healthcare, Retail, Energy/Utilities, Mining
+

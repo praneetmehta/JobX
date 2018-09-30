@@ -1,0 +1,133 @@
+-  
+  
+# Data Science Intern
+
+## Data Science Intern
+
+Bengaluru, Karnataka
+
+-
+
+## Work Experience
+
+Data Science Intern
+
+Fusion Informatics
+
+-
+
+Ahmedabad, Gujarat
+
+-
+
+January 2018 to April 2018
+
+Title: ETL Process  
+Abstract: The role is responsible for working with the team to handle
+Extraction, Transformation, and  
+Loading processes. Extraction: It consist of retrieval of unstructured data
+from various data sources. Transformation: It consist of development of
+cleaning functions and validations using regular expressions. Loading: It
+consist of loading the cleaned data and create the data source to display
+requested and KPI based data on the dashboard in forms of graphs and charts.  
+  
+Programming languages, Databases, Tools: Python, MySQL, MogoDB, Django,
+Jupyter Notebook, Jenkins, AWS
+
+## Education
+
+M.Sc. in CA & IT
+
+Krantiguru Shyamji Krishna Verma Kachchh University
+
+-
+
+Bhuj, Gujarat
+
+June 2016 to May 2018
+
+B.Sc. in CA & IT
+
+Krantiguru Shyamji Krishna Verma Kachchh University
+
+-
+
+Bhuj, Gujarat
+
+June 2013 to May 2016
+
+H.S.C. in Science
+
+Sheth Virji Devshi High School
+
+-
+
+Bhuj, Gujarat
+
+2011
+
+S.S.C. in GSEB
+
+Sheth Virji Devshi High School
+
+-
+
+Bhuj, Gujarat
+
+2009
+
+Per
+
+## Skills
+
+MYSQL (Less than 1 year), PYTHON (Less than 1 year), .NET (Less than 1 year),
+ADOBE PHOTOSHOP (Less than 1 year), C# (Less than 1 year)
+
+## Additional Information
+
+Effective communication skills.  
+  
+Good command over mathematics and statistics.  
+  
+Efficient team work and dedication.  
+  
+Technical Skills  
+  
+Programing languages: C, C++, C#, VB.NET, Java, SQL, Python, R  
+  
+Database: Oracle 10g, MySQL, MongoDB, OrientDB  
+  
+IDE Tools and Platforms: Microsoft Visual Studio, Eclipse, NetBeans, Hadoop  
+  
+Operating Systems: Windows […] Ubuntu 16.04.  
+  
+Projects  
+  
+1) Title: Globe Ball (Windows phone 8.0 Game)  
+  
+Abstract: A space adventure game, where player "GlobeMan" needs to kill
+enemies "Alien spaceships" and protect different planets. Both the GlobeMan
+and Alien spaceship can move upward and downward positions in their aligned
+areas. The Globeman and Alien spaceship can fire at each other. GlobeMan needs
+to collect GlobeBall to gain power and move to next level by destroying alien
+spaceship.  
+  
+Programming languages, Database, Tools: C#, MySQL, Adobe Photoshop, Microsoft
+Visual Studio Pro. 2013  
+  
+2) Title: Time Series Analysis  
+  
+Abstract: Forecast the earthquake tremors and frequency based on past data and
+plot the result on graph.  
+The goal in a time series analysis is often prediction. This is attained by
+choosing and then fitting  
+a good model for the time series. Models have, typically, three components:  
+A trend component: is there a general upward/downward trend?  
+A seasonal component: are there regular cycles to the data?  
+A model for the correlation structure of the data  
+This project contains data display of Magnitude average per day, Magnitude
+rolling mean,  
+Histogram and Magnitude forecasting.  
+  
+Programming language & Tool: Python, Jupyter Notebook
+

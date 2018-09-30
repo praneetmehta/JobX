@@ -1,0 +1,119 @@
+-  
+  
+# Data Science and Machine Learning Intern
+
+## MSc with working knowledge in Bioinformatics ,Data Science and Machine
+Learning
+
+Mumbai, Maharashtra
+
+-
+
+Company Name Designation Duration  
+Simple & Real Analytics Data Science and Machine Learning Intern Nov 2017-
+Present  
+Binstech Bioinformatics Analyst May 2016- June 2017  
+Jaslok Hospital and Research Center Research Fellow Jan 2014- July 2014  
+Patkar- Varde College, Mumbai Lecturer (Biotechnology and Microbiology Dept.)
+Aug 2009-Dec 2013
+
+## Work Experience
+
+Data Science and Machine Learning Intern
+
+Simple & Real Analytics Pvt. Ltd
+
+-
+
+Mumbai, Maharashtra
+
+-
+
+November 2017 to Present
+
+Key Job Responsibilities:  
+• Worked on Machine Learning in R- Data Analytics, Probability, Statistical
+Concepts,Hypothesis testing,  
+• Performing Data Analysis, Statistical Model Building, Predictive Analysis,
+Parameter Tuning, Visualization in R-Studio using packages  
+• Creating Chatbot in R using NLP and Tm package for Educational Enquiry
+Purpose  
+  
+• Worked on HR Analytics Project to predict Attrition rates using Machine
+learning Algorithm in Python using numpy, pandas and scikit-learn with
+Comparing performance of different algorithms in Python with for best model
+selection based on Precision and Accuracy  
+  
+• Extracting data from Medical IOT device and analysis using Python Scikit-
+Learn, Pandas and Plotly
+
+Bioinformatics Analyst
+
+Rishi Biotech
+
+-
+
+Mumbai, Maharashtra
+
+-
+
+May 2016 to June 2017
+
+Key Job Responsibilities:  
+• Cancer gene analysis using Bioinformatics Pharmaco genomics using NCBI,
+Databases and Clustal W2, Pdraw32, Treeview, DS_gene 1.1, Vector NTI  
+• Worked on Next generation Sequencing Tools-SRA, SRA toolkit, fastQC,
+SRA_GATK Tool Kit and BWA with Genome Viewer Tools
+
+Research Fellow - Genetics Dept
+
+Jaslok Hospital and Research Center
+
+-
+
+Mumbai, Maharashtra
+
+-
+
+January 2014 to July 2014
+
+Key Job Responsibilities:  
+• Worked on project -"24 Chromosome Aneuploidy screening using Microarray
+technology from Single cell"  
+• Conducted analysis on Blood cells for Chromosomal Abnomality using
+Karyotyping and FISH technologies
+
+## Education
+
+MSc in Biotechnology
+
+C.K Thakur College, Panvel (Mumbai University)
+
+-
+
+Mumbai, Maharashtra
+
+BSc in Biotechnology
+
+N B Mehta College, Bordi (Mumbai University)
+
+-
+
+Mumbai, Maharashtra
+
+## Skills
+
+MACHINE LEARNING (Less than 1 year), APACHE HADOOP HDFS (Less than 1 year),
+APACHE HADOOP MAPREDUCE (Less than 1 year), APACHE HADOOP SQOOP (Less than 1
+year), Hadoop (Less than 1 year)
+
+## Additional Information
+
+Technical Skills:  
+Programming Languages Oracle, MySQL  
+Machine Learning and Data Science R- R Studio, Python-Numpy, Pandas, Scikit-
+Learn, Plotly,  
+Big Data Technologies  
+  
+Genetics and Bioinformatics
+

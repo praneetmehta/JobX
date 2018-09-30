@@ -1,0 +1,202 @@
+-  
+  
+# Data Science Specialist/Consultant
+
+## Data Science Specialist/Consultant - CAPGEMINI INDIA
+
+Bengaluru, Karnataka
+
+-
+
+An engineering graduate from Sathyabama University, Chennai. An astute
+professional with 3+ years of work  
+experience in Data/Pattern Analysis, Prediction model building, Statistical
+Machine learning, Time Series Analysis,  
+Business process improvements and Visualization.  
+  
+➢ Analyze Data, provide insights and provide necessary recommendations  
+➢ Building prediction models to predict the business objectives there by
+assessing the risk of not meeting the  
+business goals  
+➢ Data mining techniques such as Principle Component Analysis (PCA) and
+Cluster Analysis  
+➢ Machine learning algorithms such as Decision tree, Random Forest, Naïve
+Bayes, k-NN and Neural Networks  
+➢ Time Series Forecasting using Croston, TSB, ETS and 1D Convolutional Neural
+Network  
+➢ Text mining and Classification.  
+➢ Customer Analytics concepts such as segmentation and RFM  
+➢ Image Classification using CNN and DNN with Keras  
+➢ Worked on R, Python, Keras and familiar with Alteryx, Tableau and SQL
+
+## Work Experience
+
+Data Science Specialist/Consultant
+
+CAPGEMINI INDIA
+
+-
+
+February 2018 to Present
+
+Project: Sales Quota Prediction Analytics (Resellers & Distributors)  
+• To predict the Sales Quota for individual partners and generate revenue by
+linking quotas to compensation  
+plan.  
+• Identify the required data consisting of Market Share and Market Index data.  
+• Find patterns, trend and perform feature engineering on the available data.  
+• Implementation of Models to provide better Accuracy of Predictions.  
+• Removal of Outliers from the predictions and performing Growth Rate
+Analysis.  
+• Implementation of Time Series Methods for Sparse data and intermittent data.  
+• Time Series Prediction using 1D Convolutional Neural Network and Dense
+Neural Network.  
+• Tools and Techniques: R, Python, Keras, Time Series, TSB, Corston, Random
+Forest, Stacking, Parallel Processing,  
+regression, CNN, DNN.  
+  
+Project: Quota Prediction Analytics (End Users)  
+• To predict the Quota for End Users and linking it to compensation plan of
+Sales Representatives.  
+• Identified the data to be used and acquiring data that can be of
+significance.  
+• Time series forecasting has been used due to the unavailability of any
+significance variable.  
+• Feature engineering on the timeseries data and implementation of Lasso and
+Ridge regression  
+• Growth Rate Analysis of the Accounts.  
+• Tools and Techniques: R, Time Series, TSB, Lasso, Ridge, penalized
+regression.
+
+Data Analyst/Software Engineer
+
+WIPRO TECHNOLOGIES Pvt. Ltd
+
+-
+
+April 2014 to February 2018
+
+Project: Building Prediction model for resale value of a Vehicle  
+• To build a model to predict the resale price of a given vehicle based on the
+service history and specifications.  
+• Considered the dataset comprising vehicle specifications and service history
+for different Models and Brands.  
+• Performed Regression and regularization method Lasso to get the most
+significant variables.  
+• Penalized regression was used to get satisfactory result on the test
+dataset.  
+• Tools and Techniques: R, Regression, Lasso regression, scatter diagram, VIF.  
+  
+Project: Text Analysis  
+• To Classify the text record which are logged as a part of a Grievance
+Redressal System into different classes and route them to respective
+departments.  
+• Users raise the request based on their issues faced and queries for
+clarification. The categorization was done  
+manually by domain experts and was standardized.  
+• Data pre-processing techniques included- removing stop words, extra white
+spaces, numbers, stemming the words.  
+• Tokenization was done using DocumentTermMatrix. Naive Bayes model was built
+with good accuracy.  
+• Rerouting tickets automatically to respective departments.  
+• Tools and Techniques: R, Naive Bayes, Logistic Regression.  
+  
+Project: Marketing Analytics  
+• To identify clusters of customers having similar characteristics for the
+purpose of targeting different segments with different types of promotional
+offers and benefits to have a significant increase in ROI.  
+• Cluster Analysis was done using Hierarchical and K-Means Clustering.  
+• 4 clusters based on travel frequency was finalized and multiple marketing
+techniques were shared.  
+• Tools and Techniques: R, Cluster Analysis (hierarchical and K-means
+clustering)  
+  
+Project: Manufacturing Analytics  
+• To identify the defects of a specified product and minimize the defective
+rate.  
+• Category formation for better understanding of success rate.  
+• Understanding the outliers to identify the defect arising from multiple
+machines.  
+• Implementation of KNN Model to find the defective machine.  
+• Finding the optimum K value to get better accuracy.  
+• Tools and Techniques: R, KNN, Outliers detection, Euclidean distance,
+logistic regression.  
+  
+Organization: Capgemini India  
+➢ As a consultant, working closely with the clients in identifying pain areas
+in Business  
+➢ Defining the project scope and suggesting tools and analytical techniques  
+➢ Analyzing, interpreting patterns in large sets of data and provide insights
+to the management  
+➢ Statistical analysis of various projects through usage of appropriate
+statistical techniques such as linear  
+regression, Logistic regression, segmentation.  
+➢ Providing solutions to the business problems by applying analytics
+techniques such as Regression, clustering and  
+Machine Learning  
+➢ Built POCs and present to the clients  
+➢ Identifying the improvement areas, implementing the action items and
+verifying the effectiveness of the improvements by applying the statistical
+techniques.  
+➢ Visualization of KPIs  
+  
+Personal Projects:  
+Project 1: Image Classification  
+• To classify image of hand written numbers.  
+• Data Pre-processing by reshaping image to required 3D array.  
+• Implementing 2D Convolutional Neural Network using Keras.  
+• Implementing combination of CNN and DNN.  
+• Analyzing mis-classifications.  
+• Tools and Techniques: Keras, Python, CNN, DNN, Optimization.
+
+## Education
+
+B.E in Automobile
+
+Sathyabama University
+
+-
+
+Chennai, Tamil Nadu
+
+2013
+
+C.B.S.E
+
+Air Force School
+
+-
+
+Jorhat, BANGLA, IN
+
+2009
+
+I.C.S.E
+
+Carmel School
+
+-
+
+Jorhat, BANGLA, IN
+
+2007
+
+## Skills
+
+NEURAL (4 years), NEURAL NETWORK (4 years), MACHINE LEARNING (3 years),
+VISUALIZATION (3 years), DATA ANALYSIS (Less than 1 year)
+
+## Additional Information
+
+Skill Set:  
+• Business Analytics  
+• Descriptive Analytics  
+• Data Analysis  
+• Data mining /Machine Learning  
+• Building prediction models  
+• Text Mining  
+• Data Visualization  
+• Time Series Analysis  
+• Neural Network  
+• Image Classification
+

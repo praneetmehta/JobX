@@ -1,0 +1,155 @@
+-  
+  
+# DATA SCIENCE MENTOR
+
+## Data Scientist, Author, Editor, Trainer and Mentor. Looking for interesting
+positions around Data Science and Machine Learning.
+
+Bengaluru, Karnataka
+
+-
+
+## Work Experience
+
+DATA SCIENCE MENTOR
+
+Springboard
+
+-
+
+San Francisco, CA
+
+-
+
+August 2017 to Present
+
+• Mentoring and helping students with an extensive Data Science curriculum  
+• Part of the mock interview and on-demand mentors team
+
+AUTHOR
+
+Springer/Apress
+
+-
+
+New York, NY
+
+-
+
+April 2016 to Present
+
+• Authored several popular books on Natural Language Processing & Machine
+Learning with Python  
+• Working on the 2nd edition for a book focused on Natural Language Processing
+
+Data Scientist
+
+Intel
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+February 2015 to Present
+
+• Data scientist for Enterprise Data Platforms & Advanced Insights.  
+• Leveraging data science and machine learning for building intelligent
+systems and solutions.  
+• Core Member of Analytics Community of Practice, AI Work Groups.  
+• Internal Trainer\Instructor on areas around AI and Data Science.
+
+AUTHOR
+
+Packt
+
+-
+
+Birmingham
+
+-
+
+October 2014 to Present
+
+• Authored several books on R, Machine Learning, Social Media Analytics  
+• Working on a book around Deep Learning & Transfer Learning and a video
+course on R & Machine Learning  
+  
+Skills  
+Programming Languages: Python, R, Java, C, JavaScript, Octave, Matlab  
+Databases: MySQL, MSSQL, MongoDB, CouchDB  
+Big Data Frameworks: Hadoop, HDFS, Pig, Hive, HBase, Impala, Spark  
+Analytics Frameworks: NumPy, SciPy, scikit-learn, statsmodels, H2O, pandas,
+nltk, spacy  
+Deep Learning Frameworks: keras, theano, tensorflow, H2O  
+Analytics & BI Tools: SSAS, SSRS, Tableau, Power BI, Weka, RapidMiner, KNIME,
+DataRobot,  
+Web Frameworks & Languages: HTML, CSS, jQuery, Angular JS, Node JS, d3JS,
+Flask, Django  
+Search Platforms: Solr, ElasticSearch, Logstash, Kibana  
+  
+Awards  
+Intel Divisional Recognition Award, Recognized for driving efficiencies in
+Infrastructure through  
+Apr 2018 Intel  
+Advanced Analytics and Data Science.  
+1st Place at Intel IT Technical Leadership Conference, Best Technical Paper
+based on Judges and
+
+DATA SCIENTIST
+
+Intel
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+December 2013 to June 2014
+
+Feb 2015 - Present  
+• Part of the Enterprise Advanced Analytics & Insights Team  
+• Part of core teams involved in AI strategy, ML Technical Work Group,
+Analytics Community of Practice  
+• Leveraging Data Science and Advanced Analytics for building intelligent
+systems enabling reactive and proactive data-driven decisions
+
+## Education
+
+M. Tech (Data Science & Software Engineering) in INFORMATION TECHNOLOGY
+
+International Institute of Information Technology
+
+-
+
+Bengaluru, Karnataka
+
+June 2012 to July 2014
+
+BACHELOR OF TECHNOLOGY in COMPUTER SCIENCE AND ENGINEERING
+
+West Bengal University of Technology
+
+-
+
+Kolkata, West Bengal
+
+April 2008 to June 2012
+
+## Skills
+
+Data Science, Databases, Machine Learning, Distributed Systems, Java, R, Deep
+Learning, Python, SQL
+
+## Links
+
+[http://linkedin.com/in/dipanzan](https://www.indeed.com/url?q=http%3A%2F%2Flinkedin.com%2Fin%2Fdipanzan&h=20c17ff2)
+
+## Additional Information
+
+Data Scientist, Machine Learning Practitioner, Author, Trainer. Looking for a
+position relevant to leveraging Analytics, Data Science, Machine Learning to
+enable data driven insights to drive business value.
+

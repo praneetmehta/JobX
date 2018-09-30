@@ -1,0 +1,111 @@
+-  
+  
+# Data Science Intern
+
+## Data Science Intern - Algoritmo
+
+Chennai
+
+-
+
+As a Data Science Intern, I have experience in machine learning and
+statistical analysis techniques.  
+Experience in developing data driven algorithm to solve business problems.  
+Understanding of data product development cycle from requirement gathering,
+hypothesis setting, data collection, exploratory analysis, algorithm/model
+development.
+
+## Work Experience
+
+Data Science Intern
+
+Algoritmo
+
+-
+
+Chennai, Tamil Nadu
+
+-
+
+March 2018 to Present
+
+Chennai  
+  
+\- As a part I worked on different projects of various Domains based on the
+problem definitions
+
+Data Science Intern
+
+Algoritmo
+
+-
+
+March 2018 to Present
+
+EGC-CMF - EGC-CMF Tamil Nadu Panel Survey
+
+-
+
+Chennai, Tamil Nadu
+
+-
+
+2018 to Present
+
+is a collaboration between the Yale Economic Growth Center and the Center for
+Micro Finance.  
+◦ Twitter Sentiment Analysis - Sentiment Analysis of a particular hash-tag for
+Singapore The Amazing Maritime Challenge ("AMC 2018") related tweets analyzing
+whether it holds positive tweets or negative tweets  
+* Strong Understanding of text pre-processing, Lexicons based Sentiment Analysis and Normalization techniques   
+* Libraries used to do sentiment analysis are NLTK, Textblob in Python and syuzhet and sentiment packages in R   
+  
+◦ Lending Club Loan Analysis - The purpose of modelling, will be predict if a
+loan will default or not.  
+◦ Fuel Consumption Prediction - The data was collected from Hyundai Creta in
+different location of Chennai Using driver behavior and vehicle parameter  
+* Linear regression and random forest for identification of most significant parameters which affect fuel consumption
+
+Talent Acquisition Executive
+
+Covenant Consultants
+
+-
+
+Chennai, Tamil Nadu
+
+-
+
+June 2016 to October 2017
+
+Chennai
+
+## Education
+
+Post Graduate Programs in Data Analytics in Caravan Insurance Prediction
+
+Imarticus Learning
+
+-
+
+Chennai, Tamil Nadu
+
+## Skills
+
+Pig, Big Data Analytics, Python, Hive, Machine Learning, Predictive Modeling,
+Natural Language Processing, Scala, Hadoop, Spark, R, Deep Learning
+
+## Additional Information
+
+SKILLS  
+Analytical Techniques Supervised, Unsupervised, Natural Language Processing,
+Big Data Analytics and Deep Learning (TensorFlow & Keras)  
+Programming Python, R, SAS, Octave and SPSS  
+Database SQL and MySQL  
+Big Data Hadoop, HDFS, Spark (Scala & Python), Sqoop, Hive, Pig, MapReduce,
+HBase, Oozie and ZooKeeper  
+Visualization Tools Power BI, Tableau, Matplotlib and Seaborn in Python,
+ggplot in R  
+Research Libraries Scikit-Learn, NLTK  
+Version Control GitHub
+

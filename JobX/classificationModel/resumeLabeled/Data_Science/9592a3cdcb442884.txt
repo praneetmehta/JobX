@@ -1,0 +1,109 @@
+-  
+  
+# Data Science Engineer
+
+## Data Scientist
+
+Bangalore, Karnataka
+
+-
+
+To find a Data Scientist position in an organization in order to optimize
+mathematical and statistical skills, where I can leave a remarkable impression
+of inimitable work.
+
+## Work Experience
+
+Data Science Engineer
+
+Nikulsan Pvt Ltd
+
+-
+
+July 2016 to Present
+
+Machine learning  
+NLP  
+Statistical modelling  
+AI implement  
+Working on in house product  
+Developing digital marketing AI system from scratch
+
+Senior Associate (Data Analysis)
+
+''Innodata India Pvt. Ltd
+
+-
+
+November 2014 to October 2015
+
+Projects and Assignments:  
+• Copy number of variation calling from Exome sequencing (NGS) data.  
+• Classification of the neoepitopes for the cancer with respect to immunity
+(using neural network and machine learning methods)  
+• Cancer Mutation drivers (Using Regression and Anova models to significance
+deferent in protein domains)  
+• Working on clinical present sample classification on large scale data  
+• Supporting all genomic research projects with statistical and machine
+learning modelling (model selection)  
+• Develop Statistical and machine learning pipelines for the analysis of NGS
+data  
+• Analyse large-scale genomic data and develop statistical testing methods to
+support valid interpretation and inferences  
+• Regularly present data review and participate in writing papers and other
+technical documents  
+Experience as ''Senior Associate (Data Analysis) '' in ''Innodata India Pvt.
+Ltd.'' (Nov 2014 to Oct 2015)
+
+## Education
+
+M.sc in Statistics
+
+Central University of Rajasthan
+
+-
+
+Ajmer, Rajasthan
+
+July 2012 to July 2014
+
+B.sc in Mathematics, Physics and Chemistry
+
+MJPR University
+
+-
+
+Bareilly, Uttar Pradesh
+
+## Skills
+
+Bash (2 years), Statistical & Machine learning Modelling (3 years), Python (2
+years), machine learning (2 years), R programming (4 years)
+
+## Additional Information
+
+SKILLS:  
+  
+• Savvy in statistical modeling and machine learning techniques  
+• Proficiency to develop new pipelines for the data analysis  
+• Proficient in Statistical methods, Probability theory and pattern
+racemization  
+• Strong mathematical, interpretation, analytical and diagnostic skills  
+• Proficiency in R, Python, Linux and SparkR and pyspark (packages)  
+• Strong aptitude to use analytical programming languages  
+  
+Computer and software skills:  
+• Analytical programming's like R, Python, Julia, Spark, MySQL, Excel, Bash,
+Linux and Shell  
+• Excellent proficiency in R, and python  
+• Ability to effectively use statistical and machine learning methods on
+server  
+  
+RELEVANT SKILLS:  
+  
+• Profound ability to guide and lead multi-disciplinary teams, Finance,
+Project Management, resource management.  
+• Team player and quick learner with enthusiastic to work in fast-growing
+network surroundings  
+• Ability to prioritize work tasks
+

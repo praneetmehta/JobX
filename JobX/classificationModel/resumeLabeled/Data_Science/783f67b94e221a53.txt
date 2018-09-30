@@ -1,0 +1,235 @@
+-  
+  
+# Job seeker for Data Science and Machine Learning
+
+## Data Science and Machine Learning
+
+Bengaluru, Karnataka
+
+-
+
+Young, energetic and result-oriented in Data Science/Machine Learning and 3
+Years of EDP functions, MIS  
+reporting and data analysis HR operations, Staffing. Strong analytical skills
+and data manipulation, Organized and  
+well-structured at work Recommends resolutions to complex matters of
+significance and coordinate the  
+implementation of the approved course of action  
+  
+Knowledge Skills  
+• Proficient in machine learning various types of Algorithms. Language: Python  
+[Regression, Classifier and Clustering] NumPy, SciPy, Scikit-learn, Pandas,
+Matplot,  
+  
+• Good knowledge in different types of machine Learning Algorithms Seaborn
+
+## Work Experience
+
+Job seeker for Data Science and Machine Learning
+
+Yet to get
+
+Ø Good knowledge in different types of machine Learning Algorithms (Supervised
+and Unsupervised)  
+Ø Have relevant knowledge in Statistical modelling, Data processing and worked
+on Predictive modelling, Forecasting, Linear regression, Logistic Regression,
+Decision tree, Clustering, Market basket analysis & Time series Analysis  
+Ø Very Good Experience in MS Excel.  
+Ø Good Knowledge in Data Science Life cycle and Machine Learning Algorithms  
+Ø Experienced in Creating Models and improving Existing Machine Learning
+Model.
+
+HR Associate
+
+Heritage Madurai
+
+-
+
+Madurai, Tamil Nadu
+
+-
+
+December 2017 to February 2018
+
+o  Data Analysis and MIS reporting  
+o  Payroll compensation, attendance processing  
+o  Coordinate personnel support  
+o  Maintaining employee personal files  
+o  Statutory compliance  
+o  Personnel administration
+
+Admin/MIS Executive
+
+Tough Bags
+
+-
+
+Madurai, Tamil Nadu
+
+-
+
+December 2015 to November 2017
+
+Trainee Staffing services
+
+Aparajitha Corporate Services Ltd
+
+-
+
+Madurai, Tamil Nadu
+
+-
+
+February 2015 to November 2015
+
+## Education
+
+MBA
+
+Anna University, Chennai
+
+-
+
+Madurai, Tamil Nadu
+
+July 2012 to July 2014
+
+B.Sc., in Computer Science
+
+Sourashtra College, Madurai Kamaraj University
+
+-
+
+Madurai, Tamil Nadu
+
+April 2009 to April 2012
+
+## Skills
+
+CLUSTERING (Less than 1 year), DATA ANALYSIS (Less than 1 year), DATA CLEANING
+(Less than 1 year), Python, Machine learning, Exploratory Data Analysis, MS
+Excel
+
+## Certifications/Licenses
+
+Data Science Specalist
+
+March 2018 to August 2018
+
+Statistics of Data Science and Machine Learning
+
+May 2018 to Present
+
+## Additional Information
+
+Operating Systems: Windows, Windows  
+(Supervised and Unsupervised)  
+Server.  
+• Have relevant knowledge in Statistical modelling, Data processing Tools &
+Utilities: MS Office.  
+and worked on Predictive modelling, Forecasting, Linear regression, Databases:
+MYSQL  
+  
+Logistic Regression, Decision tree, Clustering, Market basket analysis &
+Experience  
+Time series Analysis  
+Heritage Madurai (A Unit of Grand Luxe  
+  
+Technical Qualification  
+Project Title: Customer Churn Prediction  
+HDCHN - (Honour Diploma in Computer  
+Language: Python - Logistics Regression  
+Hardware and Networking) at Faast Track  
+Description: The objective is to identify Customer Churn Computer Education,
+Madurai -Jul '2009  
+(customers having high probability of discontinuing from the DCA - Diploma in
+Computer Application at  
+service) now or in future based on existing data. It also involves Faast Track
+Computer Education, Madurai -  
+understanding the factors that drives them to their decisions so Nov '2009  
+proper remedial measures can be done to retain such  
+customers. Personal Info  
+Responsibilities:  
+Full Name: Raajesh Babu Kuppa Moorthy  
+• Model was built to predict customers who have are more likely Father's name:
+Moorthy K H  
+to churn out  
+• Transformed continuous variable using custom logic into  
+meaningful factor variable will improve the model  
+  
+performance and help understand the insights of the  
+  
+data  
+• Performed univariate and bivariate analysis to Languages: Tamil, English and
+Sourashtra.  
+understand the distribution of the variable and find out Permanent address: 2,
+School lane, South  
+significant variable for further analysis Krishnan kovil street, […] Performed
+Logistic Regression Analysis  
+• Validated the model using various test like Multicollinearity,  
+Concordance, Confusion matrix.  
+  
+Project Title: Customer Segmentation  
+Language: Python - K-Means Clustering  
+  
+Description: A survey was done to study the consumer  
+segmentation based on theirs spending preference in a Mall.  
+We have questionnaire pointing out spending score based on  
+ratings ranging from 1 to 100 which would provide the  
+information on consumer buying preference in a Mall.  
+  
+Responsibilities: -  
+  
+• Used Cluster Analysis where made used of K-Means Cluster  
+Analysis  
+• Using Elbow curve found out k value by within cluster sum of  
+square & record is grouping to which cluster group  
+• Did Profiling using descriptive statistics to categorize the  
+consumer's based on their preferences  
+• Performed grouping of identified variables having same similar  
+near data range & found out the centroid for each cluster  
+Project Title: Employee Attrition Prediction  
+Language: Python - SVM  
+  
+Description: An organization has manufacturing unit and employing around three
+different functional areas. As on  
+the last day of the year, the company had lost few productive employees. The
+company would like to use this  
+information and predict how many of the current employees would stay with the
+organization in future.  
+  
+Responsibilities: -  
+  
+• Used Support vector machine Classification techniques where classify
+employees by live and relieved  
+• Performed some exploratory data analysis and data cleaning process to the
+dataset and filling up missing value  
+• Converted categorical column to numeric feature  
+• Made model with basic parameters and evaluated by metrics  
+• Improving model by using grid search method to find the best estimators for
+the model's parameters  
+• Validate the model by using multicollinearity, confusion matrix and
+classification report  
+  
+Project Title: Iris Species Classification  
+Language: Python - K-NN  
+  
+Description: The Iris flower data set or Fisher's Iris data set is a
+multivariate data set introduced by Sir Ronald Fisher in  
+the 1936 as an example of discriminant analysis. The data set consists of
+three species of Iris (Iris setosa, Iris virginica  
+and Iris versicolor) and four features were measured from each sample: the
+length and the width of the sepals  
+and petals, in centimeters.  
+Responsibilities: -  
+  
+• The model is used to test classify iris flower species using K-Nearest
+Neighbors Classification  
+• We used to seaborn library to get the iris dataset  
+• Performed some exploratory data analysis and data cleaning process to the
+iris dataset  
+• Splitting data into training/testing using Stratified random sampling  
+• Improving model by using elbow method with error rate to found out K value  
+• Perform model with found K-value and evaluated with confusion matrix and
+classification report
+
