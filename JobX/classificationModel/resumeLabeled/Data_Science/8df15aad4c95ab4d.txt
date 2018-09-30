@@ -1,0 +1,50 @@
+-  
+  
+# Senior Associate Analyst - Data Science
+
+## Data analyst with proficient knowledge of Statistics and Mathematics. Eager
+to improve understanding of business operations and analytical tools for
+effective data analysis
+
+Mumbai, Maharashtra
+
+-
+
+## Work Experience
+
+Senior Associate Analyst - Data Science
+
+Infosys
+
+-
+
+August 2017 to Present
+
+Used SQL and R software for data extraction and preparation respectively for
+further analysis.  
+Successfully interpreted data to draw conclusions using tableau software.  
+Used statistical techniques to validate interpretations using R.
+
+## Education
+
+M.Sc Statistics
+
+Mumbai University
+
+B.Sc
+
+Ramnarian Ruia College
+
+HSC
+
+SIES college
+
+SSC
+
+St. Xaviers High School
+
+## Skills
+
+Analytics, OLS, logistics regression, linear regression, time series anaysis,
+Decision tress
+

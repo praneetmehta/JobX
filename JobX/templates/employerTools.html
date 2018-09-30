@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block nav_menu %}
+{{ super() }}
+	<ul id="nav-mobile" class="right hide-on-med-and-down">
+  		<li><a href="/user"><span class="glyphicon glyphicon-user"></span> Welcom {{ session['user'] }}</a></li>
+  		<li><a href="/logout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+	</ul>
+{% endblock %}
+
+
+{% block page_content %}
+	<form action='/user/employerTools' method="POST">
+		<h4>Enter <b>Job Description</b> in this box</h4>
+	    <textarea rows="40" cols="50" placeholder="Enter Job Description" style="height: 500px" name="JD">
+		   </textarea>
+	    <input type='submit' value='Submit' class="wave btn">
+	    
+	</form>
+	<script type="text/javascript">
+		{% for message in get_flashed_messages() %}
+			M.toast({html: '{{ message}}'})
+		{% endfor %}
+	</script>
+{% endblock%}

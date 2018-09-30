@@ -1,0 +1,331 @@
+-  
+  
+# Manager - Data Science and Research
+
+## Manager - Data Science and Research
+
+Noida, Uttar Pradesh
+
+-
+
+Intend to build a career with corporate of environment, which has got passion
+for technology, which will help me to explore myself and realize my potential.
+Willing to work as a player in challenging and creative environment.
+
+## Work Experience
+
+Manager - Data Science and Research
+
+UNITED HEALTH GROUP
+
+-
+
+2009 to Present
+
+Leading and set up the team of HEOR Analyst researchers of Data Mining and
+research. Supporting and contributing to enhancing Optum Business Market:  
+Leading a team of Data Scientist for OPTUM Analytics.  
+  
+Job Responsibility:  
+  
+Research study feasibilities/Modeling  
+➢ Conduct research which includes defining study objectives and design
+including the methods, limitations and conclusions that result in peer-
+reviewed publications.  
+➢ Research on finding new insights using machine learning using but not
+limited to regression , classification , clustering , NLP and deep learning
+methods.  
+➢ Create research ready datasets by extracting data from ORD and linking it to
+external data.  
+➢ Programming for research study feasibilities/presales:  
+➢ + Responsibility for claims and clinical data extract and programming for
+required variables and creating analytic datasets by using multiple data files
+from different sources using SAS UNIX or Enterprise Guide  
+➢ + Communicating with Life Sciences users about issues in programming and
+providing solutions to the issues  
+➢ + Investigation and application of new SAS programming methods/techniques to
+enhance current systems and standard programming procedures  
+  
+Data Consulting / Exploratory Analysis  
+➢ + Creating data dictionaries/Dashboards  
+➢ Describe and summarize populations within the data to facilitate the
+understanding of data assets.  
+➢ + Providing consultation for Life Science
+Researchers/Epidemiologist/Marketing Analytics for data features and
+application and suggestion of how to use the data  
+➢ Consult on potential research and analytic studies based on available data
+assets.  
+  
+Documentation and Training  
+Mentoring and building SMEs  
+  
+➢ + Training new employees on applications used by the department  
+➢ Defining strategies for new processes and technology at either regional or
+global level.  
+➢ + Present overviews of new data sources and applications as needed  
+  
+Analytics and Modeling  
+Congestive heart failure (CHF) Risk Prediction utilizing EHR/EMR- Machine
+Learning  
+  
+Objective:  
+Development of a risk model to predict HF in patients with stable coronary
+artery disease and preserved ejection fraction for elderly patients.  
+  
+What We did: Identify a study population with CAD and define patient
+stability. Follow these CAD stable patients for 5 years and monitor for CHF
+.Develop a model to predict the CHF event for stable CAD patients .These
+patients can be early detected and treated for efficient care and avoid CHF
+event.  
+  
+Results -  
+Entire study has been done on EMR data model is trained on logistic regression
+and Random Forest .Understand explain the results to reduce the false negative
+rate and feature importance.Accuracey for the model after K fold validation
+and grid search -.76.  
+  
+Predictor Model for lumbar spine surgery  
+Objective:  
+Identify patients with high likelihood of undergoing preference-sensitive
+orthopedic surgery well in advance of the procedure.  
+Based on previously published definition of mechanical low back problems,
+which describes ICD-9/ICD10 codes for pain conditions originating in lumbar
+and sacral spine surgery.  
+  
+What We did: Identify a study population with lower back pain and study them
+to predict risk score for them to undergo lumber spine surgery in next 36
+months. Identify the population as early as possible (first 2 months) from
+first diagnosis of lower back pain to intervene.  
+  
+Results -  
+Women are less likely to proceed with surgery  
+Drugs-NSAIDs and Narcotics Drugs taking people are more likely to proceed for
+surgery  
+Treatment- Pain Management Injections More likely  
+Spinal stenosis and sciatica are more likely for surgery  
+Follow up visits are more likely to proceed for surgery  
+C=0.73  
+  
+Personal Health Device and Healthcare Cost  
+  
+Objective:  
+The primary objective of this study was to understand if there were any
+changes in health care costs and utilization after members were given a
+personal health device (PHD).  
+Provided consulting services to drive out and determine the analytics and
+research questions to be asked, and then performed the analysis and drew
+conclusions.  
+What We did:  
+  
+The PHD team provided a list of members along with the date each member
+started using the device. The SBA team linked these members to administrative
+claims.  
+For these members, determined if there were any significant differences in
+health care cost and utilization before and after they began using their
+devices.  
+Four populations of data were analyzed: members who used their devices for at
+least 3 months, 6 months, 9 months and 12 months.  
+  
+Results:  
+Office visits increased 7% for members who used the devices at least 9 months,
+and 10% for those who used them at least 12 months. Total costs increased 21%
+for members after they used the devices at least 12 months.  
+The study then assessed how much the cost increases were due to members
+engaging proactively in their health care by seeking more preventative
+services after they started using their PHDs.  
+14% increase in the number of preventive visits for members who used their
+devices for at least 9 months, and a 12% increase for the >12 months
+population. In addition, the total cost of preventive visits increased 12%
+after at least 9 months of wearing the devices.  
+Conclusion:  
+These results suggest PHD usage is associated with members proactively using
+preventive health services.  
+  
+Exploratory Analysis and Trends For Cancer  
+Cancer cost trends  
+  
+➢ Identify Cancer Diagnosed Medical Claims  
+  
+➢ Primary Cancer Type for Each Individual Cancer Patient:-  
+Cancer Patients may develop to multiple cancers as their conditions progress.
+A primary cancer is  
+flagged for the purpose of analytics and metrics calculation.  
+  
+A primary cancer type is defined as the cancer type with the highest cancer
+costs in a given time  
+period (study time period or trend time period)  
+  
+➢ Identify Actively Treated Cancer Patients: Generate evidence that actively
+treated cancer patients, who accounts for only 20% of overall cancer
+population spends 80% of overall cancer related costs.  
+  
+➢ Understand cost involved with chemo, radiation and surgery.  
+➢ Prevalence of cancer within Medicare and commercial population  
+➢ Trends in overall cost and average cost across cancer category.  
+  
+Research Projects /Feasibility  
+2\. A Research study For Epidemiology(Oct14)  
+  
+➢ Counts of atrial fibrillation (AF) and venous thromboembolism (VTE) patients
+using warfarin or novel oral anticoagulants (NOAC).  
+➢ Find number of patients with AF or VTE.  
+➢ Find number of patients with AF/VTE who have also used warfarin or NOACs in
+the 6-months following first diagnosis of AF/VTE.  
+➢ Estimate average follow-up. Calculate follow-up time as day after index date
+through the earliest of end of enrollment or 31-DEC-2013.  
+➢ Find number of patients with more than 3 years of follow-up.  
+➢ Find numbers by ethnicity/race.  
+➢ Identify women who have delivered an infant during follow-up.  
+➢ Infant must be matched by family ID and enrolled in health plan.  
+Infant will be "assigned" to same cohort as mother.  
+  
+➢ For Commercial members only, find number of enrolled infants who can be
+linked to women in this cohort  
+  
+Enterprise wise Dashboards  
+  
+5\. Prepare Oncology Management Sell Sheet(May13)  
+  
+➢ Oncology data for four of the five cancer type  
+Out of five cancer type prostate cancer have different wave of collection.  
+Both wave of collection should be merged and then combined with enrollment  
+Data to update the OM Sheet.  
+  
+Request is to update:  
+➢ Oncology Database Population by Cancer Type  
+➢ Stage distribution for each type of Cancer Type  
+➢ Histology for each type of Cancer Type  
+➢ Most Recent Clinical Status for each type of Cancer Type  
+  
+6\. Enterprise wise chart book ( Bi Yearly dashboard)  
+  
+A comprehensive chart book or dashboard for the entire united data for our
+internal and external customers. This is specifically designed for HEOR and
+EPI customers. This gives a comprehensive view of about 160m of claim ,
+clinical and other linkages that we work on to perform our study and which is
+available to researchers, Includes,  
+  
+➢ Administrative claims  
+➢ Optum Employer  
+➢ Optum Payer  
+➢ Oncology Survey  
+➢ Health risk assessment  
+➢ Other linkages
+
+Technical Lead
+
+UNITED HEALTH GROUP
+
+-
+
+February 2010 to March 2013
+
+Project Lead( Healthcare Analytics )  
+Population measure constructs- Sept 12  
+Construct 1: Patient Risk  
+Provide the capability to filter patient cost data by condition and/or service
+type, by specialty category (e.g., RX, Behavioral Health).  
+Generate specialty category retrospective patient risk scores.  
+  
+Construct 2: Attribution  
+Provide the capability to attribute each patient to a single health care
+professional (physician) and/or health care organization (group) within a
+specialty category.  
+  
+Construct 3: Total Cost/Total Annualized Cost  
+Provide the capability to filter patient cost date by condition and/or service
+type, by specialty category for (e.g., RX, Behavioral Health).  
+Calculate the patient's total annualized cost per specialty category  
+Provide the capability for downstream analytic systems to determine services
+and enrollment period included in patients' total costs.  
+  
+Construct 4: Sensitive Conditions  
+Determine if a patient has one or more sensitive conditions, and if so,
+specifically identify them.  
+Determine if each attributed health care professional and/or organization was
+aware of the patient's sensitive conditions, applicable to their scope of
+practice.  
+This construct is necessary to ensure that all measurement programs comply
+with state privacy rules.  
+  
+Job Responsibility:  
+✓ Providing L1 and L2 and L3 estimates for all the deliverables  
+✓ Gather data from various sources and conduct data manipulation in order to
+analyze the effectiveness of business strategies.  
+✓ Designing the new processes using SAS for new projects/Programs.  
+  
+✓ Automation of Data Extraction and Transformation using Oracle, SAS, and SQL.  
+  
+✓ Generating Regular, Ad-Hoc Reports using SAS Tools/Excel and Teradata  
+✓ Access data sources using SQL, MS Access, SAS or other decision support
+tools  
+✓ Providing SAS and SQL training to other teams  
+✓ Data Profiling and Data Distribution Reports using SAS Procedures.  
+✓ Posting the issues identified to all the stakeholders  
+✓ Communicating with Dev. Leads, BA's and Project manager offshore and onshore
+regularly and ensuring project deliverables are on Track
+
+Business Analyst
+
+UNITED HEALTH GROUP
+
+-
+
+March 2009 to February 2010
+
+GALAXY PURGE ARCHIVE  
+The two main deliverables of the GALAXY Purge/Archive project was to:  
+1\. Purge data from the live database to allow for loading of current data  
+2\. Provide the GALAXY user community with archived data.  
+  
+Decisions on whether or not to purge particular records depend upon rules
+specific to each subject area. The initial decision, however, is always based
+upon a purge cutoff date (e.g., qualifying records where a date field is equal
+to or earlier than a target date). The actual date field in use varies for
+certain subject areas  
+The project consists of separate purge and archive processes Tables subject to
+purge/archive are those included in these subject areas:  
+  
+• UNet Claim Statistical  
+• UNet Aggregations  
+• COSMOS Claim Statistical  
+• COSMOS Aggregations  
+• UNet Claim Financial  
+• Pharmacy  
+• Lab Results  
+  
+Job Responsibility-Business Analyst:  
+1.To prepare Functional specification of the entire process detailing all the
+tables affected by the project across different subject areas within GALAXY.  
+2\. To provide sign-off for the coding, unit testing and system testing for
+UNIX and mainframe side to meet with Functional specification.  
+  
+3\. To analyze the changes happening in the data warehouse for last two
+quarter and its impact on purge and archive process.  
+4\. To track and provide any business issues interacting with business and
+testing team.  
+5.Coordinate internally with development team, designers and business forum to
+translate business requirements into project requirement. Regularly report
+status to Product or Project Managers.  
+6\. Prepare Issue log and do Gap Analysis.  
+7\. To prepare and provide Business Bulletin Indicating its impact.  
+8\. Prep for communication Test Results/Findings and Supporting UAT
+
+DWH Analyst
+
+Keane
+
+-
+
+2007 to 2009
+
+Worked and excelled on diverse technical dimensions like:  
+  
+1\. Database -Oracle 9i, Teradata 13.0  
+2\. ETL Tool- Informatica  
+3.Reporting Tool- Microstrategy
+
+## Skills
+
+SAS PYTHON , Machine learning , deep learning , NLP (10+ years)
+

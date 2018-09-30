@@ -1,0 +1,103 @@
+-  
+  
+# Data Science Intern
+
+## Data Science Intern
+
+Allahabad, Uttar Pradesh
+
+-
+
+organization in a position where my technical and managerial skills will be
+appreciated and enhanced.  
+  
+Motilal Nehru National Institute of Technology Allahabad
+
+## Work Experience
+
+Data Science Intern
+
+-
+
+May 2018 to June 2018
+
+Worked on Recommendation Systems and Sentiment Analysis. Implemented
+collaborative filtering to give suggestions based on trends. Digitized on
+paper data and pre-processed it to implement  
+sentiment analysis on natural language text using NLTK in Python and
+successfully classified the intent of users and came up with the expected
+conclusions successfully.  
+  
+Jaypee University of Engineering and Technology
+
+## Education
+
+Computer Science and Engineering
+
+St. Joseph's College
+
+2015 to 2019
+
+STL
+
+St. Joseph's College
+
+2013
+
+## Skills
+
+PYTHON (Less than 1 year), AJAX (Less than 1 year), CSS (Less than 1 year),
+DJANGO (Less than 1 year), PHP (Less than 1 year)
+
+## Links
+
+[https://github.com/AnshumanAR04](https://www.indeed.com/url?q=https%3A%2F%2Fgithub.com%2FAnshumanAR04&h=78b33ac5)
+
+[https://www.linkedin.com/in/atanshuman](https://www.indeed.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fatanshuman&h=30da7174)
+
+## Additional Information
+
+SKILLS  
+Bootstrap, Animate.CSS  
+Database: MySQL  
+Tools: git, sublime-text, CodeBlocks, Jupyter Notebook  
+Operating Systems: Linux, Windows  
+  
+J.U.E.T FAQ Chatbot 2 months  
+PROJECTS  
+A retrieval based Chatbot made out of Python that uses Django and Bootstrap to
+provide a  
+seamless user experience. Also it understands the intent of the user using
+rules of natural  
+language and responds with appropriate answers. Implemented data pre-
+processing to make the  
+data fit for the model and wrote the main flow of control of how a query is
+tokenized and  
+deciphered. Project Link: https://github.com/AnshumanAR04/FAQU  
+  
+iota 1 month  
+  
+A service implemented in Python designed for the university so that the
+performance of students  
+on competitive programming platforms can be monitored and their assignments
+can be validated.  
+Project Link: https://github.com/AnshumanAR04/iota  
+  
+SoundBound 2 months  
+  
+A music playing platform through which the users can listen to the songs that
+they have stored on  
+their own personal computer on any portable device which they use. Uses Ngrok
+for tunneling and  
+php at its core to provide the services. Uses AJAX requests to provide faster
+responses and  
+minimise data loading. Project Link:
+https://github.com/AnshumanAR04/Sound_Bound  
+Honourable Mention in the Qualifiers of ACM-ICPC […] Amritapuri Site  
+  
+STRENGTHS  
+Good Problem Solving Skills.  
+Can adapt to new challenges quickly.  
+  
+PERSONAL
+

@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block nav_menu %}
+{{ super() }}
+	<ul id="nav-mobile" class="right hide-on-med-and-down">
+  		<li><a href="/user"><span class="glyphicon glyphicon-user"></span> Welcom {{ session['user'] }}</a></li>
+  		<li><a href="/logout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+	</ul>
+{% endblock %}
+
+
+{% block page_content %}
+	<form action='/user/employerTools/submitJD' method="POST">
+		<h3>Your Job Description Matches <b>{{ JDcat }}</b> profile</h3>
+		<h5>Skill requirements extracted from Job Description - </h5>
+	    <ul>
+	    	{% for resume in top10 %}
+	    		<li><a class="waves-effect waves-light btn modal-trigger" href="#{{ resume[0] }}">{{ resume[0] }}</a></li>
+
+	    		  <!-- Modal Structure -->
+	    		  <div id="{{ resume[0] }}" class="modal">
+	    		    <div class="modal-content">
+	    		      <h4><b>Candidate Report</b></h4>
+	    		      <h6>Candidate Summary</h6>
+	    		      <p>{{resume[1][0]}}</p>
+	    		      <hr>
+	    		      <h6>Candidate Skills</h6>
+	    		      <p>{{resume[1][1]}}</p>
+	    		      <hr>
+	    		      <h6>Required Skills</h6>
+	    		      <p>{{resume[1][2]}}</p>
+	    		      <hr>
+	    		      <h6>Match Score</h6>
+	    		      <p>{{resume[1][3]}}</p>
+	    		    </div>
+	    		    <div class="modal-footer">
+	    		      <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+	    		    </div>
+	    		  </div>
+	    	{% endfor %}
+	    </ul>
+	</form>
+	<script type="text/javascript">
+		{% for message in get_flashed_messages() %}
+			M.toast({html: '{{ message}}'})
+		{% endfor %}
+		document.addEventListener('DOMContentLoaded', function() {
+		    var elems = document.querySelectorAll('.modal');
+		    var instances = M.Modal.init(elems, {});
+	  	});
+	</script>
+{% endblock%}

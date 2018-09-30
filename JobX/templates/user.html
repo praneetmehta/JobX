@@ -1,0 +1,193 @@
+{% extends "base.html" %}
+
+{% block nav_menu %}
+{{ super() }}
+	<ul id="nav-mobile" class="right hide-on-med-and-down">
+      <li><a href="/logout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+    </ul>
+{% endblock %}
+
+{% block page_content %}
+<div class="page-header">
+	<h1>Welcome {{ session['user'] }}</h1>
+</div>
+<div id="user_profile">
+	<section id="basic_info">
+		<h4>Basic Info</h4>
+		<div class="row" id="basic_info_form">
+	      <div class="row">
+	        <div class="input-field col s6">
+	          <i class="material-icons prefix">account_circle</i>
+	          <input id="first_name" type="text" name="first_name" autocorrect="off" class="validate">
+	          <label for="first_name">First Name</label>
+	        </div>
+	        <div class="input-field col s6">
+	          <i class="material-icons prefix">account_circle</i>
+	          <input id="last_name" type="text" name="last_name" autocorrect="off" class="validate">
+	          <label for="last_name">Last Name</label>
+	        </div>
+	      </div>
+	      <div class="row">
+	        <div class="input-field col s6">
+	          <i class="material-icons prefix">phone</i>
+	          <input id="contact" name="contact" type="text" autocorrect="off" class="validate">
+	          <label for="contact">Contact Number</label>
+	        </div>
+	        <div class="input-field col s6">
+	          <i class="material-icons prefix">account_circle</i>
+	          <input id="dob" type="text" name="dob" autocorrect="off" class="validate datepicker">
+	          <label for="dob">DOB</label>
+	        </div>
+	      </div>
+	      <div class="row">
+	        <div class="input-field col s12">
+	          <i class="material-icons prefix">email</i>
+	          <input disabled id="email" type="email" name="email" autocorrect="off" class="validate">
+	          <label for="email">Email</label>
+	        </div>
+	      </div>
+	      <div class="row">
+	        <div class="input-field col s12">
+	         <button class="btn waves-effect waves-light" style="color: white !important; font-size: .8em" type="button" name="submit">Update
+	             <i class="material-icons right">send</i>
+	           </button>
+	        </div>
+	      </div>
+		</div>
+	</section>
+	<hr>
+	<section id="education">
+		<h4>Education</h4>
+		<button style="color: white !important; font-size: .8em" data-target="educationModal" class="btn modal-trigger">Add Education</button>
+		<div id="educationModal" class="modal">
+		    <div class="modal-content">
+		      <form id="edModalForm">
+		      	<div class="row">
+		        <div class="input-field col s12">
+		        	<i class="material-icons prefix">email</i>
+		            <select id="edLevelSelect" class="validate">
+		              <option value="" disabled selected>Choose your option</option>
+		              <option value="Class 10th">Class 10th</option>
+		              <option value="Class 12th">Class 12th</option>
+		              <option value="Graduation">Graduation</option>
+		              <option value="Post Graduation">Post Graduation</option>
+		              <option value="PhD">PhD</option>
+		            </select>
+		            <label>Education Level</label>
+	          	</div>
+		      </div>
+		      <div class="row">
+	              <div class="input-field col s12">
+	              	<i class="material-icons prefix">email</i>
+	                <input id="edGrade" type="text" class="validate">
+	                <label for="edGrade">Grade</label>
+	              </div>
+              </div>
+              <div class="row">
+	              <div class="input-field col s12">
+	              	<i class="material-icons prefix">email</i>
+	                <input id="edInstitute" type="text" class="validate">
+	                <label for="edInstitute">Institute</label>
+	              </div>
+              </div>
+              <div class="row">
+	              <div class="input-field col s12">
+	              	<i class="material-icons prefix">email</i>
+	                <input id="edSpecialization" type="text" class="validate">
+	                <label for="edSpecialization">Specialization</label>
+	              </div>
+              </div>
+              <div class="row">
+                <div class="input-field col s6">
+                  <i class="material-icons prefix">account_circle</i>
+                  <input id="edstart_year" type="number" name="edstart_year" autocorrect="off" class="validate">
+                  <label for="edstart_year">Start Year</label>
+                </div>
+                <div class="input-field col s6">
+                  <i class="material-icons prefix">account_circle</i>
+                  <input id="edend_year" type="number" name="edend_year" autocorrect="off" class="validate">
+                  <label for="edend_year">End Year</label>
+                </div>
+              </div>
+		      </form>
+		    </div>
+		    <div class="modal-footer">
+		      <button class="waves-effect waves-green btn-flat" type="submit" onclick="addEducationEntry()">Add Education</button>
+		    </div>
+	  	</div>
+	</section>
+	<hr>
+	<section id="workEx">
+		<h4>Work Experience</h4>
+		<button style="color: white !important; font-size: .8em" data-target="modal1" class="btn modal-trigger">Add Work Experience</button>
+	</section>
+	<hr>
+	<section id="skills">
+		<h4>Skills</h4>
+		<div class="input-field col s12">
+          <i class="material-icons prefix">flash_on</i>
+          <input id="skillInput" type="text" name="skillInput" autocorrect="off">
+          <label for="skillInput">Skill</label>
+        </div>
+		<div id="chipHolder">
+			<div class="chip">
+			    Tag
+			    <i class="close material-icons">close</i>
+			</div>
+		</div>
+	</section>
+	<hr>
+	<section id="projects">
+		<h4>Projects</h4>
+		<button style="color: white !important; font-size: .8em" data-target="modal1" class="btn modal-trigger">Add Projects</button>
+	</section>
+	<hr>
+</div>
+<script type="text/javascript">
+	document.addEventListener('DOMContentLoaded', function() {
+	    var elems = document.querySelectorAll('.chips');
+	    var ChipInstances = M.Chips.init(elems, {'placeholder':'Enter a skill and press Enter'});
+
+	    var elems = document.querySelectorAll('.modal');
+        var modalInstances = M.Modal.init(elems,{});
+
+        var elems = document.querySelectorAll('select');
+        var dropDownInstances = M.FormSelect.init(elems, {});
+
+        
+  	});
+  	function addEducationEntry()
+  	{
+  		let level = $('#edLevelSelect').val();
+  		let grade = $('#edGrade').val();
+  		let institute = $('#edInstitute').val();
+  		let specialization = $('#edSpecialization').val();
+  		let syear = $('#edstart_year').val();
+  		let eyear = $('#edend_year').val();
+  		
+  			let edData = {
+			  "education_level": level,
+			  "grade": grade,
+			  "institute": institute,
+			  "specialization": specialization,
+			  "start_year": syear,
+			  "end_year": eyear 
+			}
+			let modal = document.querySelector('#educationModal')
+			$.ajax({
+	            url: '/addEducationHistory',
+	            contentType: 'application/json;charset=UTF-8',
+	            data: {data: edData},
+	            type: 'POST',
+	            success: function(response) {
+	                console.log(response);
+	                M.Modal.getInstance(modal).close()
+	            },
+	            error: function(error) {
+	                console.log(error);
+	                M.Modal.getInstance(modal).close()
+	            }
+		    });
+  	}
+</script>
+{% endblock%}

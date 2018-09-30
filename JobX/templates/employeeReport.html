@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block nav_menu %}
+{{ super() }}
+	<ul id="nav-mobile" class="right hide-on-med-and-down">
+  		<li><a href="/user"><span class="glyphicon glyphicon-user"></span> Welcom {{ session['user'] }}</a></li>
+  		<li><a href="/logout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+	</ul>
+{% endblock %}
+
+
+{% block page_content %}
+	<h3><b>Employee Report</b></h3>
+	<div class="modal-content">
+      <h6>Candidate Summary</h6>
+      <p>{{data[0]}}</p>
+      <hr>
+      <h6>Candidate Skills</h6>
+      <p>{{data[1]}}</p>
+      <hr>
+      <h6>Required Skills</h6>
+      <p>{{data[2]}}</p>
+      <hr>
+      <h6>Match Score</h6>
+      <p>{{data[3]}}</p>
+    </div>
+{% endblock%}

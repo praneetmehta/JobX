@@ -1,0 +1,150 @@
+-  
+  
+# Data science trainee
+
+## Data Scientist
+
+Pune, Maharashtra
+
+-
+
+To enhance my working capacities, professional skills, business efficiency and
+to serve my orga-  
+nization in best possible way with sheer determination and commitment.
+
+## Work Experience
+
+Data science trainee
+
+Torcai
+
+Handling data preparation, preprocessing. Analysing and Finding insight from
+data.
+
+Data Scientist
+
+Loan Prediction Status
+
+-
+
+October 2017 to December 2017
+
+ML Problem: Classification Problem  
+Algorithm: Decision Tree, Random Forest, Logistic Regression  
+Project Technology: R, RStudio, Python  
+Job Title: Data Scientist  
+Key Responsibility: EDA, Data Preprocessing, Building Model, Validation
+
+Data Scientist
+
+ML Problem
+
+-
+
+July 2017 to September 2017
+
+Clustering Problem  
+Algorithm: Apriori Algorithm  
+Project Technology: R, RStudio, Python  
+Job Title: Data Scientist  
+Key Responsibility: EDA, Data Preprocessing, Building Model, Validation
+
+Assistant System Engineer
+
+Tata Consultancy Services, Ltd
+
+-
+
+July 2011 to February 2013
+
+Project Title: CUA-TCS-Bancs  
+Project Technology: COBOL and UNIX Plateform  
+Job Title: Assistant System Engineer  
+Key Responsiblity: Development, Testing, Deployment  
+  
+Projects  
+Aug 2015-jun 2016 Design and Implementation of Secure and Reliable User data
+storage on cloud  
+It provides more reliable and secure technique to store user data on cloud
+environment which achieves  
+confidentiality and availability of data. The user data is encoded and
+dispersed on different computing  
+nodes. We have used OpenStack virtual instances as computing nodes. The
+original data can be  
+reconstructed from threshold number of fragments of its encoded form.  
+  
+Aug 2010-May 2011 Desktop Monitoring System  
+It controls and monitors the activities of host in Intranet network, which is
+helpful for easily to control illegal activities from organization.
+
+## Education
+
+Master of Technology in Computer Science & Engineering
+
+Visvesvaraya National Institute of Technology
+
+-
+
+Nagpur, Maharashtra
+
+June 2016
+
+Bachelor of Technology in Computer Science & Engineering
+
+college
+
+-
+
+Ujjain, Madhya Pradesh
+
+May 2011
+
+Class XII
+
+R.G.P.V. University
+
+-
+
+Ujjain, Madhya Pradesh
+
+March 2007
+
+Secondary School Certificate
+
+School of Excellence Khandwa
+
+-
+
+Khandwa, Madhya Pradesh
+
+March 2005
+
+## Skills
+
+COBOL (1 year), ALGORITHMS (Less than 1 year), C++ (Less than 1 year), DATA
+SCIENCE (Less than 1 year), DATA STRUCTURES (Less than 1 year)
+
+## Additional Information
+
+Computer Skills  
+Data Science hands-on Areas: Regression, SVM, Random Forest, Decision Tree,
+Navie Bayes, KNN  
+Programming Languages Known: R, PYTHON, C, C++ (beginner), JAVA, HTML, COBOL,
+SERVLET, JSP  
+Database: MongoDB, MySQL, ORACLE (Beginner),  
+Area of Interest: Data Science, Machine Learning, Data Structures, Design &
+Analysis of Algorithms  
+  
+Scholastic Achievements  
+• 654 GATE SCORE and 1131 Rank among 1, 55, 190 (99.30 percentile) candidates
+in GATE 2014.  
+• Stood 3rd in HSC (12th) exam in school.  
+• Stood 2nd in SSC (10th) exam in school.  
+  
+Extra-Curricular Achievements  
+• Second Runner up in kho-kho in VIHANG 2015 held at VNIT, Nagpur.  
+• Winner of group dance competition in annual cultural festival held at GEC,
+Ujjain (M.P.)  
+• Had been a Mess Secretary of Hostel and member of many committees during
+B.Tech.
+

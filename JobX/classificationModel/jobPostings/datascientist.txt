@@ -1,0 +1,10 @@
+Role Designation- Lead Analyst - Data Science 
+
+Responsibilities- 1. Document simple as-is customer processes,2. Appreciate the context of customer requirements from specific engagements,3. Align our deliverables to customer requirements,4. Responsible for successful delivery of Advanced Analytics solutions and services in client consulting environment; experience in optimization (linear, mixed integer, constraint programming), simulation, and/or predictive analytics using AAO tools, such as SAS or SPSS.,5. Define key business problems to be solved; formulate mathematical approaches and gather data to solve those problems, develop, analyze/draw conclusions and present to client.,6. Assist clients in identifying type of analytics and management data that will directly relate to improving clients' market share or any other measure client is addressing. ,7. Identify the differentiators, map them to present-day environment, and then design an improvement plan.,8. Discover new opportunities to optimize the business through analytics and statistical modeling.,9. Oversee all aspects of analytics and business intelligence projects.,10. Develop and maintain reporting and analytical tools, including Business Objects 
+
+Technical and Professional Requirements- Education and experience:,• 5-8 years of experience,• Prefer PhD or Master’s degree in Statistics, Mathematics, Engineering, Commerce, Science ,• Domain experience in Retail/Finance/Supply Chain or/and Marketing will be an added bonus,• Exposure to US/ overseas markets is preferred,Domain / Technical /Tools Knowledge:,• Proficiency with statistical analysis tools (e.g., SAS, SPSS, R),• Hands on experience in Statistical Techniques such as Decision Tree, Segmentation, Logistic and Multiple Regression, and others,• Experience of Campaign Management and Customer Segmentation is desirable,• Strong Excel, Access and PowerPoint skills ,• Familiarity with database query tools (SQL),• Basic understanding of data warehouse architecture,* Location of Posting is subject to business requirements. 
+
+Educational Requirements: MSc , BE , BSc 
+Service Line: Unit-IPS-Data & Analytics Unit
+
+30+ days ago

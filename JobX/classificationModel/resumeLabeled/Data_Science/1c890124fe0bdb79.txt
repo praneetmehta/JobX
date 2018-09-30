@@ -1,0 +1,130 @@
+-  
+  
+# computer science lecturer
+
+## computer science lecturer
+
+-
+
+Looking for an employment in a challenging development environment and to be
+part of the teaching team, with good learning opportunity relevant to my skill
+sets.
+
+## Work Experience
+
+computer science lecturer
+
+PES PU COLLEGE
+
+-
+
+2016 to 2017
+
+Worked as computer science lecturer in FGA COACHING CENTER in 2016-17  
+  
+Academic Project:  
+EAACK- an Intrusion detection system for MANET - (Secure computing using java)  
+I was part of the project team and involved in Coding and Testing  
+• Implementing the security for MANET  
+• It is a ACKNOWLEDGEMENT based security to protect data sent in MANET
+networks  
+• Learned about MANET  
+• Created the following mechanisms to detect and remove the affected regions
+based on the hacking  
+◦ ACK  
+◦ SACK  
+◦ MRA  
+◦ DIGITAL SIGNATURE  
+• The above security process is activated automatically in between source and
+destination when the data is sent.  
+• Applications  
+◦ Detection of false misbehavior and blocking the region with immediate effect  
+◦ Avoid loss of transmission  
+◦ Encryption and Decryption only by sender and receiver using digital
+signature  
+• Testing  
+◦ Prepared test plan and test cases  
+◦ Wrote functional, integration and unit test cases  
+◦ Reviewed the test against requirement specifications.  
+◦ Test cases for this projects are,  
+* Creation of multiple nodes.   
+* Packet sent normally.   
+* Packet sent after passive attack, SACK should be initialized.   
+* Packet sent after active attack, MRA should sent packet to 3rd node only, not for 4th node.   
+  
+Trainings attended:  
+• SBC  
+• YELOW BELT
+
+computer science lecturer
+
+BLOSSOM COMPOSITE PU COLLEGE
+
+-
+
+2015 to 2016
+
+associate
+
+HP SOFTWARE COMPANY as Process
+
+-
+
+2014 to 2015
+
+Supporting sales backend team with process like reporting, input file, program
+letter and invoice collection for APJ countries.
+
+## Education
+
+M.Sc. in Computer science
+
+JSS college
+
+-
+
+Mysore, Karnataka
+
+June 2014
+
+B. Sc in PMCs
+
+govt science college
+
+-
+
+Hassan, Karnataka
+
+June 2012
+
+Pre University
+
+-
+
+Hassan, Karnataka
+
+May 2009
+
+S.S.L.C
+
+Govt. girls junior college
+
+March 2005
+
+## Skills
+
+JAVA (1 year), TESTING (1 year), C++ (Less than 1 year), HTML (Less than 1
+year), LINUX (Less than 1 year)
+
+## Additional Information
+
+Technical Skills:  
+Programming languages: JAVA, C, C++, HTML.  
+Platforms: Windows 7, Linux.  
+Basic knowledge on automatic testing  
+  
+Skills:  
+● Positive attitude.  
+● Able to work in pressure.  
+● Committed and Hard working.
+

@@ -1,0 +1,118 @@
+-  
+  
+# Data Science Intern
+
+## Aspiring Data Scientist
+
+Bengaluru
+
+-
+
+## Work Experience
+
+Data Science Intern
+
+42hertz
+
+-
+
+February 2018 to August 2018
+
+As an intern I was responsible for presenting the findings obtained during
+Exploratory Data Analysis, implementing the code for modelling, and prepare
+necessary documentation and presentation.  
+  
+Projects  
+1\. Internship projects  
+  
+Time Series Analysis and Forecasting of Retail Data  
+• Analysis of retail data, examining trends, seasonality, missing data.  
+• Stationarizing the data, using techniques such as - moving averages,
+differences.  
+• Predicting the time series, using ARIMA.  
+• Tools used - Python, Jupyter Notebook  
+  
+POC on used car sales and finance data  
+• Cleaning the data which included removing duplicates, correcting the format
+of time and date data.  
+• Exploratory Data Analysis.  
+• Text Analysis, using Topic Modelling.  
+• Preparing report.  
+• Tools used - Python, Jupyter Notebook, MSSQL, MS Word, and MS PowerPoint.  
+  
+2\. MOOC Projects  
+  
+Machine Learning MOOC by Coursera  
+• Implemented Linear Regression, Gradient Descent and Cost Function to predict
+response variable using single and multiple independent variables  
+• Implemented Logistic Regression, along with sigmoid function to classify
+response variable using single and multiple  
+independent variables.  
+• Implemented Neural Networks to recognize hand-written digits.  
+• Implemented Backpropagation algorithm to compute optimal parameters, for a
+neural network.  
+• Implemented Regularized Linear Regression and used it to study models with
+different bias-variance properties.  
+• Used Support Vector Machines to build a Spam Classifier.  
+• Used K-means Clustering to compress an image.  
+• Used Principal Component Analysis to find a low-dimensional representation
+of face images.  
+• Anomaly Detection Algorithm.  
+• Used collaborative filtering to build recommender system.  
+Problem Solving with Excel MOOC by Coursera  
+• Basics of Excel navigation and functionality, including using formulas,
+subtotals and text formatting.  
+• Cleansing data using VLookup, value cleansing and text functions.  
+• Use of logical functions such as COUNTIFS, SUMIFS, nested logical functions
+and pivot tables.  
+• Create statistical formulas, perform an index match, and build financial
+formulas.  
+Data Analysis with R MOOC by Udacity  
+• Quantify and Visualize individual variables within a data set using
+histograms, boxplots, transforms.  
+• Techniques for exploring the relationship between any two variables in a
+dataset, including scatterplots, lineplots, and correlations.  
+• Techniques for examining relationship among multiple variables, such as,
+plotting conditional summaries, bias-variance  
+trade-offs, Scatterplot matrices, heat maps.  
+• Using all techniques mentioned above to investigate Diamond dataset,
+available in R.  
+Data Wrangling with MongoDB by Udacity  
+• Reading, writing and extracting relevant information from excel, csv, and
+JSON files using Python modules such as  
+XLRD, csv.  
+• Scraping XML data using Python's BeautifulSoup and xml.etree.ElementTree
+module.  
+• Identifying various parameters for quality data and audit data for quality.  
+• Queries to store data in MongoDB.  
+• Creating sophisticated queries in MongoDB using pipelines and operators.
+
+## Education
+
+BTech
+
+Uttar Pradesh Technical University
+
+## Skills
+
+Python, Data Wrangling, SQl, Machine Learning, Data Visualization, R, MS
+Office, Tableau
+
+## Links
+
+[https://github.com/AmanLP7](https://www.indeed.com/url?q=https%3A%2F%2Fgithub.com%2FAmanLP7&h=b3d392fb)
+
+[https://www.linkedin.com/in/aman-kumar-
+yadav-7717b110b](https://www.indeed.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faman-
+kumar-yadav-7717b110b&h=6e93ca85)
+
+## Additional Information
+
+Skills  
+Machine Learning (Regression, Classification, Neural Networks, Clustering,
+Principal Component Analysis, Trees, Random  
+Forest, Gradient Boosting) • R (ggplot, tidyr, dplyr, lubridate, caret) •
+Python (numpy, pandas, matplotlib, sklearn, scipy) •  
+Data Visualization • Data Wrangling • Web Scraping (BeautifulSoup in Python) •
+Microsoft Office
+

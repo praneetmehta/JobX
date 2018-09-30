@@ -1,0 +1,150 @@
+-  
+  
+# Data science intern
+
+## post graduate in business analytics actively searching for jobs
+
+Gurgaon, Haryana
+
+-
+
+I am a Post Graduate in Business Analytics and Business Intelligence(PGPBABI)
+with a past experience of 2 years in IT sector. Currently looking for a
+challenging role in Marketing Analytics, with expertise in R, SAS and tableau
+additionally hands on experience in SPSS and minitab . I have also done few
+projects such as Customer Churn in telecom industry , Trend and Price analysis
+in retail sector etc. To add on I have participated in few kaggle competions
+and bagged a good score. I am attaching my resume kindly review and will be
+glad to join your team.
+
+## Work Experience
+
+Data science intern
+
+Eckovation
+
+PROJECTS  
+•Predictive Modeling: The primary objective was to develop a Logistic
+Regression Model to investigate and predict the parameters contributing for
+customer churn (attrition) in the Telecom Industry. The project uses all
+aspects of one of the most important and popular Supervised Data Mining
+Techniques – Logistic Regression.  
+Skills and Tools-Logistic Regression, Predictive Modeling, Model Validation  
+  
+•Data Mining: The Project investigates the factors that cause employee
+attrition in organizations. An Employee attrition model was built using
+moderate Neural Network Model and Random Forest. After generating common
+performance parameters for both the models, an Ensemble Model was created that
+identified the cause of employee attrition.  
+Skills and Tools: Neural Networks, CART  
+  
+•Clustering algorithm was applied on the Aggregated Survey Data from 26
+Engineering colleges. A classification model was built to classify Engineering
+colleges into different groups based upon multiple relevant parameters.  
+Skills and Tools: Cluster Analysis, K Means Clustering  
+  
+•Time Series modeling and Analysis: Build a time series model to predict next
+2 years sales using Holt-winter’s method and ARIMA.
+
+Analyst
+
+CONTINUOUS EXCELLENCE PVT LTD
+
+-
+
+June 2014 to November 2015
+
+Implemented designs, wrote maintainable and extensible code in a team
+environment.  
+• Developed and maintained the user interface of the mobile application  
+• Modified existing software to correct errors, upgrade interfaces and improve
+performance.  
+• Stored, retrieved and manipulated data for close analysis of system
+capabilities.  
+• Consulted regularly to client-side on project status, proposals and
+technical issues.  
+• Prepared detailed reports concerning project specifications and activities.  
+• Hands on experience in HTML, CSS and JavaScript  
+Utilix:  
+• Handled designing part of the mobile application  
+• Worked on data preparation and cleaning  
+• Properly documented and analyzed the requirement to build a robust
+application  
+• Reporting and monitoring web and mobile tracking using google analytics
+
+TRAINEE
+
+CONTINUOUS EXCELLENCE PVT LTD
+
+-
+
+June 2014 to January 2015
+
+Part of requirement analysis team to gather useful information regarding the
+project and documented them  
+• Designed the user interface and part of the testing team.
+
+## Education
+
+Post graduation in business analytics and business intelligence in Business
+Analytics
+
+Great Lakes Institute of Management
+
+2017 to 2018
+
+B.Tech in C.S.E
+
+Rajasthan Technical University
+
+2011 to 2015
+
+Class XII
+
+Delhi Public School
+
+-
+
+Delhi, Delhi
+
+2010 to 2011
+
+Class X in Data Mining Techniques
+
+Delhi Public School
+
+-
+
+Delhi, Delhi
+
+2008 to 2009
+
+## Skills
+
+R programming (1 year), tableau (1 year), sas (Less than 1 year), KNIME (Less
+than 1 year), excel (1 year), machine learning (1 year), advance statistic (1
+year), Financial Analysis, Statistical analysis, Web and social media
+analytics, Marketing analytics, Predictive analytics marketing analytics
+supply chain logistics analytics
+
+## Awards
+
+R for data science certification
+
+September 2017
+
+-customer churn analysis    
+-default prediction   
+-financial analysis
+
+## Additional Information
+
+I am a Post Graduate in Business Analytics and Business Intelligence(PGPBABI)
+with a past experience of 2 years in IT sector. Currently looking for a
+challenging role in Marketing Analytics, with expertise in R, SAS and tableau
+additionally hands on experience in SPSS and minitab . I have also done few
+projects such as Customer Churn in telecom industry , Trend and Price analysis
+in retail sector etc. To add on I have participated in few kaggle competions
+and bagged a good score. I am attaching my resume kindly review and will be
+glad to join your team.
+

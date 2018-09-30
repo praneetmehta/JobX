@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block nav_menu %}
+{{ super() }}
+	<ul id="nav-mobile" class="right hide-on-med-and-down">
+      <li><a href="/logout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+    </ul>
+{% endblock %}
+
+{% block page_content %}
+<div class="page-header">
+	<h1>Welcome {{ session['user'] }}</h1>
+	<a href="/user/employerTools" class="waves-effect waves-light btn">Employer</a>
+	<a href="/user/employeeTools" class="waves-effect waves-light btn">Employee</a>
+</div>
+{% endblock%}

@@ -1,0 +1,192 @@
+-  
+  
+# Manager
+
+## Manager - Data Science
+
+-
+
+Data Science professional with more than 7.5 years of experience in delivering
+data driven business solutions to  
+various clients across the globe. Responsible for leading and mentoring a team
+of Data Scientists to solve variety  
+of business problems using Machine Learning techniques and other analytical
+skills.  
+  
+Have played key role in contriving the strategy for digital marketing spend
+that lead to up to 90% reduction in cost  
+per lead. Have helped in optimizing call centers' performance by improving
+leads distribution and increasing  
+acquisition rate by 15%.
+
+## Work Experience
+
+Manager
+
+Data Science
+
+-
+
+Pune, Maharashtra
+
+-
+
+October 2017 to Present
+
+Tata Consultancy Services, Pune  
+  
+• Responsible for delivering and managing multiple projects from their
+ideation to production  
+• Mentoring and leading a team of 6 junior and senior Data Scientists located
+across multiple cities  
+• Helping our client, a leading Cloud Services provider, in solving business
+problems related to:  
+Customer Segmentation  
+o Segmented the entire customer base based on their usage pattern to
+understand the different type of customer groups available.  
+Usage Decline  
+o Developed an ML based solution using Extreme Gradient Boosting to predict
+high value customer  
+that are most likely to reduce their usage by more than 10% in the coming
+month.  
+Customer Churn  
+o Used survival Analysis to predict the duration post which a customer is most
+likely to attrite from the system.  
+Customer Solutions Mapping  
+o Based on customers' usage, identified groups of services that are being most
+commonly used together.  
+This was done to understand which are most dominant solutions that are
+supported our clients'  
+services.
+
+Analytics Consultant
+
+MetLife Global Operations Support Center
+
+-
+
+Noida, Uttar Pradesh
+
+-
+
+June 2015 to October 2017
+
+Noida  
+  
+• Responsible for maintaining and growing productive client relationship.  
+• Delivered multiple high impact projects for various stakeholders in the US
+and LATAM for:  
+Call Centers Optimization  
+Helped client in maximizing ROI and optimizing workforce for outbound calling
+by:  
+o Optimizing incoming leads allocation to various call centers by a leads
+distribution optimization tool.  
+o Developing predictive to models to prioritize leads for acquisition and
+Customer retention.  
+Digital Campaign Management  
+Helped business in bringing down cost per lead to 1/10th in digital marketing
+by:  
+o Devising strategies for budget allocation on various platforms by using
+Market Mix modeling.  
+o Daily monitoring of campaigns' performance using Google Analytics, Google
+AdWords, and Facebook  
+business data.  
+Cross Sell Model  
+o Developed a predictive model to identify MetLife's existing customer best
+suited for cross selling  
+MetLife's other retail products.
+
+Senior Analyst
+
+Dunnhumby IT Services Pvt. Ltd
+
+-
+
+Gurgaon, Haryana
+
+-
+
+September 2013 to May 2015
+
+Gurgaon  
+  
+Helped our client, UK's top retailer, in generating cumulative revenue uplift
+of ~£5.5 Million from their offline  
+promotional campaigns by:  
+o Identifying the right customers and targeting them with the most relevant
+offerings for more than 20  
+campaigns.  
+o Reaching out to ~4 million unique customers through these campaigns.  
+o Developing a customer propensity model relevant customers for increased
+coupon redemption that  
+lead to ~10% higher redemption leading to ~10-15% increase in sales uplift.
+
+Senior Business Analyst
+
+-
+
+July 2012 to September 2013
+
+Business Analyst
+
+Mu Sigma Business Solutions Pvt. Ltd
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+March 2011 to June 2012
+
+Bangalore  
+  
+Helped multiple Fortune 500 client in solving their business problems related
+to:  
+Model Validation  
+• Validated models for a leading bank in the US against the industry standards
+for their methodology,  
+assumptions and their documentation to make them adhere with the latest
+guidelines laid down by OCC.  
+Branch Goal Setting  
+• Helped our client in the banking sector in setting product level financial
+goals for its branches based on their capacity.  
+Clustering Analysis  
+• Identified "not good" advertisers, using K-Means clustering technique, who
+were impacting the business  
+negatively, to improve our client's network's health and enable them to
+display more relevant ads.
+
+## Education
+
+Bachelor of Engineering in Electronics and Communication Engineering
+
+Rajiv Gandhi Technical University
+
+-
+
+Bhopal, Madhya Pradesh
+
+2010
+
+## Skills
+
+BOOSTING, SEGMENTATION, ALGORITHMS, LINEAR REGRESSION, LOGISTIC REGRESSION, R,
+Python, Clustering, XGB, Google Analytics, Google AdWords, SVM, Sql, Kusto,
+Azure ML Studio, SPSS Modeller, Neural Networks, Random Forest, Market Basket
+Analysis, Market Mix Modeling
+
+## Additional Information
+
+SKILLS  
+• Proficient in R, Python, SQL, Microsoft Kusto, Azure ML Studio, SAS, SPSS
+modeler, Netezza, AQT  
+• Experienced in using Machine learning algorithms like Linear Regression,
+Logistic Regression, SVM, CHAID,  
+Random Forest, Naïve Bayes Classifier, Extreme Gradient Boosting, etc.  
+• Adept in solving variety of business problems for Market mix modeling,
+customer segmentation, Regression,  
+classification, Survival Analysis, Market Basket Analysis  
+• Experienced in web analytics tools like: Google Analytics, Google AdWords,
+and Facebook Business
+

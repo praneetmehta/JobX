@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "valid_reg": 1,
+    "username": "praneetmehta",
+    "password": "pbkdf2:sha256:50000$Yb4gDamY$7b36190d91bca1e0e10567b7008173b0ef16313615aa43051789f4c7766898d4",
+    "first_name": "Praneet",
+    "last_name": "Mehta",
+    "dob": "Sep 25, 2018",
+    "contact": "9133313003",
+    "email": "praneet.mehta@gmail.com",
+    "education": [],
+    "skills": [],
+    "projects": []
+}

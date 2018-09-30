@@ -1,0 +1,86 @@
+-  
+  
+# INTERNSHIP
+
+## INTERNSHIP
+
+Kakinada, Andhra Pradesh
+
+-
+
+A result oriented Analytics with a rich background of analytics and reporting
+in domains of financial analytics and credit risk analytics. Proficient in
+statistical modeling in Forecasting/Predictive Analytics, Exploratory Data
+Analysis, Outlier treatment, Story Telling, Hypothesis Testing, Decision
+making, Sampling Tests, Anova, Manova, Regression Analysis etc. Good knowledge
+for building user friendly reports to give better visibility of business and
+aid Strategy & Planning. Experience in various statistical tools like SAS and
+SPSS.
+
+## Work Experience
+
+INTERNSHIP
+
+DATA SCIENCE
+
+-
+
+Hyderabad, Telangana
+
+-
+
+April 2018 to August 2018
+
+At REACHOUT ANALYTICS PVT LTD, JUBLIHILLS, HYDERABAD  
+Projects  
+1) Depression Analysis  
+Explorer Analysis is performed to analyse the depression data. Based on the
+biographical, demographical and geographical data available the data
+validation and data visualization is performed and came to conclusion to
+analyse the reason for the depression of students studying Intermediate. ANOVA
+is performed on each variable to know the significance of each bio, demo and
+geo variable on depression variables.  
+Tools Used: EXCEL and IBM SPSS  
+2) Criminal activities analysis  
+The data consists of crime code, area, which part of the day crime has
+occurred, type of crime and so on. The analysis is performed using Tableau and
+Pivot tables to have clear visualization.  
+Tools Used: EXCEL Pivot tables and Tableau  
+3) Hyper Retail Study  
+Here Data is analyzed in order to know the customers buying behavior towards
+the different brands of the store and to compare the purchasing patterns price
+wise and Quantity wise.  
+Tools Used: EXCEL AND IBM SPSS
+
+## Education
+
+B. TECH in MECH
+
+ADITYA COLLEGE OF ENG & TECH
+
+2018
+
+SRI RAVI JUNIOR COLLEGE
+
+2014
+
+SSC
+
+Z.P.P. HIGH SCHOOL
+
+2012
+
+## Skills
+
+EXCEL (Less than 1 year), SPSS (Less than 1 year), BI (Less than 1 year),
+BUSINESS INTELLIGENCE (Less than 1 year), MICROSOFT EXCEL (Less than 1 year)
+
+## Additional Information
+
+Technical Expertise  
+Statistical Packages SAS (Base), IBM SPSS  
+BI Tools TABLEU  
+Programming PYTHON, SQL SERVER  
+Microsoft Office Suit MICROSOFT EXCEL (BASIC, ADVANCE), POWER POINT, WORD
+OUTLOOK,
+

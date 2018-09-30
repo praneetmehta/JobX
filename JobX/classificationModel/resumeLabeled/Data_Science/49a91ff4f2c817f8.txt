@@ -1,0 +1,206 @@
+-  
+  
+# Consultant Data Science
+
+## Consultant Data Science \- ControlCase
+
+Mumbai, Maharashtra, Maharashtra
+
+-
+
+BITS-Pilani(India's top engineering) passout with experience in building
+enterprise grade end to end AI/ML applications.  
+Currently disrupting Cybersecurity via AI. Worked majorly on Deep learning
+with NLP and core machine learning.  
+Product development.  
+Process Automation  
+  
+Disciple of Experience and experiment.  
+Inquisitive and enthusiastic.  
+Curious with varied interests.  
+  
+Currently, working in ControlCase AI Research & Development. Predictive
+modelling & ML in TATA Motors previously.  
+Building end to end AI/ML application in industry and expanding my horizons
+through freelance.  
+Looking forward to disrupt multiple domains in the coming future
+
+## Work Experience
+
+Consultant Data Science
+
+ControlCase
+
+-
+
+Mumbai, Maharashtra
+
+-
+
+February 2018 to Present
+
+Mumbai, India [ AI Product Development] Feb 2018 - Present  
+  
+• Developed an Artificial Intelligence - Autonomous System(for cybersecurity)
+to help maintain compliance with minimal human intervention.[Singlehandedly]  
+  
+• Utilized Deep learning(Neural Networks) in Tensorflow combined with NLP to
+build probabilistic language model to process GBs of unstructured text data.  
+• Worked on concepts like Vector space(embeddings), text classification, topic
+modeling, clustering, Ensemble ML as sub-projects.Code in production phase..
+
+LSTM Neural Networks
+
+-
+
+December 2017 to February 2018
+
+• LSTM built using the Keras library to predict time series steps and
+sequences for emerging trends.Tested for different epoch values for both
+datasets.  
+• Used n-sized window of training/testing data and normalized each to reflect
+percentage changes to deal with the highly fluctuating patterns of stock data.
+
+Twitter Sentiment Analysis (Experimentation)
+
+-
+
+October 2017 to December 2017
+
+• Use of different feature sets and machine learning classifiers to determine
+the best combination for sentiment analysis of tweets data.  
+• Experiment with various pre-processing steps using NLTK and investigated the
+following features - unigrams, bigrams, trigrams and negation detection.  
+• Trained the classifier using various machine-learning algorithms - Naive
+Bayes, Decision Trees and Maximum Entropy.
+
+Kaggle Consumer Finance Datasets
+
+-
+
+August 2017 to October 2017
+
+Grid Embeddings (word2vec) and over-fitting and attaining lower in Tensorflow
+for multi-label text classification for consumer complaints dataset.  
+• Used Wordsearch and boosting to reduceConvolutional Neural Networks RMSE.  
+• Uses an embedding layer, followed by a convolutional, max-pooling and
+softmax.Visualized results on Tensorboard - graph and embedding visualizer.
+
+Data Science Intern
+
+TATA Motors Ltd
+
+-
+
+Lucknow, Uttar Pradesh
+
+-
+
+July 2017 to August 2017
+
+on ML algos/datasets]  
+• Applied Machine learning and Statistics concepts to work on datasets and
+business cases published by Harvard Business School and kaggle.  
+  
+• Analysed data of Capstone project (supervised learning), used data
+visualization tools like tableau and lattice package(via rpy2) to present data
+stories.  
+• Predicted price of retail datasets and generated valuable Insights.Used
+scikit-learn, pandas, scipy for manipulation and matplotlib, seaborn for
+visualization.  
+  
+PROJECTS
+
+BITS Pilani
+
+-
+
+Pilani, Rajasthan
+
+-
+
+March 2017 to April 2017
+
+Built a recommendation engine  
+• movie movie recommendation engine by finding correlation between user's
+movie choices.  
+Utilized user's past filtering techniques  
+• item-collaborative experiences of rating a movie on a scale of 10 and used
+item-collaborative filtering techniques to recommend movies.
+
+Campus Ambassador
+
+Indian School of Business
+
+-
+
+November 2016 to March 2017
+
+• Strategized and develop Marketing plans and admission processes in a cost
+effective manner for Young leaders programme of ISB at BITS Goa.  
+• Recieved a letter of appreciation from the head of admissions of ISB and
+recognized Assistant dean of ISB - admissions for my genuine efforts.
+
+Data Science Intern
+
+TATA Motors Ltd
+
+-
+
+July 2016 to January 2017
+
+Generated a Predictive model using Machine learning to optimize Manpower
+incorporating short term business cycles and Product life cycle.  
+provide recommendations and brings new process maps for manpower  
+• Utilized python libraries such as scikit-learn, numpy, pandas for data pre-
+processing to collect, process and analyze 10 years of production data.  
+• Trained and forecasted the model for multiple hyperparameter and scenarios,
+thus building strategies bringing new process maps for manpower planning.  
+• Presented results and Recommended solutions to top management on Process
+flow improvements of commercial vehicle business saving ~ 54k $pa.  
+• Team Work, Analytical and Communication skills were appreciated by
+Mentor.(Veteran with 35 yrs of Industry experience)
+
+Predicted Sales
+
+Big Mart Sale
+
+-
+
+Pilani, Rajasthan
+
+-
+
+December 2015 to February 2016
+
+of Supermarkets using Machine learning.Handled both categorical and continuous
+variables and performed regression analysis.  
+• Used bagging and boosting algorithms to attain optimum bias-variance trade
+off and got an RMSE(root mean squared error) of 1152.
+
+## Education
+
+BE in Mechanical
+
+BITS Pilani
+
+-
+
+Pilani, Goa, IN
+
+2017
+
+Nalanda Academy H.S. School
+
+-
+
+Vidisha, Madhya Pradesh
+
+2012
+
+## Skills
+
+Hadoop, Spark, Python, Machine Learning, Machine learning (2 years), Deep
+learning (1 year), Statistical Analysis, Mathematics, TensorFlow (1 year),
+Text Mining (1 year)
+

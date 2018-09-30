@@ -1,0 +1,161 @@
+-  
+  
+# data science and machine learning research engineer
+
+## DATA ANALYST AND MACHINE LEARNING RESESRCH ENGINEER
+
+146 SARLA BAG DAYAL BAGH AGRA
+
+-
+
+## Work Experience
+
+data science and machine learning research engineer
+
+AEDIFICO TECH PVT. LTD
+
+-
+
+April 2018 to Present
+
+Support vector machine learn linear classifier from labelled training data to
+predict labels of previously  
+unseen test data. Kernal's with svm allows to learn non linear classifier and
+hence lead to much higher  
+classification accuracies in practice.  
+  
+• Have worked on non linear kernal combination to give us even better
+classification accuracies and are  
+seeing a possibility of a significant performance increase.  
+  
+• Have worked on project of finding a colorblindness of population of given
+generation using numpy matrice and data visualisation of stock market in
+different formats using pandas and tkinter.  
+  
+• Determined operational feasibility by evaluating analysis, problem
+definition, requirements, solution  
+developement and proposed solutions.A creative approach to problem solving.
+
+DATA ANALYST
+
+Aedifico pvt
+
+-
+
+February 2018 to April 2018
+
+ltd from 14th feb 2018 to 14th april 2018.
+
+Sr. Executive
+
+A2Z Infrastructure Ltd
+
+-
+
+Indore, Madhya Pradesh
+
+-
+
+February 2015 to August 2015
+
+Managed overall conduction of collecting raw material across the city and
+generation of electricity from processed raw material and transmitting it to
+the city.  
+  
+• Placed in DCM Shriram Consolidated Ltd through campus.
+
+Obtaining specialist
+
+(Instrumentation) in DCM ShriramConsolidated Ltd
+
+-
+
+August 2011 to February 2012
+
+for about 8 month (from 2 th Aug' 11  
+to 21th Feb' 12)  
+  
+• Involved in the functional test, loop test, calibration of the field
+instruments and analyzed the failures  
+related to the instrumentation systems and components and recommends
+corrective actions to prevent re- occurrence.  
+  
+• Checking, repairing and servicing machinery, equipment, systems and
+infrastructures.Ensuring that  
+industrial machinery and equipment runs smoothly and reliably.Identify,
+evaluate and develop new methods for applying significant new technologies to
+support the company strategic goals.  
+  
+• Supervising engineering and technical staff. Obtaining specialist
+components, fixtures or fittings.Design and implemented electronic circuits
+for signal conditioning, data acquisition and control functions.  
+PROJECTS  
+  
+. Face recognition using SVM and NEURAL NETWORKS.  
+. Digits recognition using SVM and NEURAL NETWORKS.  
+. Speech recognition using TIMIT Data Sets.  
+. Image recognition using KMEANS.  
+. Forecasting using ARIMA MODEL.  
+. Data visualisation using GAME REVIEW Data Sets.  
+. Performed troubleshoot on PLC control system and maintained computer
+controlled process such as  
+Communications, Networks Cards, Wiring, Software and Hardware system of PLC
+and made changes in the programming when required.  
+  
+. Worked on "Non-linear motion of control using soft computing techniques" in
+the final year as minor  
+project.  
+  
+. Worked on "8051 based Mobile Controlled Robot" in the final year as major
+project.
+
+## Education
+
+Bachelor of Technology in Electronics and Instrumentation Engineering
+
+Galgotias College of Engineering and Technology Gr.Noida
+
+-
+
+Noida, Uttar Pradesh
+
+August 2007 to June 2011
+
+B. S.
+
+R. B. S. Inter college
+
+-
+
+Agra, Uttar Pradesh
+
+June 2006
+
+M. D.
+
+Jain Inter college
+
+-
+
+Agra, Uttar Pradesh
+
+June 2003
+
+## Skills
+
+MACHINE LEARNING (Less than 1 year), C++ (Less than 1 year), MS OFFICE (Less
+than 1 year), PROBLEM-SOLVING (Less than 1 year), PYTHON (Less than 1 year)
+
+## Additional Information
+
+TECHNICAL SKILLS  
+  
+. Python  
+. Machine Learning  
+  
+. Data Visualisation  
+. C and C++ languagege.  
+. MS Office  
+. PLC and SCADA programming  
+. Excellent debugging and problem-solving skills.
+

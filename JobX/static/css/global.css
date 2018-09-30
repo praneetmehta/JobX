@@ -1,0 +1,43 @@
+html
+{
+	color: black;
+}
+a, ul, li, span
+{
+	color: black !important;
+}
+.cust-btn
+{
+	color: white;
+    left: 50%;
+    transform: translateX(-50%) scale(1.1, 1.1);
+}
+.cust-btn > *
+{
+	color: white !important;
+}
+nav
+{
+	background-color: white;
+	box-shadow: 0px 0px 5px #bbb;
+	color: black;
+}
+#signup_form, #login_form
+{
+	
+}
+
+@media(min-width: 1000px)
+{
+	#signup_form, #login_form
+	{
+		max-width: 800px;
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%) translateX(-50%);
+		left: 50%;
+		border-radius: 20px;
+		padding: 30px;
+		box-shadow: 0px 0px 10px #aaa;
+	}
+}

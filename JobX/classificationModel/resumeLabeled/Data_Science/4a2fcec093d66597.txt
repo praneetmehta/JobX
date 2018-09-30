@@ -1,0 +1,231 @@
+-  
+  
+# Freelancer-Data Science solution consultant
+
+Bengaluru, Karnataka
+
+-
+
+Dynamic professional with experience in Data-science Solution consulting,
+Management consulting.  
+Knowledge & Exposure to Pre-Sales activities in Data-science, AI &IoT, Retail,
+SaaS  
+products, ERP, Tourism & Travel and apparel manufacturing domain and
+Healthcare. Strong Business  
+Acumen, exposure to analytics and solution selling. Expertise in handling
+International clients and  
+markets of small business enterprises. Field Sales and facing clients in
+negotiations for deal-closer  
+and Passionate for quality, attention to detail is my Forte.  
+  
+Business pains & solutions handled  
+  
+1\. Proposed Digital Marketing platform solution to chain of speciality
+restaurant giant,  
+increased revenue growth by 18 %.  
+-Project - Multinational south-Indian cuisine Restaurant   
+-Business Turnover - 150 crores (INR)   
+\- Team Size - 5 member  
+\- BI-Tool - Tableau for data visualization  
+\- Implemented RFM technique to determine quantitative customers by finding
+recent  
+purchase, purchase frequency and spending capability.  
+\- Lead & contributed in development of proof of concepts  
+-Addressing the dash-boarding and visualization requirements.   
+  
+2\. Solution to apparel manufacture to optimize vendor selection and inventory
+management.  
+Team size: 3  
+BI-Tool: QlikView  
+Business Turnover: 260 crores (INR)  
+\- Project objective was to build an efficient Business Intelligence landscape
+by building  
+concrete support system with laying out Data warehouse.  
+\- Created roadmap and proactive proposals  
+3\. Proposed route optimization solution for a FMCG company. Fixed revenue
+leaks by keeping  
+track of goods.  
+\- Business turnover - 430 crores (INR)  
+\- Product owned - 55 consumable products  
+\- Tool - R-Studio  
+\- Over looked a team member size - 3, perform following techniques:  
+\- Analysing customer purchase data along with other transactional data and
+identified  
+customer's preferences for a product in a store from a percentile score
+generated for  
+the product  
+\- Creating the pipeline to process and transform sales history, inventory
+history, product,  
+\- customer and store data followed by feature selection, feature extraction
+and  
+normalizing data  
+\- Creating customer/store segmentation based on customer/ store attributes
+with K-  
+means  
+\- Developing an attribute based forecasting model with randomforest
+regression  
+algorithm  
+\- Generating a percentile score from the sales forecast for the product
+planned for a store  
+cluster during a timeframe  
+4\. Exposure to SAP-suite of products.  
+\- Pitched and proposed small businesses for SAP Enterprise adoption over
+conventional  
+methods and software's.  
+5\. Health care Industry  
+\- Proposed hospital management solution  
+\- Hospital size 200-bed  
+\- Tool - BAHMNI EMR  
+\- Team size - 5  
+\- Whole system and operations upgrade was done.  
+  
+Roles & Responsibilities  
+  
+• Interacting with clients, understand customer's business challenges &
+chalking out  
+strategies to address them.  
+• Strong understanding of Data-Science, AI & IoT, Analytical ecosystem and
+tools,  
+contribution to consultative selling.  
+• Engaging with C-Level & Senior Management executive on planning & execution
+of project  
+and road-map.  
+• Leading pre-sales activities, presentations, product demonstrations and
+liaising sales  
+closure.  
+• Developing Proposals - RFQ, RFI, Technical Documents, Requirement gathering
+meticulously.  
+• Performing market research and competitor study.  
+• Enable customers take Informed-Decision through data analysis, Influence
+adoption of  
+proposed solutions.  
+• Document business/ functional requirements, pains of customers.  
+• Identifying risks and evaluation of risk management.  
+• Advocate a strategy to improve asset management.  
+• Assessment of competitive Landscape in business aspects.  
+• Product Marketing and accounts handling.
+
+## Work Experience
+
+Freelancer-Data Science solution consultant
+
+-
+
+June 2016 to Present
+
+Training in Data-Science and Analytics - March 2016 to June2016
+
+Data-Science Solution Consultant
+
+Freelancer
+
+-
+
+June 2016 to Present
+
+Client engagement and deal closure along with solution selling.
+
+working partner
+
+Sky and Sky air travels Pvt Ltd
+
+-
+
+July 2012 to Present
+
+2012 till
+
+Business-Development Manager/ ETL Developer (Talend)
+
+SCI-BI Software Systems Ltd
+
+-
+
+September 2014 to March 2016
+
+Leading Pre-sales, Qualified lead generations, Market research, E-mail
+campaigns,  
+Maintaining & updating professional networks, SEO and SEM etc.  
+\- Developing new strategy in approaching US & Europe market.  
+\- Business to Business - Interaction with key decision makers.  
+\- Data matrix Analysis or Self performance tracking.  
+\- Effective customer pipeline maintenance and follow-ups.  
+\- Effective competitor analysis and up gradation.  
+\- Presentations and negotiations with prospective customers.  
+\- Updating knowledge in current and emerging IT technologies, open source and
+premium  
+Business Intelligence and Data Analytics tools.  
+Project-1: Caravel Logistics  
+Team size: 9  
+ETL-Tool: Talend Open studio version 5.2.3  
+Caravel Logistics uses an operations software called Inova which is a web
+based  
+application. Agents across different branches and ports use this application
+to create and maintain  
+new shipping requests and relevant data.  
+This data has grown over a period of time and a Business Intelligence
+application can  
+leverage this data effectively for making positive decisions in the
+Organization that can drive the business forward. In order to build a BI
+platform, a decision Support system needs to be built.  
+This project involves building a Data warehouse which would serve as the
+backbone for the BI  
+platform.
+
+Business Development Executive
+
+INDIUMSOFT
+
+-
+
+February 2012 to June 2012
+
+\- Team size- 6 (US Marketing & Sales)  
+\- Contributor to deal closure for Manheim - online live car bidding portal  
+\- One of the largest used car selling portal in Americas & Australia.  
+\- Was part the bid-winning team  
+\- Involved in presales activities till closer stage.  
+\- Learned and experienced the team effort in a whole through sales cycle.
+
+Junior Engineer at OAKEY ABATTOIR
+
+Nippon Groups
+
+-
+
+September 2008 to November 2011
+
+Lead a 12 member team responsible for Semi-Automated machines.  
+\- Involved in monitoring process  
+\- Identifying deviations and co-ordinate with technical team from overseas to
+resolve issues.  
+  
+Technical Exposure  
+ETL Talend Open Studio for Data Integration, Java, R, MySQL, SQL, HDFS,
+Mapreduce, HIVE,  
+Pig, Sqoop, Oozie, Hbase, SaaS applications, AI & IoT, Retail and Advance
+Analytics,  
+Cloud, AWS / Azure Data lake, Predictive Modelling, Statistics-Model building,
+Neural  
+Networks, SAS and SAP-Enterprise Suites, PLC.  
+Data-visualization: Tableau & QlikView, Base SAS
+
+## Education
+
+PG in Telecommunications & Computer systems Engineering and Management in
+Telecommunication & Computer Systems Engineering & Management
+
+University of Southern Queensland(Australia)
+
+BSc in Electronics
+
+RVS College (Bharathiyar University) Coimbatore
+
+-
+
+Coimbatore, Tamil Nadu
+
+## Skills
+
+Solution Selling, proposal building, Consultative sales, Client Negotiations
+

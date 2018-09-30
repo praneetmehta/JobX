@@ -1,0 +1,90 @@
+-  
+  
+# Data Science Intern
+
+Vaikam, Kerala
+
+-
+
+## Work Experience
+
+Data Science Intern
+
+OpnCV
+
+-
+
+Kochi, Kerala
+
+-
+
+July 2018 to Present
+
+Working on: Semantic Web,Clustering Data ,NoSQL,Implementing API
+
+Research Intern
+
+CSIR-CDRi
+
+-
+
+Work From Home
+
+-
+
+October 2017 to March 2018
+
+Make new kinds of ANNs, which are neuromorphic in architecture and abide by
+the principles of plasticity  
+  
+Write theoretical paper as well as the implementation of such ANNs
+
+## Education
+
+B.Tech in Computer Science Engineering
+
+College Of Engineering Kidangoor
+
+-
+
+Kidangoor, Kerala
+
+June 2014 to April 2018
+
+## Skills
+
+Python (3 years), C++ (6 years), Sql (6 years), Data Analysis (1 year), Deep
+learning (Less than 1 year), machine learning (1 year), Web Development (2
+years), Mathematics (10+ years), NoSql (Less than 1 year)
+
+## Publications
+
+FABULAM NARRENTAM
+
+March 2018
+
+Inspired by recent work in machine translation and object detection, we
+introduce a model that automatically learns to detect the content of images
+and generate a story related to it. The fact that humans can do this with
+remarkable ease makes this a very interesting/challenging problem for AI,
+combining aspects of computer vision (in particular scene understanding) and
+natural language processing. Much in the same way human vision fixates when
+you perceive the visual world, the model learns to "attend" to selective
+regions while generating a story. We also show through visualization how the
+model is able to automatically learn to fix its gaze on salient objects while
+generating the corresponding words in the output sequence. The model brings
+together convolutional neural networks, recurrent neural networks, and works
+in modeling attention mechanisms.
+
+CEK ALUMNI
+
+April 2017
+
+descriptionThis project is a social networking website for the alumni
+association of students of College of Engineering Kidangoor.All new posts will
+be dynamically loaded. Pictures and their views can be uploaded by any user in
+the network. Each user has his own page and can edit their profile photo and
+status.New news updates related to the department or college will be provided
+in a separate page which can be viewed by all the users. This will be a very
+good website which will be helpful for all the students of CEK.
+

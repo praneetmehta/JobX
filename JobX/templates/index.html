@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block nav_menu %}
+{{ super() }}
+	{% if loggedIn %}
+	<ul id="nav-mobile" class="right hide-on-med-and-down">
+  		<li><a href="/user"><span class="glyphicon glyphicon-user"></span> Welcom {{ session['user'] }}</a></li>
+  		<li><a href="/logout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+	</ul>
+	{% else %}
+	<ul id="nav-mobile" class="right hide-on-med-and-down">
+  		<li><a href="/login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+  		<li><a href="/signup"><span class="glyphicon glyphicon-user"></span> SignUp</a></li>
+	</ul>
+	{% endif %}
+{% endblock %}
+
+{% block nav_drop %}
+{{ super() }}
+	{% if loggedIn %}
+		<li><a href="/user"><span class="glyphicon glyphicon-user"></span> Welcom {{ session['user'] }}</a></li>
+  		<li><a href="/logout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+	{% else %}
+		<li><a href="/login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+		<li><a href="/signup"><span class="glyphicon glyphicon-user"></span> SignUp</a></li>
+	{% endif %}
+{% endblock %}

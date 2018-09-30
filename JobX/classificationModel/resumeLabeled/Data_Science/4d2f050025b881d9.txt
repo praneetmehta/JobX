@@ -1,0 +1,103 @@
+-  
+  
+# Data Mining Engineer
+
+## Data mining Engineer with 7.5 years of exp. Immediate Joiner.
+
+Bengaluru, Karnataka
+
+-
+
+➢ 7 and half years of experience work across Data Engineering, Data Science
+projects.  
+➢ Work responsibilities across 3 companies (Infosys, Mphasis, Liberty Data
+Analytics) and different clients (RBS-Citizens, AMEX, Citi Bank, AIG, Liberty
+Mutual) in full life cycle projects. Functional areas of working has been in
+the BFSI segment.  
+➢ Good exposure on Data Science processes with good hands on for fraud
+analytics using Linear Regression, Logistic Regression, Clustering and
+Classification techniques and good foundation of statistics required to
+validte each step of the process.  
+➢ Worked on projects using R and Python.  
+➢ Well versed with Hadoop ecosystem with good exposure to sqoop, Hive. Good
+working knowledge on Oracle RDBMS and exposure to other DB's -Netezza,
+Teradata, SQL Server, Postgres. Worked with data from variety of sources like
+flat files with different delimiters and header/trailer formats, xml, xls,
+JSON and Mainframe Datasets. Exposure to NoSQL DBs - Cassandra and Mongo DB.  
+➢ Exposure to both AWS and Azure cloud.  
+➢ Fast learning skills and creative analytical abilities with good
+communication and technical skills.  
+➢ Flexibility to change/leverage with any new technology.
+
+## Work Experience
+
+Data Mining Engineer
+
+Liberty Data Analytics
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+November 2015 to Present
+
+As a part of Liberty Mutual's analytics arm - Liberty Data Analytics Pvt Ltd -
+we were responsible for consulting, execution and delivery of analytics
+projects for its 18 operational countries. My role included execution and
+delivery of predictive and descriptive analytics projects for Ireland, India,
+Thailand and US. Projects included complete lifecycle work- requirements
+gathering and baselining them to set expectations, checking for data
+sufficiency and viability of the project , data extraction and cleansing,
+feature engineering, training, validation, scaling, deployment, scoring,
+monitoring, and feedback loo with regular communication and reporting to
+stakeholders.
+
+Senior Software Engineer
+
+Mphasis Ltd
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+November 2014 to November 2015
+
+Complete DWBI pipeline work for AIG.
+
+Technology Analyst DWBI
+
+Infosys Ltd
+
+-
+
+Bangalore Urban, Karnataka
+
+-
+
+July 2009 to March 2014
+
+Associated with 3 clients - RBS Citizens, AMEX, Citi Corp. DWBI work including
+small scale ETL projects, Data Marts to complete DW building and then
+designing and developing metrics to get value from the data.
+
+## Skills
+
+Predictive Analytics (3 years), QLIKVIEW (2 years), SQL (7 years), Python (2
+years), R studio (2 years)
+
+## Additional Information
+
+Skill Set:  
+  
+Analytical Platforms : R studio, Python, SAS  
+ETL Tools DataStage 8.0 - 9.1, Abinitio 1.15.9  
+Data Visualization Qlikview 11, SAS VA  
+Scripting Shell scripting, SQL  
+Databases Oracle 11g, Netezza, Postgres, SQL Server, HDFS  
+Cloud Platforms AWS, Azure  
+Big data Platforms Hive, Sqoop
+

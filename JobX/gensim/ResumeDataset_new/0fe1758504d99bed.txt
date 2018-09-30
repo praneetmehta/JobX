@@ -1,0 +1,215 @@
+-  
+  
+# Data Science Analyst
+
+## Data Science Analyst
+
+-
+
+## Work Experience
+
+Data Science Analyst
+
+Sigma Space Corp
+
+-
+
+2016 to January 2016
+
+\- presnet  
+• Involved in NASA project to develop a model to classify and predict black
+holes captured by K2 Fermi satellites  
+• Utilized ASteCA (Automated Stellar Cluster Analysis) to perform cluster
+analysis.  
+• Designed a neural networks model with 4 million neurons to classify the
+images of Active Galactic Nuclei  
+• Utilized Apache Spark to collect real time sensor data from satellites and
+perform analysis using Hive.  
+• Proficient in using TensorFlow and Kears for designing and training CNN and
+RNNs.  
+• Hands on experience in implementing Naive Bayes and skilled in Random
+Forests, Decision Trees, Linear and  
+Logistic Regression, SVM, Clustering, Principle Component Analysis.  
+• Partnered with various resources across the business to leverage their
+support and integrate our effort.  
+• Familiar with DAS (Data Acquisition System) and SCADA (Supervisory Control
+and Data Acquisation) systems  
+• Proficient in Data Acquisition, Storage, Analysis, Integration, Predictive
+Modeling and Cluster Analysis.  
+• Performed data cleaning, feature scaling, and feature engineering using
+pandas and numpy packages.  
+• Designed python scripts to store, retrieve and modify data in MongoDB and
+MySQL databases.  
+  
+• Proficient in data pre-processing and interpreting patterns in datasets
+using pandas dataframes  
+• Performed data wrangling operations to clean data from different sources for
+predictive modelling  
+• Experienced in designing recommendation systems using AWS, Spark.  
+• Designed density estimators (kernel and nearest neighbors) using astroML
+package.  
+• Authored complex SQL queries for data retrieval and validate the accuracy of
+the data  
+• Performed data analysis using python pandas, R (for Multi-Dimensional
+Scaling), Hive
+
+Machine Learning Engineer
+
+Bank of America
+
+-
+
+January 2014 to December 2015
+
+• Developing new methods of data extraction and data mining such as utilizing
+Natural Language Processing tools.  
+• Developed an NLP model using NLTK library in Python to classify the content
+in the investment portfolio database  
+• Expertise in using Linear Regression and Classification Modeling, Decision-
+trees, Principal Component Analysis  
+• Implemented Logistic Regression Algorithm resulting to identify the most
+valuable customers.  
+• Implement data mining and statistical machine learning solutions to various
+business problems.  
+• Used Python to analyze and identify the Security data lakes for the
+fraudulent transactions.  
+• Used NLP to text mine the customer service data lake for analyze the intent.  
+• Involved in defining the business/transformation rules applied for sales and
+service data.  
+• Involved in defining the source to target data mappings, business rules,
+data definitions.  
+• Responsible for defining the functional requirement documents for each
+source to target interface.  
+• Document, clarify, and communicate requests for change requests with the
+requestor and coordinate with the development and testing team.  
+• Coordinate with the business users in providing appropriate, effective and
+efficient way to design the new reporting needs based on the user with the
+existing functionality.  
+• Developed and execute processes for accurate data capture across all clients
+to obtain key insights and relationships to overall business objectives using
+Statistical Hypotheses Model  
+• Document data quality and traceability documents for each source interface.  
+• Generate weekly and monthly asset inventory reports.
+
+Data Scientist
+
+Verizon
+
+-
+
+CA
+
+-
+
+July 2012 to December 2013
+
+• Performed data extraction and analysis to develop business process mining
+model using BupaR  
+• Built forecast models using that improved planning and productivity by 25%.  
+• Conducted independent statistical analysis, descriptive analysis, hypothesis
+testing and logistic regression using R and SAS  
+• Created Dashboard reports using Tableau once the data analytics is completed
+and submit to the Business group  
+• Developed sophisticated data models to support automated reporting and
+analytics  
+• Developed personalized products recommendation with Machine Learning
+algorithms including collaborative filtering and Gradient Boosting Tree to
+meet the needs of existing customers and acquire new customers.  
+• Addressed overfitting by implementing of the algorithm regularization
+methods like L2 and L1.  
+• Implemented statistical modeling with XGBoost machine learning software
+package using Python to determine the predicted probabilities of each model.  
+• Used numpy, scipy, pandas, nltk (Natural Language Processing Toolkit),
+matplotlib to build the model.  
+• Used Principal Component Analysis in feature engineering to analyze high
+dimensional data.  
+• Performed data cleaning, features scaling, features engineering using pandas
+and numpy packages in python and build models using deep learning frameworks.  
+• Created deep learning models using Tensorflow and keras by combining all
+tests as a single normalized score and predict residency attainment of
+students.  
+• Implemented application of various machine learning algorithms and
+statistical modeling like Decision Tree, Text Analytics, Sentiment Analysis,
+Naive Bayes, Logistic Regression and Linear Regression using Python to
+determine the accuracy rate of each model.  
+• Designed reports that will use gathered metrics to infer and draw logical
+conclusions of past and future behavior.  
+• Created data layers as signals to Signal Hub to predict new unseen data with
+performance not less than the static model build using deep learning
+framework.
+
+Data Analyst
+
+IBM-India
+
+-
+
+January 2011 to June 2012
+
+• Application of various machine learning algorithms and statistical modeling
+like decision trees, regression models, clustering, SVM to identify Volume
+using scikit-learn package in R.  
+• Worked on different data formats such as JSON, XML and performed machine
+learning algorithms in Python.  
+• Involved in transforming data from legacy tables to HDFS, and HBASE tables
+using Sqoop.  
+• Research on Reinforcement Learning and control (Tensorflow, Torch), and
+machine learning model.  
+• Partner with infrastructure and platform teams to configure, tune tools,
+automate tasks and guide the evolution of internal big data ecosystem; serve
+as a bridge between data scientists and infrastructure/platform teams.  
+• Worked on Text Analytics and Naive Bayes creating word clouds and retrieving
+data from networking platforms.  
+• Performed Exploratory Data Analysis, Data Wrangling and development of
+algorithms in R and Python for data mining and analysis.  
+• Extensively used Python's multiple data science packages like Pandas, NumPy,
+matplotlib, SciPy, Scikit-learn, Tensorflow and NLTK.  
+• Performed data analysis by gathering, spatial data from its pristine form to
+derive financial projections  
+• Rated stocks based on Fundamental Analysis, quarterly performance and future
+outlook  
+• Prepared Equity Research and Quarterly Earnings reports for companies under
+assigned sectors  
+• Involved in analysis, design and documenting business requirement
+specifications so as to build data warehousing extraction programs, end-user
+reports and queries.  
+• Used Google Fusion Tables and Tableau to publish visualizations.  
+  
+PROJECTS  
+1\. Sentiment Analysis of Movie Reviews - Utilized Natural Language Processing
+tools to derive the sentiment present in movie reviews and evaluated the
+effectiveness of model.  
+2\. Online Discussion Board - Developed an online discussion board using
+Django Framework.  
+3\. Network Anomaly Detection - Applied k-means algorithm - a machine learning
+approach to detect anomalies in the network traffic.  
+4\. Analysis of Defense Data \- Analyzed the data of Department of Defense
+using Big data tools such as Hive, Pig and generated reports using Tableau
+
+## Skills
+
+MACHINE LEARNING (5 years), NATURAL (5 years), NATURAL LANGUAGE PROCESSING (5
+years), PYTHON (5 years), DATABASE (3 years)
+
+## Additional Information
+
+Skills:  
+MACHINE LEARNING (5 years), NATURAL LANGUAGE PROCESSING (5 years), PYTHON (5
+years), SENTIMENT ANALYSIS (3 years), CLUSTERING (3 years)  
+  
+TECHNICAL SKILLS  
+  
+Programming Languages: Python, R, C++, Scala  
+Big Data: HDFS, Hive, HBase, Pig, Spark, Kafka  
+Web Technologies: HTML5, CSS, Javascript  
+Version Control: Git, Github  
+Database: MySQL, MongoDB, DB2, HBase, SQL, Spark SQL, HQL, Teradata, Postgres  
+Development Environments: Anaconda, Pycharm, Jupyter Notebooks, R Studio  
+Python skills: numpy, scipy, sklearn, pandas, matplotlib, nltk, beautifulsoup,
+pyunit, astropy, ASteCA, fermipy.  
+Machine Learning: Linear Regresson, NLP, kNN, Clustering Analysis,
+Recommendation systems, Sentiment Analysis,  
+Random forests, Decision Trees, TensorFlow  
+Dimensionality Reduction: PCA, NMF, LDA  
+Visualization: Tableau, Qlikview
+

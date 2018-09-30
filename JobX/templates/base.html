@@ -1,0 +1,52 @@
+<html>
+<head>
+	<title>
+	{% block title %}
+	JobX
+	{% endblock %}
+	</title>
+
+	{% block headincludes %}
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src= "{{ url_for('static', filename='js/materialize.min.js') }}"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/materialize.min.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/global.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/fonts.css') }}">
+	{% endblock %}
+</head>
+
+{% block navbar %}
+ <nav>
+    <div class="nav-wrapper">
+		<a href="#" class="brand-logo center">JobX</a>
+		<a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+		{% block nav_menu %}
+		<ul id="nav-mobile" class="hide-on-med-and-down">
+			<li><a href="/">Home</a></li>
+		</ul>
+		{% endblock %}
+      
+	  	<ul class="sidenav" id="mobile-demo">
+	  	  {% block nav_drop %}
+	      <li><a href="/">Home</a></li>
+	      {% endblock %}
+	    </ul>
+    </div>
+  </nav>
+
+  <script type="text/javascript">
+  	document.addEventListener('DOMContentLoaded', function() {
+  	    var elems = document.querySelectorAll('.sidenav');
+  	    var instances = M.Sidenav.init(elems, {});
+  	});
+  </script>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+	{% block page_content %}
+	{% endblock %}
+</div>
+{% endblock%}
+</html>

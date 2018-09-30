@@ -1,0 +1,196 @@
+-  
+  
+# Microsoft Professional Program In Data Science
+
+New Delhi, Delhi
+
+-
+
+## Work Experience
+
+Microsoft Professional Program In Data Science
+
+Microsoft Academy
+
+-
+
+Online
+
+-
+
+April 2018 to Present
+
+Learning Data science using Python and R prog. lang. with the help of
+Microsoft Excel and Power BI to analyze and visualize large datasets from
+Azure SQL program with T-SQL, Using Sparks to create predictive analytics and
+machine learning solutions.
+
+Machine Learning From Coursera
+
+Stanford University
+
+-
+
+Online
+
+-
+
+March 2018 to July 2018
+
+Learned how to apply the advanced machine learning algorithms to such problems
+as anti-spam, image recognition, clustering, building recommender systems, and
+many others. Also learned to select the right algorithm and improve learning
+performance.
+
+Programming With C# On EdX
+
+Microsoft
+
+-
+
+Online
+
+-
+
+September 2015 to January 2016
+
+Programming in C# a course of Study issued by Microsoft , an online learning
+initiative of Microsoft Corporation on eDX . Leerned on topics like Enum Data
+types, Handlind Exceptions, Methods and other Resources.  
+  
+Honor Code Certificate
+
+## Education
+
+B. Tech in Electronics & Communication Engineering
+
+IMS Engineering College
+
+-
+
+Ghaziabad, Uttar Pradesh
+
+August 2014 to June 2018
+
+## Skills
+
+Python (1 year), Sql (Less than 1 year), Data Analysis (Less than 1 year),
+Data Entry (Less than 1 year), Machine Learning (Less than 1 year), Hadoop
+(Less than 1 year), R (Less than 1 year), Spark (Less than 1 year), Big Data
+(Less than 1 year), NLP (Less than 1 year)
+
+## Links
+
+[http://ashwanidv100.github.io](https://www.indeed.com/url?q=http%3A%2F%2Fashwanidv100.github.io&h=e42b7b90)
+
+## Awards
+
+Top 1% of Microsoft TechRewards Participant
+
+October 2017
+
+Challenges Completed: 48, Total Experience Points: 14150 XP, Leaderboard Total
+Badges: 14
+
+Google Online Marketing Challenge (GOMC-2017)
+
+August 2017
+
+Worked as a Team Leader. An AdWords campaign ran from April 14 to May 3 with a
+$250.00 budget. Campaigns as maintained using 4 Ad Groups, 8 ads, and 24
+keywords and Universal App Campaign with Targeted locations as available in
+All Countries and Territories to achieve the objectives. The campaigns reached
+14,781 clicks, 405,694 impressions with CTR of 3.64% and an average CPC of
+$0.02. Our campaign resulted in 633 new downloads.
+
+First Place in Texas Instruments India
+
+June 2018
+
+Awarded for an outstanding performance on achieving First Place in the TIVA ,
+an online contest by TI University Program.
+
+Google Code Jam Participant
+
+In 2016,  
+Participated as ashwanidvl00 representing India using C, C++, Python with
+Qualification Round: Ranked 7223 (55 points), Round 1C: Ranked 5469 (18
+points).  
+  
+In 2017,  
+Participated as ashwanidv100 representing India using C, C++, Python with
+Qualification Round: Ranked 8330 (50 points).  
+  
+In 2018,  
+Participant as ashwanidv100 representing India using Python, C++, C# with
+Qualification Round: Ranked 5988 (54 points).  
+
+## Groups
+
+Contributor in CodeHeat Fossaisa Program
+
+September 2017 to February 2018
+
+Used various programming languages in fossasia projects ranging from web
+front-end to back-end technologies and Linux technologies.  
+
+
+Contributor in Classical Language Toolkit (CLTK)
+
+February 2018 to Present
+
+Classical Language Toolkit (CLTK) offers natural language processing (NLP)
+support for the languages of Ancient, Classical, and Medieval Eurasia.
+Contributed to build compiled analysis-friendly corpora for Medieval-texts.
+And still actively contributing to Collecting and generating linguistics data
+for cltk and fixing Issues and Bugs in cltk.
+
+Contributor in Paytm: Build for India | Open Source Incubator
+
+January 2018 to Present
+
+Solving problem which we are facing in every day and open source project to
+eradicate those problem. The  project can involve in designing, coding,
+hardware development and product management, etc.
+
+Member of GDG New Delhi
+
+October 2017 to Present
+
+Member and Influencer at Unity Connect
+
+August 2017 to Present
+
+## Publications
+
+Blind Navigation System Using Artificial Intelligence
+
+[https://irjet.net/archives/V5/i3/IRJET-V5I3134.pdf](https://www.indeed.com/url?q=https%3A%2F%2Firjet.net%2Farchives%2FV5%2Fi3%2FIRJET-V5I3134.pdf&h=38d7d90b)
+
+March 2018
+
+The use of artificial intelligence for modality conversion, from the visual
+modality to Text-to-Speech. Using TensorFlow Lite and its pre trained
+classifier model (MobileNet_v1) to identifies what’s in the image and perform
+computations using Neural Network API programming model (NNAPI) and trained
+model on our stored training data with getting accuracy of more than 90%.  
+
+Develop Android App : Emoji Dash (Game: Arcade)
+
+[https://play.google.com/store/apps/details?id=com.wykeespace.EmojiDash](https://www.indeed.com/url?q=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.wykeespace.EmojiDash&h=c6904b19)
+
+February 2017
+
+This app is available on google play store. I build this app as a part of my
+hobby but intended to learn Unity Technology using C# programming and Game
+Development cycle. Trying to implement Machine Learning system in the present
+development cycle.
+
+## Additional Information
+
+Looking for a challenging Job and Internship which demands the best of my
+current ability in terms of technical and analytical skills, and helps me in
+broadening and enhancing my current skill and knowledge. I have lots of
+energy, a bit of that "vision thing" and I not afraid to start from the
+beginning.
+

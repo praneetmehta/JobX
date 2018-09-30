@@ -1,0 +1,104 @@
+-  
+  
+# Data Science Intern
+
+## Data Science Intern - Kogentix Inc
+
+-
+
+t  
+• Data Scientist with an overall experience of 1 year, having hands on Data
+Visualization and Predictive Modelling using R,  
+Python on Rstudio and Jupyter Notebook. Also, have an apt knowledge on C,
+MySQL, HTML, Javascript D
+
+## Work Experience
+
+Data Science Intern
+
+Kogentix Inc
+
+-
+
+April 2018 to Present
+
+Indonesian electric car sales forecast: a  
+• Taking data from 2007 to 2017, a forecast on the monthly sales of the
+electric cars for the inext year is performed using  
+ARIMA, in Python l  
+• s  
+During the analysis, we observed how electric cars took over the diesel cars,
+suddenly in 2011, and how did it impact the market shares and also the
+pollution reduced in an exponential rate  
+• Home Credit Default Risk Evaluation::  
+• The problem statement was to perform an analysis on clients who might
+default, where we had the personal details of each  
+g  
+client, credit history from other financial institutions and Home Credit's
+previous credit reports, installment history, etc. a  
+• Performed an EDA, using Python, which provided us some meaningful insights.
+It helped usy understand the domain and learn the data in a better way a  
+• GSK (Healthcare) Project: t  
+• Was a part of the project of healthcare domain r  
+• We had to forecast the sales of each drug/medicine based on the pharmacies
+and their location, which was done using R  
+i
+
+Data Analyst
+
+SriyamSoft LLC
+
+-
+
+November 2017 to April 2018
+
+Have presented and explained the functionality of the predictive analytics
+module of the clients  
+p  
+• Learnt the working of some of the machine learning algorithms of the
+predictive analytics module of a  
+BoC (product), especially for its proper functionality such as, Decision
+Trees, Correlation Matrix, Exponential  
+d  
+Regression  
+h  
+• Have worked on TURI and H2O.ai applications to understand their
+functionalities and usecases  
+i
+
+## Education
+
+Bachelor's in Computer
+
+Gandhi Institute of Engineering
+
+-
+
+Gunupur, Orissa
+
+2017
+
+Carmel School
+
+-
+
+Raurkela, Orissa
+
+November 1981 to September 2011
+
+Deepika E.M. School
+
+-
+
+Raurkela, Orissa
+
+## Skills
+
+R, Python, MsExcel, Predictive Modeling, Data Visualization (1 year)
+
+## Links
+
+[http://github.com/gayatripadhi](https://www.indeed.com/url?q=http%3A%2F%2Fgithub.com%2Fgayatripadhi&h=4ea7d1ef)
+
+[http://linkedin.com/in/gayatrip27](https://www.indeed.com/url?q=http%3A%2F%2Flinkedin.com%2Fin%2Fgayatrip27&h=831849fb)
+

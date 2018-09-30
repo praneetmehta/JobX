@@ -1,0 +1,232 @@
+-  
+  
+# Data Science Intern
+
+## Data Science Intern - AnalytixLabs
+
+Delhi, Delhi
+
+-
+
+• Currently pursuing B.tech in computer science from Amity University, Noida,
+U.P  
+• Worked at AnalytixLabs as a trainee to learn Big Data Hadoop ecosystem tools
+which includes Hive - a SQL based tool, MapReduce, Spark, Pig, HDFS, HBase,
+Sqoop, Flume, Impala.  
+• Proficient in Query optimization and performance tuning in Hive & Spark.  
+• Proficient in Feature extraction and classification.  
+• Proficient in building algorithms for business analytics.  
+• Process automation in Big Data infrastructure.  
+• An effective communicator, team player with good interpersonal, problem
+solving and analytical skills.
+
+## Work Experience
+
+Data Science Intern
+
+AnalytixLabs
+
+-
+
+Gurgaon, Haryana
+
+-
+
+May 2018 to Present
+
+Gurgaon, NCR, India  
+  
+* Currently building HR chatbot using RasaNLU in python.   
+  
+Project 1: Health Care Analytics  
+Activity done to predict the probability of stroke happening to their patients
+by applying feature engineering on given data sets and creating a model to
+predict the probability using Scikit-learn in Python (I used Random Forest
+Classifier for classification).  
+  
+Project 2: E-commerce Retail Analytics  
+Activity done for Product affinity analysis, Sales performance and Statistical
+segmentation of the brand's audience based on RFM score using PySpark.  
+  
+Project 3: App Analytics  
+Activity done to find Customer retention trend, Purchase value buckets,
+purchasing vs non-purchasing behaviour, week over week revenue trends etc.
+actionable insights using R and PySpark.  
+  
+Project 4: Airline Analytics  
+Activity done to find better carriers, best time to depart/arrive, cascading
+failures to minimize delays and to create a model for predicting flight delays
+using Hive and model in PySpark.  
+  
+Project 5: Solution design for importing data to HDFS  
+Activity done to design a solution for windows and Linux user where they have
+to import data at same place, solution with sqoop was designed for windows
+user to directly import table from MySQL database to HDFS and a spool
+directory was created for Linux user using flume.  
+  
+Project 6: Solution design for incremental append  
+Activity done to design a solution for appending new rows inserted in a table
+using sqoop by creating a shell script for end user.  
+  
+Case Studies  
+1\. Spark Streaming word count  
+Activity done to count words in real time by creating netcat utility using
+flume and streaming words through spark streaming API. One more modification
+was made later to store the result in HDFS.  
+  
+2\. Spark GraphX case study  
+Activity done to create a property graph consisting of the various
+collaborators on the GraphX project and to create triplet of their
+relationships using Spark GraphX.  
+  
+3\. Airports Case study  
+Activity done to find Airports in different regions, average altitude of
+airports, time zone of different operating airports, different DST's using
+Spark.  
+  
+4\. FIFA Case Study  
+Activity done to find Total attendance of the world cups by year, total goals
+scored, distribution of home and away goals, cities hosted highest world cup
+matches, teams with victories, match outcomes by home and away teams, the
+golden goal and many more using Pig and Hive.
+
+Trainee
+
+AnalytixLabs
+
+-
+
+Gurgaon, Haryana
+
+-
+
+August 2017 to January 2018
+
+Gurgaon, NCR, India  
+  
+Project 1: Big Data Analytics using Clickstream Data  
+Activity done for Path Optimization, Association Analysis & Next product to
+buy and Allocation of website resource using HDFS, Hive, Pig, Sqoop and
+Tableau.  
+  
+Project 2: Sentiment Analysis using Social Media Data  
+Activity done for sentiment analysis to understand how the public feels about
+something at a particular moment in time using Flume, Hive, Impala, HDFS and
+Tableau.  
+  
+Project 3: Bank Loan Analysis (Lending Club co.)  
+Activity done to understand loans performance with 1 million records in
+different dimensions like Yearly and Quarterly Total Loan Issuance, Percentage
+of Loans based on reported loan purpose, Loan issuance by state, Last quarter
+average interest rates by different term loans and overall and more using
+Hive, Impala, MySQL and Oracle DVD.  
+  
+Project 4: Analysing Machine & Sensor Data  
+Refined and Analysed the Sensor Data to maintain optimal building temperatures
+and to identify which HVAC systems are reliable using SparkSQL, Pig and Power
+BI.  
+  
+Project 5: Big Data Analytics in retail  
+Analysis done for recommending up-sale or cross-sale for customers using Hive,
+Impala, HDFS, MySQL, Sqoop and Tableau.  
+  
+Project 6: Retail Sales Analytics  
+Activity done to illustrate retail analytics and to find out Revenue Aggregate
+By Country for top five countries, Daily sales activity, Top twenty items sold
+by frequency, and more using Pig, Hive, HDFS, Sqoop, Spark, Scala and Oracle
+DVD.
+
+Minor Project
+
+-
+
+Noida, Uttar Pradesh
+
+-
+
+May 2017 to June 2017
+
+Noida, NCR, India  
+  
+Project 1: Hospital Management System  
+HMS with all required features to run a practice or hospital smoothly and
+hassle free using Java, MySQL and NetBeans.  
+  
+Project 2: Cricket Betting Software  
+Software only for bookies that includes terminal for betting entry and
+accounts management using Java, MySQL and NetBeans.
+
+Minor Project
+
+-
+
+Noida, Uttar Pradesh
+
+-
+
+May 2016 to June 2016
+
+Noida, NCR, India  
+  
+Project 1: Online Net Banking System  
+System with all the facilities for customers as well as for staff includes
+Fund transfer, Balance Enquiry, new account and more using HTML, CSS, PHP and
+MySQL.  
+  
+Project 2: Secure Data Entry Panel  
+A panel with authentication page followed by data entry terminal to store data
+in a database using HTML, CSS, PHP and MySQL.  
+  
+Key Activities  
+• Designing of websites and software's.  
+• Handled the development of new functionality in software.  
+• Creation of workflows.  
+• Performed query optimization and performance tuning.  
+• Testing  
+• Host Management for websites.
+
+## Education
+
+B.Tech in Computer Science
+
+Amity School of Engineering & Technology
+
+June 1997
+
+## Skills
+
+MYSQL (1 year), APACHE HADOOP HDFS (Less than 1 year), APACHE HADOOP SQOOP
+(Less than 1 year), HADOOP DISTRIBUTED FILE SYSTEM (Less than 1 year), HDFS
+(Less than 1 year), Python, Machine Learning, Hadoop, Spark
+
+## Links
+
+[https://www.linkedin.com/in/anmol-
+kankariya-645928112](https://www.indeed.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanmol-
+kankariya-645928112&h=8f0275f8)
+
+## Certifications/Licenses
+
+Big Data Analyst (Hadoop)
+
+January 2018 to Present
+
+Data Scientist with Python
+
+August 2018 to Present
+
+## Additional Information
+
+TECHNICAL SKILLS  
+Operating System: Linux, UNIX, Windows  
+Languages: Python, R, Java  
+Hadoop Distribution: Apache, CDH  
+Big Data Technologies: Spark, Apache Hadoop (MRv1, MRv2 - YARN),  
+Hive, Impala, Pig, Sqoop, Flume, HDFS, HBase  
+Visualization Technologies: Tableau, Oracle DVD, Power BI  
+Databases: Microsoft SQL server, MySQL  
+Web Technologies: HTML5, CSS, PHP  
+Machine Learning: Data Pipelines, Logistic Regression, KNN, SVM, Linear
+Regression,  
+KMeans
+

@@ -1,0 +1,99 @@
+-  
+  
+# Data Science Intern
+
+## Kartheek
+
+Bengaluru, Karnataka
+
+-
+
+To work as a graduate level trainee in an innovative software product and/or
+service based company.
+
+## Work Experience
+
+Data Science Intern
+
+KrishiHub
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+September 2018 to Present
+
+Worked on the Mobile application of KrishiHub where Farmers can get crop  
+Information, Price Forecasts for up to 6 months across all mandis in India,
+Weather  
+Forecast, directory for seeds, Fertilizers, pesticides and Farm equipments
+etc.
+
+• Programming Languages C, C++  
+• Scripting Languages Python  
+• Database Knowledge MySQL, MongoDB  
+• Data Analytics Data Analysis with Pandas  
+• Machine Learning Regressions, SVM, Clustering (K-Means, Hierarchical),
+Neural Networks (Artificial, Convolutional), PCA, LDA  
+  
+PROJECTS  
+  
+BANDWIDTH MONITOR  
+• A small utility program that tracks how much data you have uploaded and
+downloaded from the net during the course of your current online session. See
+if you can find out what periods of the day you use more and less and generate
+a report or graph that shows it.  
+◦ Tools: Python, Matplotlib  
+  
+Watermarking Application  
+• Add one's own logo (or) text lightly in the background on images that one
+want copyright protected so that no one can simply steal your content off the
+site.  
+◦ Tools: Python  
+TV Show Tracker  
+• This enables to find a show that one don't want to miss. A code is written
+which can search various online TV Guide sites, locate the
+shows/times/channels and add them to a database application. The
+database/website then can send you email reminders that a show is about to
+start and which channel it will be on.  
+◦ Tools: Python  
+Tic Tac Toe Game  
+• Two players sitting at the same computer will be able to play the game where
+a board is printed on the screen every time a player enters an input, symbols
+are given for two boards of two players and the winner is decided when an
+entire row or column or a diagonal is filled by the same board.  
+◦ Tools: Python  
+  
+Player Database  
+• Created a Database consisting all the statistical data of the players that
+includes goals scored, weekly wages, personal details, Transfer fees included
+etc  
+◦ Tools: MySQL  
+Data analysis project  
+• Imported some companies stock prices using Data Reader library and created
+various analysis regarding their opening, closing, Highest, Lowest shares and
+compared their growth.  
+◦ Tools: pandas, DataReader library.
+
+## Education
+
+Bachelor of Engineering in Qualification
+
+Sathyabama Institute Of Science And Technology
+
+-
+
+Chennai, Tamil Nadu
+
+April 2018
+
+Board of Intermediate Education
+
+2014
+
+## Skills
+
+Python, Data Analysis, Machine Learning, Mongodb
+

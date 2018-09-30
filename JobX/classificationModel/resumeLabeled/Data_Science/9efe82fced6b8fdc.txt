@@ -1,0 +1,151 @@
+-  
+  
+# Data Science Intern
+
+## intern
+
+Chandigarh, Chandigarh
+
+-
+
+## Work Experience
+
+Data Science Intern
+
+Tatras Data Science
+
+-
+
+June 2018 to October 2018
+
+June 11, 2018 - Oct. 30, 2018  
+  
+Key Skills: deep-learning PCA clustering Python machine-learning CNN Scikit-
+Learn Keras NLP  
+  
+Hired as an intern. Implemented Neural network, Linear/Logistic regression,
+Kmeans, Expectation-Maximization, Matrix-Factorization from scratch.  
+Worked on Recommender System.Worked on Face Recognition.
+
+Business Development Manager
+
+Ramy Infotech Inc
+
+-
+
+January 2018 to May 2018
+
+Client-handling Sales-Management  
+  
+Hired as an intern as Business Development Manager. Explored client handling
+and building relationships with U.S clients.
+
+intern
+
+Ambiente Technologies Pvt. Ltd
+
+-
+
+June 2017 to July 2017
+
+June 5, 2017 - July 15, 2017  
+  
+Key Skills: machine-learning python machine-learning-algorithms scikit-learn
+seaborn  
+  
+Hired as an intern in Machine Learning and Deep Learning and worked on a
+capstone project- Bank Marketing data set  
+  
+PROJECTS
+
+## Education
+
+Bachelor Of Engineering in ECE
+
+Panjab University SSG Regional Centre
+
+2014 to 2018
+
+CBSE
+
+I.S Dev Samaj Senior Secondary School
+
+-
+
+Chandigarh, Chandigarh
+
+December 2014
+
+CBSE
+
+St. Anne's convent school
+
+-
+
+Chandigarh, Chandigarh
+
+October 2012
+
+## Skills
+
+Python, Machine Learning, Deep Learning, Algorithms
+
+## Links
+
+[https://github.com/abhinav8437](https://www.indeed.com/url?q=https%3A%2F%2Fgithub.com%2Fabhinav8437&h=9530e9eb)
+
+[https://www.linkedin.com/in/abhinav-
+rohilla-141106101](https://www.indeed.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabhinav-
+rohilla-141106101&h=b38b9b98)
+
+## Publications
+
+Recognize Indian Celebrities in Video
+
+September 2018
+
+1\. Parsed Indian Celebrities images.  
+2\. Cleaned, detected faces and got the features(embeddings) of the face using
+Facenet.  
+3\. Built a model to find the most similar faces from the features of
+celebrities.  
+4\. Developed a pipeline to pass frames of video to the model and recognize
+celebrities present in each frame  
+5\. Model is scaled upto 30 celebrities.
+
+Built deep Neural Network from scratch
+
+September 2018
+
+1.Built a deep neural network with 2 hidden layers for MNIST dataset to
+predict images of handwritten numbers.  
+2\. Generalised to RELU, Tanh, Sigmoid activation functions and number of
+units in layer.  
+3\. Used mini-batch gradient descent with momentum as hyper parameter to
+accelerate the convergence and improve the optimization  
+4\. Achieved 90% accuracy.
+
+Multi-lingual News Recommender System
+
+August 2018
+
+Built a recommender system which recommends news articles. Returns diverse
+articles for a first-time visitor, and personalised articles for repeat user.  
+1\. Vectorised news corpus using various vectoriser models like tf-idf, topic
+modelling, Glove, Word2Vec, Fast-Text.  
+2\. Automated Clustering algorithm to find clusters within the news corpus.  
+3\. Built a hybrid recommender system (content + collaborative based
+filtering) to build user profile  
+4\. Data is stored in Mongodb and scripting is done in python. REST APIs
+exposed using Flask.
+
+Bank Marketing using machine learning
+
+July 2018
+
+Goal of project-Predicting if the client will subscribe in a campaign or not  
+1\. Preprocessed and made predictions in a highly skewed data set.  
+2\. Used stacking to combine multiple models made on subsets of a large data
+set  
+3\. Accuracy achieved: 62%. The competition's(kaggle) winner was at 55%
+

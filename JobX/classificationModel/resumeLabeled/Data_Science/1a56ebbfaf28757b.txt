@@ -1,0 +1,120 @@
+-  
+  
+# Data Scientist
+
+## Data Scientist - Sentienz
+
+IN
+
+-
+
+To work and learn with interesting projects which challenges my ability and
+skills.
+
+## Work Experience
+
+Data Scientist
+
+Sentienz
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+June 2018 to Present
+
+Bangalore, India  
+Data Scientist - 1  
+Working with Data Science team for building next generation data platform for
+large  
+scale data solution.
+
+Software Engineer
+
+Nuchange Informatics
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+February 2018 to May 2018
+
+Bangalore, India  
+Software Engineer  
+Worked at Nuchange Inforamtics as a Software Engineer for development of
+health care  
+solution using open source technologies i, e, OpenERP, OpenMRS
+
+Software Engineer
+
+Promptcloud
+
+-
+
+Bengaluru, Karnataka
+
+-
+
+May 2017 to November 2017
+
+Bangalore, India  
+Software Engineer  
+Worked at PromptCloud as a Software Engineer in the development project on
+Cus- tomized Web Crawling, Web Scraping and Data Extraction.
+
+## Education
+
+Bachelors of Technology in Computer Science and Engineering
+
+Assam University Silchar
+
+-
+
+Silchar, Assam
+
+July 2013 to June 2017
+
+Senior Secondary
+
+June 2013
+
+Secondary Education
+
+Jagiroad College
+
+-
+
+Jagiroad, Assam, IN
+
+June 2011
+
+IIT Guwahati
+
+-
+
+Guwahati, Assam
+
+## Skills
+
+Java, Python
+
+## Links
+
+[https://github.com/sarkaramal](https://www.indeed.com/url?q=https%3A%2F%2Fgithub.com%2Fsarkaramal&h=db78e7ff)
+
+[https://www.linkedin.com/in/amal-
+sarkar-797219146](https://www.indeed.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famal-
+sarkar-797219146&h=2fabf42a)
+
+## Additional Information
+
+Technical Skills  
+General programming: Python, C, C++, Java, Android, Ruby, PHP, JavaScript,
+Node.js  
+Databases: MongoDB, MySQL, ORACLE  
+Others: Machine Learning, MatLab, Cisco Packet Tracer, ES Stack, Rabbit MQ
+

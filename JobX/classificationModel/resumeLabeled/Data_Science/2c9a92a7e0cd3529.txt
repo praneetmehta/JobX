@@ -1,0 +1,175 @@
+-  
+  
+# Freelance Data Science Consulting and Learning Projects
+
+Virar, Maharashtra
+
+-
+
+Data science aspirant and an experienced Problem Analyst with a demonstrated
+history in support profession and a Machine Learning enthusiast. Enjoys
+problem solving. Proficient in prioritizing and completing tasks in a timely
+manner, yet flexible to multitask when necessary. Enjoys learning new programs
+and processes. A team player who is attentive to detail and able to work in a
+fast paced environment. Excellent oral and written communication skills.
+
+## Work Experience
+
+Freelance Data Science Consulting and Learning Projects
+
+-
+
+March 2018 to Present
+
+Key Projects and responsibilities:-  
+  
+Consulting a data science team for a matrimony site to build broom/bride
+recommender.  
+• The team had to build a recommender engine such that given data points of a
+user profile what is the probability of that person selecting another person
+for dating based on his/her education.  
+• The team was facing the problem of class imbalance with multiple classes and
+hence consulted them on how over sampling and ensemble can be useful in such
+cases.  
+• This technique helped them gain 86% metric score (AUC ROC) as compared to
+75% with earlier models.  
+  
+Capstone Project for Mahindra First Choice:  
+• Worked on huge and multiple datasets for the given vendor's data.  
+• Developed strategies to merge and combine 3 different datasets.  
+• Cleaned, preprocessed the dataset for data modelling.  
+• Developed a recommender system for Mahindra First Choice for predictive
+maintenance.  
+  
+Online Hackathon competition - Predict the criminal. - 10th Rank  
+• The competition was to predict if a person is a criminal or not given
+his/her various family and economic data points.  
+• Only 6% of the total population in the data was guilty and hence it was
+extremely important that the ML model captures and learns such a small portion
+of the data.  
+• A technique called oversampling with ensemble was used to train the model on
+imbalanced data.  
+• I was able to get a score of more than 84% on the online leader board which
+put me under top 10 scores out of 13000 participants.  
+  
+Chat bot for service desk.  
+• Created a Chabot for IT service desk to answer FAQs and simple resolution to
+users' queries.  
+• Used a library called Chatterbot to train the bot on user conversation with
+a help desk agent.  
+• Used Flask to develop an application that provides an UI for chat and
+handles the model internally.  
+• Hosted and initiated the bot on an AWS EC2 Ubuntu instance.  
+  
+Predicting if a company will bankrupt or not, given its various financial data
+points.  
+• This project included tasks like preprocessing the data, handling missing
+data and outliers and finally having a brief understanding of the dataset.  
+• Since understanding the data comes with domain knowledge, I used a Machine
+Learning approach called 'feature_importance' with a Random Forest model to
+select only the relevant features in the dataset.  
+• An accuracy metric called AUC ROC score was used to evaluate the performance
+of the model which essentially tell us how well separated our two classes are
+(classes: Bankrupt or Not Bankrupt)  
+• I achieved a descent score of 89% using this approach.  
+  
+PROJECTS ON GITHUB (https://github.com/riteshk28)  
+  
+• Designed and implemented Artificial Neural Network (ANN) model to predict if
+a user will churn from the bank or not.  
+• Designed and implemented Convolutional Neural Network (CNN) model to perform
+the task of image recognition.  
+• Created an Adaptive Boosting machine learning model to predict credit card
+defaulters.  
+• Performed K-Means clustering on the above same dataset of credit card
+default to evaluate the model's performance.  
+• Created a NLP model for IT service management which can detect issue
+category given its description without human intervention.  
+• Packaging a complete machine learning pipeline into docker and deploying it
+on AWS EC2 instance. (not on github)  
+• Developed a service desk chatbot using Chatterbot
+
+Problem Analyst
+
+Rave Technologies, a Northgate Public Service Company
+
+-
+
+January 2017 to March 2018
+
+Key Projects and responsibilities:-  
+Problem lead for multiple UK councils  
+  
+• Using Pareto Analysis to identify, categorize and prioritize problems hence
+increasing the stability of the environment.  
+• Creating Incident Trending Reports by analyzing incidents trends to find out
+reoccurring problems in the environment.  
+• Initiating the Problem tickets and driving it towards closure  
+• Performing root cause analysis techniques and coordinating with multiple
+teams to find out causation of the issue.  
+• Presenting problem trend reports to CSM's of UK councils.  
+• Leading problem management for multiple government UK councils.
+
+Incident Manager and Problem Analyst
+
+Wipro Technologies
+
+-
+
+Pune, Maharashtra
+
+-
+
+October 2014 to October 2016
+
+Key Projects and responsibilities:-  
+  
+• Monitoring the effectiveness of Incident Management Process  
+• Producing process and management information such as KPI, Incident trend,
+reports  
+• Managing and driving Major Incidents and processes associated with it.  
+• Following up on Incidents.  
+• Ensure timely closure of Incidents/Problem tickets  
+• Managing 24*7 Service Desk as a part of Service Desk Management.  
+• To ensure that service norms committed to the customer are met.  
+• Ensure all the customer complaints/issues are identified, to prepare Action
+plan for all Complaints received and drive till closure along with PM.  
+• Conduct weekly review meeting with team and identify gaps to take corrective
+action.  
+• Maintain SLA doc for all the activities performed by the team, collect
+performance data, analyze and publish  
+• Planning, driving and managing all the server and application patching
+activities.  
+• Ensure 100% availability of all applications.
+
+## Education
+
+Bachelor of Science in Physics
+
+University of Mumbai, Viva College
+
+-
+
+Virar, Maharashtra
+
+June 2014
+
+## Skills
+
+CITRIX (Less than 1 year), EXCHANGE (Less than 1 year), MICROSOFT EXCHANGE
+(Less than 1 year), PYTHON (Less than 1 year), VMWARE (Less than 1 year)
+
+## Links
+
+[https://github.com/riteshk28](https://www.indeed.com/url?q=https%3A%2F%2Fgithub.com%2Friteshk28&h=7d4d6e2a)
+
+## Additional Information
+
+SOFTWARE SKILLS  
+• Technologies: Wintel, Citrix, VMWare, Microsoft Exchange.  
+• Programming Languages: Python  
+• Development environments: Anaconda, Spyder, Pandas, Numpy, scikit-learn,
+Tensorflow, Jupyter notebook.  
+  
+Signature: Ritesh Kankonkar
+

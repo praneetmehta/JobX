@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block nav_menu %}
+{{ super() }}
+	<ul id="nav-mobile" class="right hide-on-med-and-down">
+  		<li><a href="/user"><span class="glyphicon glyphicon-user"></span> Welcom {{ session['user'] }}</a></li>
+  		<li><a href="/logout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+	</ul>
+{% endblock %}
+
+
+{% block page_content %}
+	<form action='/user/upload_file' method="POST" enctype='multipart/form-data'>
+		<h4>Upload your <b>Resume</b> here</h4>
+		<br>
+	    <p>
+	    	<div class="file-field input-field">
+		      <div class="btn">
+		        <span>File</span>
+		        <input type="file" name="file" multiple="">
+		      </div>
+		      <div class="file-path-wrapper">
+		        <input class="file-path validate" type="text">
+		      </div>
+		    </div>
+	    <input type='submit' class='wave btn' value='upload'>
+	    </p>
+	</form>
+	<script type="text/javascript">
+		{% for message in get_flashed_messages() %}
+			M.toast({html: '{{ message}}'})
+		{% endfor %}
+	</script>
+{% endblock%}

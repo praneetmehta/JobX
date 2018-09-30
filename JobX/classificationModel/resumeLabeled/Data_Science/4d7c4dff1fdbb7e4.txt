@@ -1,0 +1,125 @@
+-  
+  
+# Data Science Intern
+
+## Data Science Intern
+
+Dwarahat, Uttarakhand
+
+-
+
+## Work Experience
+
+Data Science Intern
+
+Valiance Solutions
+
+-
+
+Noida, Uttar Pradesh
+
+-
+
+January 2018 to March 2018
+
+Made a crawler which crawl data from list of sites. Then used NLP to extract
+information like names, address and about us. Build Neural Network from
+scratch and spam filter using TF-IDF.
+
+Python Developer
+
+EGiftsPortal
+
+-
+
+Noida, Uttar Pradesh
+
+-
+
+June 2017 to July 2017
+
+I worked as a Python Developer. Used scraping library BeautifulSoup to scrap
+data from various
+
+Also helped in email marketing
+
+ColoredCow
+
+-
+
+Gurgaon, Haryana
+
+-
+
+June 2016 to July 2016
+
+I worked as a Wordpress Developer. Followed Scrum methodology. Also integrated
+Google  
+Analytics to ColoredCow's site (Site in which I coordinated development at
+starting state)
+
+## Education
+
+BT Kumaon Institute of Technology
+
+May 2018
+
+Senior Secondary
+
+April 2014
+
+X (Secondary)
+
+April 2012
+
+CBSE
+
+Saraf Public School
+
+-
+
+Khatima, Uttarakhand
+
+CBSE
+
+Saraf Public School
+
+-
+
+Khatima, Uttarakhand
+
+## Skills
+
+BOOTSTRAP (Less than 1 year), C++ (Less than 1 year), CLASS (Less than 1
+year), COMPREHENSIVE LARGE ARRAY DATA STEWARDSHIP SYSTEM (Less than 1 year),
+COMPUTER VISION (Less than 1 year)
+
+## Additional Information
+
+TECHNICAL SKILLS  
+Programming Language: Python, C, C++  
+  
+Database: MySQL, MongoDB  
+  
+Machine Learning  
+  
+Library: Numpy, Pandas, Scikit-learn, Keras, Matplotlib, BeautifulSoup  
+  
+Web Development: HTML, CSS, JS, Bootstrap, PHP, WordPress  
+  
+Tools: Jupyter Notebook, Git, Sublime Text, MS EXCEL  
+  
+PROJECTS  
+● Final year project on Drowsiness Detection Using Computer Vision.  
+● Using Keras to build Neural Network to recognize handwritten digits.  
+● Using BeautifulSoup to scrape data from NSEindia website.  
+● Spam Detection using TF-IDF in Python.  
+PERSONAL TRAITS  
+● Leadership (Build up through being a Class Representative and Coordinator in
+the  
+different events of college)  
+● Written and Verbal Communication Skills  
+● Analytical Thinker  
+● Quick Learner and keen to learn and improve skills  
+● Patient Listener and Confident
+

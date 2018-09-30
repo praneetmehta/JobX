@@ -1,0 +1,29 @@
+Enfusion has openings for Analysts in our Mumbai office. We are looking for enthusiastic problem-solvers with an interest in financial services to join us as we continue providing technology innovation and support to the global investment management industry.
+
+Who We Are
+Enfusion is a global financial technology firm that builds software solutions for the investment management industry. Our flagship product, Integráta, is the only cloud-based, fully integrated front-to-back office platform on the market. Headquartered in Chicago, we have offices in New York, London, Dublin, Mumbai and Hong Kong.
+
+What You’ll Do
+
+    Take ownership of Integrata custom Position, Trade and Accounting reporting requirements for our hedge fund clients
+    Understand client relationships and common reporting to Counterparties, Prime Brokers, Executing Brokers, Fund Administrators, and Custodians
+    Troubleshoot P&L and accounting issues including instrument set-up, valuation, pricing and general ledger reconciliation
+    Setup various components in Integrata such as Funds, Brokers, Trade Commissions, GL, GL accounts, etc.
+    Work with global client facing Product Consulting team on daily tasks
+
+What We Offer
+
+    Competitive compensation and benefits package
+    Small team with growth opportunity
+    Entrepreneurial environment
+    Exposure to all aspects of the financial services industry
+
+Who We Need
+
+    Bachelor's degree in Finance, Accounting, Economics, Financial Math or related field
+    1-3 years of experience in Middle Office support role at a Hedge Fund, Prime Broker or Fund Administrator
+    Financial domain knowledge: Foreign Exchange (FX), NDFs, Derivatives (Interest Rates Swaps/Credit Default Swaps), Equities, Fixed Income and Options.
+    Javascript and Jenkins experience a plus
+    Detail-oriented and analytical
+    Ability to handle and prioritize multiple tasks and work independently
+    Excellent verbal and written communication skills

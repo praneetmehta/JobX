@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+
+{% block page_content %}
+	<div class="row" id="signup_form">
+	    <form class="col s12" method="POST" action="signup">
+	      <div class="row">
+	        <div class="input-field col s6">
+	          <i class="material-icons prefix">account_circle</i>
+	          <input id="first_name" type="text" name="first_name" autocorrect="off" class="validate">
+	          <label for="first_name">First Name</label>
+	        </div>
+	        <div class="input-field col s6">
+	          <i class="material-icons prefix">account_circle</i>
+	          <input id="last_name" type="text" name="last_name" autocorrect="off" class="validate">
+	          <label for="last_name">Last Name</label>
+	        </div>
+	      </div>
+	      <div class="row">
+	        <div class="input-field col s12">
+	          <i class="material-icons prefix">person</i>
+	          <input id="username" type="text" name="username" autocorrect="off" class="validate">
+	          <label for="username">Username</label>
+	        </div>
+	      </div>
+	      <div class="row">
+	        <div class="input-field col s12">
+	          <i class="material-icons prefix">fingerprint</i>
+	          <input id="password" type="password" name="password" class="validate">
+	          <label for="password">Password</label>
+	        </div>
+	      </div>
+	      <div class="row">
+	        <div class="input-field col s6">
+	          <i class="material-icons prefix">phone</i>
+	          <input id="contact" name="contact" type="text" autocorrect="off" class="validate">
+	          <label for="contact">Contact Number</label>
+	        </div>
+	        <div class="input-field col s6">
+	          <i class="material-icons prefix">account_circle</i>
+	          <input id="dob" type="text" name="dob" autocorrect="off" class="validate datepicker">
+	          <label for="dob">DOB</label>
+	        </div>
+	      </div>
+	      <div class="row">
+	        <div class="input-field col s12">
+	          <i class="material-icons prefix">email</i>
+	          <input id="email" type="email" name="email" autocorrect="off" class="validate">
+	          <label for="email">Email</label>
+	        </div>
+	      </div>
+	      <div class="row">
+	        <div class="input-field col s12">
+	         <button class="btn waves-effect waves-light cust-btn" type="submit" name="submit">Submit
+	             <i class="material-icons right">send</i>
+	           </button>
+	        </div>
+	      </div>
+	    </form>
+	  </div>
+
+	  <script type="text/javascript">
+	  	{% for message in get_flashed_messages() %}
+	  		M.toast({html: '{{ message}}'})
+	  	{% endfor %}
+	  	document.addEventListener('DOMContentLoaded', function() {
+	  	    var elems = document.querySelectorAll('.datepicker');
+	  	    var instances = M.Datepicker.init(elems, {"autoClose":true, "container":".container"});
+  	  	});
+	  </script>
+
+{% endblock %}
